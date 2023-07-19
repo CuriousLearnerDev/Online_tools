@@ -2,7 +2,8 @@
 
 > 工具箱网盘是用自己的服务器搭建多人下载速度很慢、可以支持一下作者
 
-![wxzf](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/wxzf.jpg)
+
+![image-20230719182625980](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230719182625980.png)
 
 > 使用工具遇到问题联系
 
@@ -20,7 +21,6 @@
 ## 工具大小
 
 ![image-20230630000023347](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230630000023347.png)
-
 
 
 ## 打包离线版本的方法
