@@ -1,6 +1,9 @@
 > 本工具源码无任何后门代码，工具箱里面的破解工具是否有后门就不清楚了大部分都是在别的公众号下载的，工具箱里面的不是破解版本的工具都是从官方下载的可以放心使用！
 
-> 工具箱网盘是用自己的服务器搭建多人下载速度很慢
+> 目前最大的问题就是网盘问题，你们下载的时候安装失败基本上都是后端提供下载的网盘出现问题了，之前工具下载是调用的阿里云，时间长点就会封号，现在部分工具下载放到的我的服务器，服务器的带宽很小下载人多就会下载速度很慢
+![image-20230722184548920](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722184548920.png)
+
+
 
 > 有好用的工具可以投稿邮箱2737977997@qq.com或者联系作者本人
 
@@ -16,18 +19,17 @@
 - 火柬
 - 向
 
-
-
-
-
-
 ## 工具包介绍
 
 > 该工具是一个类似软件商城的工具可以进行工具下载，工具的更新，工具编写了自动化的安装脚本，不用担心工具跑不起来
 
 ## 工具大小
 
-![image-20230630000023347](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230630000023347.png)
+源代码大概六千多行代码、最终打包12MB
+
+![image-20230722184155004](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722184155004.png)
+
+
 
 
 ## 打包离线版本的方法
@@ -36,44 +38,38 @@
 
 ![image-20230528074624279](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230528074624279.png)
 
-> 离线打包好的链接：https://pan.baidu.com/s/1R4eAe8BsMjoNTHG_vNVu5g 提取码：cg6o
 
 
 ## 工具更新方法
 
-如果下载了0.22版本要更新使用0.22.1版本把0.22.1版本的文件覆盖0.22文件就可以了，就可以直接使用0.22.1版本了
-
-![image-20230629235913453](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230629235913453.png)
+如果下载了0.22或者之前版本要更新使用0.3.1版本，把0.3.1版本的文件覆盖0.22.1或者之前版本文件就可以了，就可以直接使用0.3.1版本了
 
 覆盖就可以了
 
-![image-20230629235930844](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230629235930844.png)
+![image-20230722224754670](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722224754670.png)
 
-## 工具使用说明
 
-我就用0.22版本说明和0.22.1版本没有啥区别
+## 简单工具使用说明
 
-1. 启动和下载的时候有一个cmd和窗口可以看见执行的状态
+1. 我们把鼠标放到工具图标上可以看工具的介绍
 
-   ![image-20230610124449520](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230610124449520.png)
+   ![image-20230722222616681](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722222511024.png)
 
-2. 我们把鼠标放到工具图标上可以看工具的介绍
+2. 下载好的工具可以叫鼠标放到打开按钮上可以看见版本
 
-   ![image-20230610123854530](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230610123854530.png)
+   ![image-20230722222616681](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722222616681.png)
 
-3. 下载好的工具可以叫鼠标放到打开按钮上可以看见版本
-
-   ![image-20230610123930088](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230610123930088.png)
-
-4. 查看可以根据更新的工具
+3. 查看可以根据更新的工具
 
    点击查看更新、里面的工具是可以官方版本更新我在推送到网盘里面你们可以进行工具的更新
 
    <font color=FF0000> （工具箱里面的工具如果作者更新频繁、我这边会添加到可以更新名单里面、如果半年多以上没有更新的我没有添加更新列表里面） </font>
-
-   ![image-20230610123313793](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230610123313793.png)
-
-    ```
+   
+   ![image-20230722223359183](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722223359183.png)
+   
+   可以更新的
+   
+   ```
    工具名CMSeeK：1.1.3版本
    工具名FofaViewer：1.1.12版本
    工具名Dirsearch：0.4.3版本
@@ -99,19 +95,53 @@
    工具名naabu：2.1.6版本
    工具名dnsx：1.1.4版本
    工具名subfinder：2.6.0版本
-    ```
-
-5. 检查可以更新的工具
-
-   ![image-20230610123506954](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230610123506954.png)
-
+   ```
+   
+4. 检查可以更新的工具
+   ![image-20230722223328554](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722223328554.png)
    我们可以工具更新
+   ![image-20230722223555128](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722223555128.png)
 
-   ![image-20230610123747012](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230610123747012.png)
+## v0.3.公测试版更新功能
+增加新工具
+- Yasso
+- Fofax
+- zpscan
+- pydictor
+- mdut（Multiple Database Utilization Tools）
+- Apt_t00ls
+- 中国菜刀2016
 
-6. 下面云服务可以看见云盘状态
+新功能添加
 
-   ![image-20230610124025944](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230610124025944.png)
+1. 取消了运行cmd的状态窗口
+
+   取消了下面的cmd运行状态窗口
+
+2. 下载功能更新
+
+   增加显示到了状态里面
+
+   ![image-20230722183455076](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722183455076.png)
+
+   3. 工具卸载功能
+
+   ![image-20230722182133585](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722182133585.png)
+
+![image-20230722182217086](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722182217086.png)
+
+4. 在线工具箱本身更新检查
+   ![image-20230722182752832](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722182752832.png)
+
+5. 两个工具页
+
+   应为新的工具一页放不下增加了一页
+
+6. 解压功能
+
+   解压的时候会弹出解压框，解压完成自动关闭解压框
+   
+
 
 ## v0.22.1修复公测试版更新功能
 
