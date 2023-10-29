@@ -26,9 +26,11 @@
 
 ## 工具大小
 
-源代码大概六千多行代码、最终打包12MB
 
-![image-20230722184155004](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722184155004.png)
+
+源代码还是和上个公测版差不多，搞了一点代码的优化，最终写完还是和上个公测版差不多有六千多行、最后打包12MB
+
+![image-20231029205331674](Explanationphoto/image-20231029205331674.png)
 
 
 
@@ -37,73 +39,75 @@
 
 工具和启动环境都会下载到`storage`文件夹里面，把这三文件夹压缩就就可以了，到其他系统不需要在从工具箱里面的工具了
 
-![image-20230528074624279](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230528074624279.png)
+![image-20230528074624279](Explanationphoto/image-20230528074624279.png)
 
 
 
 ## 工具更新方法
 
-如果下载了0.22或者之前版本要更新使用0.3.1版本，把0.3.1版本的文件覆盖0.22.1或者之前版本文件就可以了，就可以直接使用0.3.1版本了
+如果下载了0.3.1或者之前版本要更新使用0.3.5版本，把0.3.5版本的文件覆盖0.3.1或者之前版本文件就可以了，就可以直接使用0.3.5版本了
 
 覆盖就可以了
 
-![image-20230722224754670](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722224754670.png)
-
+![image-20231029210044074](Explanationphoto/image-20231029210044074.png)
 
 ## 简单工具使用说明
 
 1. 我们把鼠标放到工具图标上可以看工具的介绍
 
-   ![image-20230722222616681](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722222511024.png)
+   ![image-20231029210817690](Explanationphoto/image-20231029210817690.png)
 
 2. 下载好的工具可以叫鼠标放到打开按钮上可以看见版本
 
-   ![image-20230722222616681](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722222616681.png)
+   ![image-20231029210935196](Explanationphoto/image-20231029210935196.png)
 
 3. 查看可以根据更新的工具
 
    点击查看更新、里面的工具是可以官方版本更新我在推送到网盘里面你们可以进行工具的更新
 
    <font color=FF0000> （工具箱里面的工具如果作者更新频繁、我这边会添加到可以更新名单里面、如果半年多以上没有更新的我没有添加更新列表里面） </font>
-   
-   ![image-20230722223359183](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722223359183.png)
-   
-   可以更新的
-   
-   ```
-   工具名CMSeeK：1.1.3版本
-   工具名FofaViewer：1.1.12版本
-   工具名Dirsearch：0.4.3版本
-   工具名AntSword：2.1.15版本
-   工具名Behinder：4.0.6版本
-   工具名webshell_generate：1.2.2版本
-   工具名Hashcat：6.2.6版本
-   工具名sqlmap：1.7.5.2版本
-   工具名sqlmapCN：1.7.1.1版本
-   工具名xray：1.9.4版本
-   工具名POCbombe：2.03版本
-   工具名LiqunKit：1.6.2版本
-   工具名goby_Red_Team：2.4.7红队版1490POC版本
-   工具名goby_Community：2.4.7社区版1490POC版本
-   工具名BorpSuite：2023.5版本
-   工具名OneForAll：0.4.5版本
-   工具名Full_Scanner：gui版本
-   工具名WeblogicTool：1.1版本
-   工具名afrog：2.5.1版本
-   工具名fscan：1.8.2版本
-   工具名BlueTeamTools：0.52版本
-   工具名OAEXPTOOL：0.72版本
-   工具名naabu：2.1.6版本
-   工具名dnsx：1.1.4版本
-   工具名subfinder：2.6.0版本
-   ```
-   
-4. 检查可以更新的工具
-   ![image-20230722223328554](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722223328554.png)
-   我们可以工具更新
-   ![image-20230722223555128](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722223555128.png)
 
-## v0.3.公测试版更新功能
+   ![image-20231029211049902](Explanationphoto/image-20231029211049902.png)
+
+   可以更新的
+
+   ![image-20231029211206503](Explanationphoto/image-20231029211206503.png)
+
+4. 检查可以更新的工具
+
+   ![image-20231029211524464](Explanationphoto/image-20231029211524464.png)
+
+   我们可以工具更新
+
+   ![image-20231029211630967](Explanationphoto/image-20231029211630967.png)
+
+## v0.3.5增加新工具
+- cs 4.9
+- nuclei
+- woodpecker_framework
+- EHole
+- 天蝎权限管理工具
+- ARDM（AnotherRedisDesktopManager）
+- MYExploit
+- Cloud_Bucket_Leak_Detection_Tools
+- SvnExploit
+- dumpall
+- FastjsonScan
+- dalfox
+- fiddler中文版
+- Charles中文版
+- Seay
+- Wireshark
+新功能添加
+
+这个版本添加了一个网盘检测功能，可以检测网盘的工具包的状况，这个是因为在之前版本里面很多下载不了，或者是安装失败，基本上都是工具网盘的问题，所以添加了这个检测的功能
+
+![image-20231029210550464](Explanationphoto/image-20231029210550464.png)
+
+![image-20231029210626424](Explanationphoto/image-20231029210626424.png)
+
+## v0.3.1公测试版更新功能
+
 增加新工具
 - Yasso
 - Fofax
@@ -123,16 +127,16 @@
 
    增加显示到了状态里面
 
-   ![image-20230722183455076](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722183455076.png)
+   ![image-20230722183455076](Explanationphoto/image-20230722183455076.png)
 
    3. 工具卸载功能
 
-   ![image-20230722182133585](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722182133585.png)
+   ![image-20230722182133585](Explanationphoto/image-20230722182133585.png)
 
-![image-20230722182217086](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722182217086.png)
+![image-20230722182217086](Explanationphoto/image-20230722182217086.png)
 
 4. 在线工具箱本身更新检查
-   ![image-20230722182752832](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230722182752832.png)
+   ![image-20230722182752832](Explanationphoto/image-20230722182752832.png)
 
 5. 两个工具页
 
@@ -152,7 +156,7 @@
 
 2. 还有就是下载工具的时候调用的系统命令进行下载的新版本的windows系统下载可能没有问题但是老版本的windows系统就无法下载，然后增加了内置下载程序无需在调用系统命令进行下载
 
-![image-20230701112129639](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230701112129639.png)
+![image-20230701112129639](Explanationphoto/image-20230701112129639.png)
 
 ## v0.22测试版更新功能
 
@@ -164,31 +168,31 @@
 
 1. 鼠标放到工具图标上可以看见工具的简单说明
 
-   ![image-20230528073006886](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230528073006886.png)
+   ![image-20230528073006886](Explanationphoto/image-20230528073006886.png)
 
 2. 添加了更新功能、点击查看更新、里面的工具是可以官方版本更新我在推送到网盘里面你们可以进行工具的更新
 
    <font color=FF0000> （工具箱里面的工具如果作者更新频繁、我这边会添加到可以更新名单里面、如果半年多以上没有更新的我没有添加更新列表里面） </font>
 
-   ![image-20230528073138197](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230528073138197.png)
+   ![image-20230528073138197](Explanationphoto/image-20230528073138197.png)
 
    点击检查更新
 
-   ![image-20230528073531842](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230528073531842.png)
+   ![image-20230528073531842](Explanationphoto/image-20230528073531842.png)
 
    我们就可以进行工具的升级
 
-   ![image-20230528073653497](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230528073653497.png)
+   ![image-20230528073653497](Explanationphoto/image-20230528073653497.png)
 
 3. 下面好的工具我们可以叫鼠标放到按钮上查看工具版本
 
-   ![image-20230528074047012](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230528074047012.png)
+   ![image-20230528074047012](Explanationphoto/image-20230528074047012.png)
 
 4. 添加测试网盘是否正常，很多不可控因素不正常你们工具就下载不了，不正常可以联系我，会进行修复
 
    如果是没有连接网络会报下面的情况
 
-   ![image-20230528074509194](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230528074509194.png)
+   ![image-20230528074509194](Explanationphoto/image-20230528074509194.png)
 
 
 
@@ -202,7 +206,7 @@
 
 工具大小非常小！！！！py打包的文件很大5555
 
-![image-20230516210735728](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230516210735728.png)
+![image-20230516210735728](Explanationphoto/image-20230516210735728.png)
 
 ## 免责声明：
 
