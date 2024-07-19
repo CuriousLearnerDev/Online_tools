@@ -42,116 +42,135 @@
 现工具集成了有
 
 - 常用工具
-  NC工具
-  BorpSuite社区版
-  BorpSuite专业版
-  sqlmap
-  nmap
-  yakit
-  hashcat
-  nuclei
-  xray
-  goby社区版
+  - NC工具
+  - BorpSuite社区版
+  - BorpSuite专业版
+  - sqlmap
+  - nmap
+  - yakit
+  - hashcat
+  - nuclei
+  - xray
+  - goby社区版
+
 - OA/应用漏洞利用工具
-  MYExploit
-  OA-EXPTOOL
-  通达OA利用工具
-  Nacos利用工具
-  大华漏洞工具
+  - MYExploit
+  - OA-EXPTOOL
+  - 通达OA利用工具
+  - Nacos利用工具
+  - 大华漏洞工具
+
 - 中间件/CMS/框架漏洞利用工具
-  FastjsonScan
-  WeblogicTool
-  Struts2
-  ShiroAttack2
-  ShiroExp
-  ThinkPHP综合工具
-  ThinkPHP利用莲花
-  Jboss漏洞工具
-  SBSCAN
-  漏洞集合工具
-  综合类工具
-  LiqunKit
-  Full-Scanner
-  Yasso
-  Apt_t00ls
-  JNDIExploit
-  JNDIInjection
+  - FastjsonScan
+  - WeblogicTool
+  - Struts2
+  - ShiroAttack2
+  - ShiroExp
+  - ThinkPHP综合工具
+  - ThinkPHP利用莲花
+  - Jboss漏洞工具
+  - SBSCAN
+  - 漏洞集合工具
+  - 综合类工具
+  - LiqunKit
+  - Full-Scanner
+  - Yasso
+  - Apt_t00ls
+  - JNDIExploit
+  - JNDIInjection
+
 - webshell管理工具
-  天蝎权限管理工具
-  中国蚁剑
-  冰蝎3.0
-  冰蝎
-  哥斯拉
-  webshell生成工具
-  中国菜刀
+  - 天蝎权限管理工具
+  - 中国蚁剑
+  - 冰蝎3.0
+  - 冰蝎
+  - 哥斯拉
+  - webshell生成工具
+  - 中国菜刀
+
 - 内存马工具
-  arthas-boot-Linux
+  - arthas-boot-Linux
+
 - 应急响应工具
-  BlueTeamTools
-  河马webshell查杀
-  D盾
-  火绒剑
-  PCHunter(手工杀毒)
-  Procexp(官方)
-  Procexp(中文)
-  GScan-Linux
+  - BlueTeamTools
+  - 河马webshell查杀
+  - D盾
+  - 火绒剑
+  - PCHunter(手工杀毒)
+  - Procexp(官方)
+  - Procexp(中文)
+  - GScan-Linux
+
 - 代码审计工具
-  Seay
-  Code-audit
+  - Seay
+  - Code-audit
+
 - 抓包类工具
-  Fiddler中文版
-  Charles中文版
-  Wireshark
+  - Fiddler中文版
+  - Charles中文版
+  - Wireshark
+
 - 爆破工具
-  超级加解密转换
-  hydra
-  社工密码生成器
-  SNETCracker
-  pydictor
+  - 超级加解密转换
+  - hydra
+  - 社工密码生成器
+  - SNETCracker
+  - pydictor
+
 - 数据库利用工具
-  sqlmap中文版
-  MDUT
-  ARDM
+  - sqlmap中文版
+  - MDUT
+  - ARDM
+
 - XSS漏洞利用工具
-  XSStrike
-  dalfox
+  - XSStrike
+  - dalfox
+
 - 漏洞扫描工具
-  POC-bomber
-  afrog
-  fscan
-  Packer-Fuzzer
-  woodpecker
+  - POC-bomber
+  - afrog
+  - fscan
+  - Packer-Fuzzer
+  - woodpecker
+
 - 子域名探测工具
-  Layer子域名挖掘
-  subfinder
-  DnsX
-  OneForAll
-  OneLong
+  - Layer子域名挖掘
+  - subfinder
+  - DnsX
+  - OneForAll
+  - OneLong
+
 - 端口扫描工具
-  Naabu
+  - Naabu
+
 - 目录扫描工具
-  御剑后台扫描珍藏
-  Dirsearch
+  - 御剑后台扫描珍藏
+  - Dirsearch
+
 - 资产收集类工具
-  FofaViewer
-  Fofax
-  Search_Viewer
+  - FofaViewer
+  - Fofax
+  - Search_Viewer
+
 - 信息泄露类工具
-  云存储泄露工具
-  SvnExploit
-  Dumpall
+  - 云存储泄露工具
+  - SvnExploit
+  - Dumpall
+
 - 指纹识别工具
-  CMSeeK
-  Wafw00f
-  EHole
+  - CMSeeK
+  - Wafw00f
+  - EHole
+
 - 其他信息收集类工具
-  RouterScan中文
-  zpscan
+  - RouterScan中文
+  - zpscan
+
 - 插件
-  HaE
-  xiaSQL
-  nowafpls
-  LSTAR
+  - HaE
+  - xiaSQL
+  - nowafpls
+  - LSTAR
 
 # 下载链接滥用问题
 
