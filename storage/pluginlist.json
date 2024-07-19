@@ -1,0 +1,28 @@
+{
+    "Plugin_List": {
+        "BurpSuite": {
+            "HaE": {
+                "introduce": "HaE该插件可以通过自定义正则的方式匹配响应报文或请求报文，并对满足正则匹配的报文进行信息高亮与提取",
+                "r": "W0apnpa5hh8eIXDsR6Yh8/9LnlllP+5s/zyvN/CgoBZbdPA+Isrl5clQ6MhjUzQo",
+                "custom": ""
+            },
+            "xiaSQL": {
+                "introduce": "在每个参数后面填加一个单引号，两个单引号，一个简单的判断注入小插件",
+                "r": "W0apnpa5hh8eIXDsR6Yh8z2+mGa7vXhc9obIuKDNyckXjfJ6g7Fvm9qBtM+tW8KB",
+                "custom": ""
+            },
+            "nowafpls": {
+                "introduce": "通过插入垃圾数据绕过WAF的Burp插件",
+                "r": "W0apnpa5hh8eIXDsR6Yh8zcPjP2VSSYFEVZaLsetyBjdUcQLsXlfelTSY/bmzr11",
+                "custom": ""
+            }
+        },
+        "CobaltStrike": {
+            "LSTAR": {
+                "introduce": "CobaltStrike 综合后渗透插件",
+                "r": "W0apnpa5hh8eIXDsR6Yh84qaz03DRHAJiOzGQKdwHqWr1Vlg7Z6Tt3LYkmgmDwcn",
+                "custom": ""
+            }
+        }
+    }
+}
