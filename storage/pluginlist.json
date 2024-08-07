@@ -1,28 +1,58 @@
 {
     "Plugin_List": {
-        "BurpSuite": {
-            "HaE": {
-                "introduce": "HaE该插件可以通过自定义正则的方式匹配响应报文或请求报文，并对满足正则匹配的报文进行信息高亮与提取",
-                "r": "W0apnpa5hh8eIXDsR6Yh8/9LnlllP+5s/zyvN/CgoBZbdPA+Isrl5clQ6MhjUzQo",
-                "custom": ""
-            },
-            "xiaSQL": {
-                "introduce": "在每个参数后面填加一个单引号，两个单引号，一个简单的判断注入小插件",
-                "r": "W0apnpa5hh8eIXDsR6Yh8z2+mGa7vXhc9obIuKDNyckXjfJ6g7Fvm9qBtM+tW8KB",
-                "custom": ""
-            },
-            "nowafpls": {
-                "introduce": "通过插入垃圾数据绕过WAF的Burp插件",
-                "r": "W0apnpa5hh8eIXDsR6Yh8zcPjP2VSSYFEVZaLsetyBjdUcQLsXlfelTSY/bmzr11",
-                "custom": ""
-            }
+    "BurpSuite": {
+        "HaE": {
+            "introduce": "HaE该插件可以通过自定义正则的方式匹配响应报文或请求报文，并对满足正则匹配的报文进行信息高亮与提取",
+            "r": "http://www.yqinabojalhw.xyz/v2/HaE.txt",
+            "custom": ""
         },
-        "CobaltStrike": {
-            "LSTAR": {
-                "introduce": "CobaltStrike 综合后渗透插件",
-                "r": "W0apnpa5hh8eIXDsR6Yh84qaz03DRHAJiOzGQKdwHqWr1Vlg7Z6Tt3LYkmgmDwcn",
-                "custom": ""
-            }
+        "xiaSQL": {
+            "introduce": "在每个参数后面填加一个单引号，两个单引号，一个简单的判断注入小插件",
+            "r": "http://www.yqinabojalhw.xyz/v2/xiaSQL.txt",
+            "custom": ""
+        },"nowafpls": {
+            "introduce": "通过插入垃圾数据绕过WAF的Burp插件",
+            "r": "http://www.yqinabojalhw.xyz/v2/nowafpls.txt",
+            "custom": ""
+        },"Log4j2Scan": {
+            "introduce": "该工具为被动扫描Log4j2漏洞CVE-2021-44228的BurpSuite插件，具有多DNSLog（后端）平台支持，支持异步并发检测、内网检测、延迟检测等功能。",
+            "r": "http://www.yqinabojalhw.xyz/v2/Log4j2Scan.txt",
+            "custom": ""
+        },"FastjsonScan_bp": {
+            "introduce": "一个简单的Fastjson反序列化检测burp插件",
+            "r": "http://www.yqinabojalhw.xyz/v2/FastjsonScan_bp.txt",
+            "custom": ""
         }
+    },
+    "CobaltStrike": {
+        "LSTAR": {
+            "introduce": "CobaltStrike 综合后渗透插件",
+            "r": "http://www.yqinabojalhw.xyz/v2/LSTAR.txt",
+            "custom": ""
+        },
+        "CrossC2_All": {
+            "introduce": "支持CobaltStrike对其他平台(Linux/MacOS/...)的安全评估，及包含Unix后渗透模块开发支持",
+            "r": "http://www.yqinabojalhw.xyz/v2/CrossC2_All.txt",
+            "custom": ""
+        }
+    },
+    "爆破字典": {
+        "实战沉淀字典": {
+            "introduce": "实战沉淀字典",
+            "r": "http://www.yqinabojalhw.xyz/v2/SecDictionary.txt",
+            "custom": ""
+        }
+    },"谷歌浏览器插件": {
+    "FindSomething2.0.18": {
+            "introduce": "在网页的源代码或js中找到一些有趣的东西",
+            "r": "http://www.yqinabojalhw.xyz/v2/FindSomething",
+            "custom": ""
+    },
+    "ProxySwitchyOmega": {
+            "introduce": "轻松快捷地管理和切换多个代理设置",
+            "r": "http://www.yqinabojalhw.xyz/v2/ProxySwitchyOmega",
+            "custom": ""
     }
+    }
+  }
 }
