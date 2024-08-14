@@ -1,6 +1,9 @@
 
 > 有好用的工具可以投稿到这https://github.com/CuriousLearnerDev/Online_tools/issues/35
 
+免费打包离线版下载地址：
+百度网盘：https://pan.baidu.com/s/1YLF-Y4fyDQjA3P3aHJMLsQ 提取码：o58a 
+夸克网盘：https://pan.quark.cn/s/be09ce8f34ff提取码：TLBj
 
 
 ## 非常感谢下面的团队和信息安全研究人员的一些工具推荐
