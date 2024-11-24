@@ -1,8 +1,6 @@
 
 > 有好用的工具可以投稿到这https://github.com/CuriousLearnerDev/Online_tools/issues/35
 
-
-
 ## 非常感谢下面的团队和信息安全研究人员的一些工具推荐
 
 - 天启实验室
@@ -17,135 +15,114 @@
 - 向
 - st.ANGER
 - 远方
-
-该版本主要是增加和优化0.7.0版本
-
-## 简介
-
-现在是在hw期间突然通过某些漏洞攻击进来了去做应急发现工具时候没有好的工具，又突然一些排查命令记不全就很尴尬很浪费时间的这个版本增加了应急响应工具一键打包功能
-
-全部的应急响应工具都是严格排查是否存在后门程序，避免用U盘拷到服务器上面误报毒（前几天深有体会！）
-
-应急文章还在写，这几天会更新
-
-这个版本最大的遗憾就是我把“搜索功能”给砍掉了后面版本会在加上
-
-更新详情请往下看
+- start
 
 ## 工具介绍
 
-该工具是一个类似软件商城的工具可以进行工具和各种插件下载，工具的卸载，工具的更新，工具编写了自动化的安装脚本，不用担心工具跑不起来
+该工具是一个信息安全测试真单兵武器库，类似软件商城的工具可以进行工具和各种插件下载，工具的卸载，工具的更新，工具编写了自动化的安装脚本，不用担心工具跑不起来
 
 ## 漏洞库系统介绍
 
-关于漏洞采集系统，最近基本上花了很长时间去写自动化漏洞采集系统他会自动化爬取微信公众号漏洞Poc，Gihtub采集漏洞代码采集，监控各种漏洞平台（x里云，x安信，x创宇，x盟等）判断采集利用Poc，会根据漏洞名称是否有POC/EXP提取关键字自动化去搜索引擎（支持谷歌、Bing）和Gihub搜索爬取和提取数据，监控xxhub、nuclei、exploitdb等漏洞利用平台
+关于漏洞采集系统：
 
-目前总采集5万多个漏洞
+1.5版本基本上花了很长时间去写自动化漏洞采集系统他会自动化爬取微信公众号漏洞Poc，Gihtub采集漏洞代码采集，监控各种漏洞平台（x里云，x安信，x创宇，x盟等）判断采集利用Poc，会根据漏洞名称是否有POC/EXP提取关键字自动化去搜索引擎（支持谷歌、Bing）和Gihub搜索爬取和提取数据，监控xxhub、nuclei、exploitdb等漏洞利用平台
 
-本来开发就是放工具箱里面的，最后思考决定为了安全考虑不会公开该漏洞库
+2.0主要新增了github内容的漏洞exp/poc的监控，目前漏洞采集近6w，安全考虑目前还不对放公开版统领工具开放
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/Peek.gif)
+![](Explanationphoto/Peek%202024-11-24%2015-52_compressed.gif)
 
 ## 工具大小
 
-这个是在0.7.0版本基础之上写的还是使用的python的tk总体打包起来程序很小，如下：
+该工具使用的是Tkinter开发，Tkinter开发小工具还好，功能界面越复杂开发起来真的要吐血了，最终打包
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240806201420799.png)
+大小如下：
 
-## 严重问题修复
+![](Explanationphoto/image-20241124120406236.png)
 
-- 认证问题修复
-- 部分地区无法打开下载卡死修复
+## 0.8.0更新新增
 
-## 新版本界面更新说明
+- 界面美化
+- 新增应用界面
+- 新增右键工具图片快速工具文档使用（2024年11月23日目前已经更了nc、sqlmap、360星图、subfinder、nmap使用文档后续持续更新）
+- 界面布局修改
+- 新增在线资料库（目前只能查看在线资料后续更新）
 
-### 1、简单的界面
+## 新版本界面更
 
-第一次打开工具会有一个提示选择全显示和分类显示
+python的tk开发美化成这样了已经很难了，美化的快吐了，tk开发小工具还好开发大点功能的东西就得吐血了！
 
-1、 全工具显示
+![](Explanationphoto/image-20241124123550450.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240806201519443.png)
+![](Explanationphoto/image-20241124121242689.png)
 
-2、分类显示
+![](Explanationphoto/image-20241124121825846.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240806202008415.png)
+![](Explanationphoto/image-20241124121954350.png)
 
-然后后面想设置，可以在设置里面设置
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240806202552415.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240807192057914.png)
-
-### 2、右键查看工具使用教程
-
-目前我还在整理现在有时候比较忙没有时间搞，后面有更新，后面你点击更新会更新工具使用教程
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240806202639994.png)
-
-### 3、一键打包
-
-可以一键打包全部和打包防守工具（只打包已经下载好的）打包格式是zip格式
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240806202818829.png)
-
-### 4、工具优化
-
-这个版本优化的太多了下面简单说一下
-
-- 下载完成后安装完成提示确定点击后关闭下载窗口
-- 下载完插件提示确定自动打开下载好的插件路径
-- 等等等。。。。。
+![](Explanationphoto/image-20241124135207702.png)
 
 ## 工具使用
 
-### 全部工具命令行提供启动说明
+### 1、命令行启动显示
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240806204655198.png)
+命令行模式的工具都会有运行说明
 
-### 查看工具介绍
+![](Explanationphoto/image-20241124140241082.png)
 
-鼠标放到工具名上面
+### 2、工具更新
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240806204849385.png)
+如果要检查工具有没有更新可以点击【检查更新】（他会检查新增和更新的工具）
 
-### 工具卸载和打开目录和官方
+![](Explanationphoto/image-20241124133206708.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240806204944294.png)
+![](Explanationphoto/image-20241124133240875.png)
 
-### 工具新增更新
+![](Explanationphoto/image-20241124133428407.png)
 
-如果想检测工具是否有更新和新增工具更新可以点击这个，他会检测你是否有工具更新，和新工具增加
+看见有新工具增加了
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240714194417972.png)
+![](Explanationphoto/image-20241124133633972.png)
 
-新工具增加
+### 3、查看工具使用文档
 
-比如没有新增工具没有goby工具
+2024年11月23日目前已经更了(nc、sqlmap、360星图、subfinder、nmap使用文档后续持续更新）
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240714194820682.png)
+右键图标下载文档
 
-点击更新可以看见该工具更新增加上了
+![](Explanationphoto/image-20241124134007640.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240714194916775.png)
+然后右键打开
 
+![](Explanationphoto/image-20241124134041991.png)
 
+### 4、工具设置
 
-### 检查工具更新
+可以根据自己的设置界面样式
 
-也是点击这个
+![](Explanationphoto/image-20241124134213294.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240714194417972.png)
+上面图片里面不是有一个设置网络请求吗，这个关闭的时候该工具就不会检查发送然后外部请求了（比如启动程序的时候他会自动检查更新和更新公告内容）
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240714195634338.png)
+可以设置界面显示
 
-### 添加自己下载连接
+![image-20241124135505368](Explanationphoto/image-20241124135505368.png)
+
+有三种选择
+
+如下：
+
+![](Explanationphoto/image-20241124135540826.png)
+
+![](Explanationphoto/image-20241124135605119.png)
+
+![](Explanationphoto/image-20241124135645617.png)
+
+### 5、添加自己下载连接
 
 如果自己有服务器可以打包我的包然后上传服务器叫下载地址放到
 
 全部的工具下载配置文件在storage/toollist.json文件里面里面有一个空的参数
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240715141617548.png)
+![](Explanationphoto/image-20240715141617548.png)
 
 这个参数就是对用的工具自定义下载地址，支持7z、zip、rar压缩方式
 
@@ -153,7 +130,7 @@
 
 叫下载好的工具把上传到服务器
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240715141746950.png)
+![](Explanationphoto/image-20240715141746950.png)
 
 上传到服务器上面
 
@@ -161,7 +138,7 @@
 
 然后叫这个下载链接放到custom里面，
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240715142110038.png)
+![](Explanationphoto/image-20240715142110038.png)
 
 他就不会调用作者的下载地址了
 
@@ -173,11 +150,11 @@
 
 界面依旧很丑！
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209114217925.png)
+![](Explanationphoto/image-20231209114217925.png)
 
 我们随便点击一个添加按钮，如果我点击了是那个按钮就会自定义工具添加到选择的一行里面
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209114353122.png)
+![](Explanationphoto/image-20231209114353122-173243852371227.png)
 
 - 第一个工具名称：这个没有什么好说的就是添加的工具名称
 - 第二个工具显示位置：我们叫图标的显示的位置
@@ -202,19 +179,19 @@
 
 比如我添加一个工具位置是1
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209114852295.png)
+![](Explanationphoto/image-20231209114852295-173243852702829.png)
 
 然后这个工具是在这
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209114921894.png)
+![](Explanationphoto/image-20231209114921894-173243852829331.png)
 
 然后我添加一个大于等于2的位置他就会下面这样
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209115044884.png)
+![](Explanationphoto/image-20231209115044884-173243852958133.png)
 
 然后这个工具的位置就变成了这样
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209115215153.png)
+![](Explanationphoto/image-20231209115215153-173243853082735.png)
 
 #### 3、第三个工具图标：
 
@@ -222,25 +199,25 @@
 
 #### 4、第四个程序启动的文件：
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209120224387.png)
+![](Explanationphoto/image-20231209120224387-173243853454237.png)
 
 这个启动是文件就是然后你是比如sqlmapq启动文件就是如下
 
 下面就是sqlmap的启动文件
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209115717673.png)
+![](Explanationphoto/image-20231209115717673-173243853652539.png)
 
 在如果比如是冰蝎工具
 
 下面是他的启动文件
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209115839323.png)
+![](Explanationphoto/image-20231209115839323-173243853864241.png)
 
 在在如果是goby
 
 下面是他的启动文件
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209120015171.png)
+![](Explanationphoto/image-20231209120015171-173243854100143.png)
 
 #### 5、第五个工具版本：
 
@@ -248,15 +225,15 @@
 
 下面这个输入什么图标版本就显示什么
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209120413443.png)
+![](Explanationphoto/image-20231209120413443-173243854274745.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209120449061.png)
+![](Explanationphoto/image-20231209120449061-173243854408247.png)
 
 #### 6、第六个选择启动环境
 
 这个一共有4个选择可以选择python3.8、JDK8、JDK20、无需环境这几个选项
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209120819600.png)
+![](Explanationphoto/image-20231209120819600-173243854559149.png)
 
 这个选择如果你是sqlmap这样的python的运行环境你就选择运行环境
 
@@ -264,11 +241,11 @@
 
 图片
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209121344595.png)
+![](Explanationphoto/image-20231209121344595.png)
 
 在运行源码层面上其实比这个复杂一点，如果是命令行程序会生成一个一个start的文件夹然后在创建一个文件里面会生成一个工具的启动文件，你们用户就不用了考虑怎么多选择就完事了，GUI点点就完事了
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209121613163.png)
+![](Explanationphoto/image-20231209121613163-173243854849752.png)
 
 
 
@@ -282,7 +259,7 @@
 
 这个就是我们运行的后面的参数，比如我们运行一个nmap -h，这个-h就是我们添加的默认启动的参数（可以忽略不加也可以）
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209122156799.png)
+![](Explanationphoto/image-20231209122156799-173243855157554.png)
 
 简单大概下面这样
 
@@ -294,13 +271,13 @@
 
 我在github叫sqlmap下载下来然后解压出来了，在`C:\sqlmap-master`
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209132442416.png)
+![](Explanationphoto/image-20231209132442416-173243855429956.png)
 
 
 
 然后添加就这样添加
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209132711891.png)
+![](Explanationphoto/image-20231209132711891-173243855660358.png)
 
 添加完成这个就显示了
 
@@ -312,7 +289,49 @@
 
 
 
-# 之前版本
+## 之前版本
+
+
+
+## 新版本界面更新说明
+
+### 1、简单的界面
+
+第一次打开工具会有一个提示选择全显示和分类显示
+
+1、 全工具显示
+
+![](img/image-20240806201519443.png)
+
+2、分类显示
+
+![](img/image-20240806202008415.png)
+
+然后后面想设置，可以在设置里面设置
+
+![](img/image-20240806202552415.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240807192057914.png)
+
+### 2、右键查看工具使用教程
+
+目前我还在整理现在有时候比较忙没有时间搞，后面有更新，后面你点击更新会更新工具使用教程
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240806202639994.png)
+
+### 3、一键打包
+
+可以一键打包全部和打包防守工具（只打包已经下载好的）打包格式是zip格式
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240806202818829.png)
+
+### 4、工具优化
+
+这个版本优化的太多了下面简单说一下
+
+- 下载完成后安装完成提示确定点击后关闭下载窗口
+- 下载完插件提示确定自动打开下载好的插件路径
+- 等等等。。。。。
 
 ## 0.5.0公测版本新功能添加
 
@@ -473,10 +492,16 @@
 ## 免责声明：
 
 ***
-### 1. 该安全工具仅供技术研究和教育用途。使用该工具时，请遵守适用的法律法规和道德准则。
+1. 本安全工具仅供技术研究和教育用途。使用该工具时，请遵守适用的法律法规及道德准则。
 
-### 2. 该工具可能会涉及安全漏洞的测试和渗透测试，但请在授权的范围内使用，否则和作者无关
+2. 用户应遵守《中华人民共和国网络安全法》，并且不得将该工具用于未经授权的测试或非法活动。否则，用户自行承担所有责任，与工具作者无关。
 
-### 3. 使用该工具可能会涉及到一定的风险和不确定性，用户应该自行承担使用该工具所带来的风险。
-### 4. 工具箱的工具有您合法权益问题可以联系我第一时间删除。
-### 5. 使用本工具的用户应自行承担一切风险和责任。开发者对于用户使用本工具所产生的后果不承担任何责任。
+3. 本工具可能涉及安全漏洞测试和渗透测试，请仅在合法授权范围内使用，否则用户需自行承担风险，且与工具作者无关。
+
+4. 本工具附带使用教程，仅提供学习使用。请确保仅在授权的情况下参考和执行教程内容。否则用户需自行承担风险，且与工具作者无关。
+
+5. 如该工具涉及侵犯您的合法权益，请及时联系工具开发者，开发者将在第一时间处理并删除相关内容。
+
+6. 使用本工具的用户应自行承担一切风险和责任。开发者不对因使用本工具产生的任何后果承担责任。
+
+7. 使用本工具可能存在一定的风险和不确定性，用户应自行评估并承担所有相关风险。

@@ -1,0 +1,11 @@
+{
+    "theme": "darkly",
+    "resolution": "1550x800",
+    "size": 60,
+    "fontlinebreak": 13,
+    "spacing": 10,
+    "wordsize": 8,
+    "prompt": "false",
+    "NetworkSwitch": "true",
+    "display_mode": 2
+}

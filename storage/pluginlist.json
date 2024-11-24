@@ -1,6 +1,11 @@
 {
     "Plugin_List": {
         "BurpSuite": {
+            "Jython": {
+                "introduce": "很多插件需要Python环境，Burpsuite本身是支持java的，Jython就是java和python的结合，导入了Jython才能安装python插件",
+                "r": "W0apnpa5hh8eIXDsR6Yh847sLzwSFZCJZliQmjpYaggMKH0+FbK2Q2g4zp8Q1OgK",
+                "custom": ""
+            },
             "HaE": {
                 "introduce": "HaE该插件可以通过自定义正则的方式匹配响应报文或请求报文，并对满足正则匹配的报文进行信息高亮与提取",
                 "r": "W0apnpa5hh8eIXDsR6Yh8/9LnlllP+5s/zyvN/CgoBZbdPA+Isrl5clQ6MhjUzQo",
@@ -12,7 +17,7 @@
                 "custom": ""
             },
             "nowafpls": {
-                "introduce": "通过插入垃圾数据绕过WAF的Burp插件",
+                "introduce": "通过插入垃圾数据绕过WAF的Burp插件，导入该插件需要先安装上Jython然后在导入nowafpls插件(注意！路径不能有中文请自行检查)",
                 "r": "W0apnpa5hh8eIXDsR6Yh8zcPjP2VSSYFEVZaLsetyBjdUcQLsXlfelTSY/bmzr11",
                 "custom": ""
             },
@@ -24,6 +29,41 @@
             "FastjsonScan_bp": {
                 "introduce": "一个简单的Fastjson反序列化检测burp插件",
                 "r": "W0apnpa5hh8eIXDsR6Yh89VP9TlcU1oDoaz+lhZ52lQGBWpg/B6HQKjHbxSt2UQuoeWfedee4yu99zKv7KKUfA==",
+                "custom": ""
+            },
+            "BurpFingerPrint": {
+                "introduce": "BurpSuite插件集成Ehole指纹库并进行常见OA弱口令爆破插件",
+                "r": "W0apnpa5hh8eIXDsR6Yh85NMW+A/itJk6uxXLATtfC4lXA+GgHcOcZ6DCCCZU5Fs",
+                "custom": ""
+            },
+            "BurpAPIFinder": {
+                "introduce": "该插件能让我们发现未授权/敏感信息/越权/登陆接口等",
+                "r": "W0apnpa5hh8eIXDsR6Yh85NMW+A/itJk6uxXLATtfC6daDG70olsBCKWLEIez5sW",
+                "custom": ""
+            },
+            "TsojanScan": {
+                "introduce": "它会以最少的数据包请求来准确检测各漏洞存在与否，包含了：Nacos、SpringBoot、Log4j、Shiro、Fastjson、Weblogic、ThinkPHP、SQLI等主动/被动扫描",
+                "r": "W0apnpa5hh8eIXDsR6Yh8wuTACYj/g3oJaOR2+xUvzIsqMd/mVMigsu9f3DfIFdD",
+                "custom": ""
+            },
+            "xia_yue": {
+                "introduce": "burp 插件 xia_Yue（瞎越） 主要用于测试越权、未授权",
+                "r": "W0apnpa5hh8eIXDsR6Yh8z2+mGa7vXhc9obIuKDNyckpODLaffkeoodDp6gTV9HU",
+                "custom": ""
+            },
+            "NEW_xp_CAPTCHA": {
+                "introduce": "验证码 识别 burp插件",
+                "r": "W0apnpa5hh8eIXDsR6Yh89YrZ92gcv6IuAxTZUV8Dv6dt7+o9TNnieRen6emy84o",
+                "custom": ""
+            },
+            "xia_Liao": {
+                "introduce": "用于Windows在线进程/杀软识别 与 web渗透注册时，快速生成需要的资料用来填写，资料包含：姓名、手机号、身份证，以及各类web语言的hello world输出和生成弱口令字典等",
+                "r": "W0apnpa5hh8eIXDsR6Yh8z2+mGa7vXhc9obIuKDNyckFctgrVWPplto660bSQDhW",
+                "custom": ""
+            },
+            "burpsuite_hack": {
+                "introduce": "一款代理扫描器，支持 GET/POST/无限嵌套json、list的漏洞探测，基本不会触发WAF，最小化探测",
+                "r": "W0apnpa5hh8eIXDsR6Yh852oxMzfHxZ7nlstIyGdJonAn1O3BnDW/J70YDlQuCVE",
                 "custom": ""
             }
         },
@@ -46,17 +86,35 @@
                 "custom": ""
             }
         },
-    "谷歌浏览器插件": {
-        "FindSomething2.0.18": {
-            "introduce": "在网页的源代码或js中找到一些有趣的东西",
-            "r": "W0apnpa5hh8eIXDsR6Yh89VP9TlcU1oDoaz+lhZ52lQEUL4TlCoJVNWoCYfUch21",
-            "custom": ""
-        },
-        "ProxySwitchyOmega": {
-            "introduce": "轻松快捷地管理和切换多个代理设置",
-            "r": "W0apnpa5hh8eIXDsR6Yh85+LZZnS8QS5KT/bIbyE3VTywbBMJZGkISNnHJmsYrOfwsv6nhZhwJWH4+3LqHWMkg==",
-            "custom": ""
+        "谷歌浏览器插件": {
+            "FindSomething2.0.18": {
+                "introduce": "在网页的源代码或js中找到一些有趣的东西",
+                "r": "W0apnpa5hh8eIXDsR6Yh89VP9TlcU1oDoaz+lhZ52lQEUL4TlCoJVNWoCYfUch21",
+                "custom": ""
+            },
+            "ProxySwitchyOmega": {
+                "introduce": "轻松快捷地管理和切换多个代理设置",
+                "r": "W0apnpa5hh8eIXDsR6Yh85+LZZnS8QS5KT/bIbyE3VTywbBMJZGkISNnHJmsYrOfwsv6nhZhwJWH4+3LqHWMkg==",
+                "custom": ""
+            }
         }
-    }
+    },
+    "Online_Information": {
+        "红队漏洞库": {
+            "PeiQi文库": {
+                "introduce": "PeiQi文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，CTF夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题",
+                "url": "https://peiqi.wgpsec.org/"
+            },
+            "WooYun历史漏洞": {
+                "introduce": "乌云(WooYun.org)历史漏洞查询",
+                "url": "https://wy.zone.ci/index.php"
+            }
+        },
+        "在线解密/加密": {
+            "md5在线解密破解": {
+                "introduce": "本站对于md5、sha1、mysql、ntlm等的实时查询成功率在全球遥遥领先。成立18年，一直被抄袭,从未被超越",
+                "url": "https://www.cmd5.com/"
+            }
+        }
     }
 }
