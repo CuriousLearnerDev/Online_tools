@@ -35,7 +35,17 @@
 - 远方
 - start
 
-> 全工具打包版下载
+> 工具最新版本下载地址
+>
+> https://github.com/CuriousLearnerDev/Online_tools/releases/
+
+
+> 全工具打包版下载 0.9.0 版本 （全部工具下载好的不需要流量费）
+> 
+> 免费打包版整理工作还在进行中，预计在这两天内发布，感谢你的耐心等待！
+
+
+> 全工具打包版下载 0.8.0 版本 （全部工具下载好的不需要流量费）
 > 
 > 百度网盘：https://pan.baidu.com/s/1MY2sfIJdF1RGRqB_eHRJ1A 提取码:r753
 > 
@@ -65,11 +75,11 @@
 
 ## 工具大小
 
-该工具使用的是Tkinter开发，Tkinter开发小工具还好，功能界面越复杂开发起来真的要吐血了，最终打包
+使用了PyQt6全面重写，最终打包
 
 大小如下：
 
-![](Explanationphoto/image-20241124120406236.png)
+![](Explanationphoto/2025-04-03_11-42.png)
 
 ## 0.9.0更新新增
 统领0.9.0版更新了什么功能
@@ -83,12 +93,11 @@
 
 ## 新版本界面更
 
+![](Explanationphoto/2025-04-03_11-38.png)
 
+![](Explanationphoto/2025-04-03_11-38_1.png)
 
-
-
-
-
+![](Explanationphoto/2025-04-03_11-39.png)
 
 
 ## 0.8.0更新新增
