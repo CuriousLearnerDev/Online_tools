@@ -2,7 +2,7 @@
 
 ### 问题意见交流群
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/qrcode_1747389339970.jpg)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250516205816346.png)
 
 
 ### ⚠️ 免责声明：
