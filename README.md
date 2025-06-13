@@ -54,7 +54,7 @@
 
 如果有新增工具在这个地方下载导入到工具里面（解决没有秘钥下载）
 
-- 夸克网盘：链接：https://pan.quark.cn/s/e10cca2d3765 提取码：tQSW
+- 夸克网盘（更新于2025.06.13）：链接：https://pan.quark.cn/s/f6c89ad70661 提取码：HgeQ
 
 #### 有好用的工具可以投稿到这https://github.com/CuriousLearnerDev/Online_tools/issues/35
 
