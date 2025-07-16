@@ -44,17 +44,6 @@
 
 地址：https://github.com/CuriousLearnerDev/Online_tools/releases
 
-#### 全工具打包版（解决没有秘钥，解压即用）：
-
-- 0.9.2 版本：
-  - 夸克网盘：https://pan.quark.cn/s/7f308636e24e 提取码：zjMt 解压密码09
-- 0.9.0 版本：
-  - 夸克网盘：https://pan.quark.cn/s/a87cabcaf3d6 提取码：zMmZ 解压密码09
-- 0.8.0 版本：
-  - 百度网盘：https://pan.baidu.com/s/1MY2sfIJdF1RGRqB_eHRJ1A 提取码:r753
-  - 夸克网盘：https://pan.quark.cn/s/ba27e6401004
-#### 增量工具更新包：
-
 如果有新增工具在这个地方下载导入到工具里面（解决没有秘钥下载）
 
 - 夸克网盘（更新于2025.06.13）：链接：https://pan.quark.cn/s/f6c89ad70661 提取码：HgeQ
