@@ -42,7 +42,13 @@
 ### 📦 下载方式
 #### 最新版版
 
-地址：https://github.com/CuriousLearnerDev/Online_tools/releases
+全部版本地址：https://github.com/CuriousLearnerDev/Online_tools/releases
+
+- 0.9.3 版本（新界面最新版本）：
+  - 夸克网盘：https://pan.quark.cn/s/ca2a3201d742 提取码：ew6q
+- 0.8.2 版本：
+  - 夸克网盘：https://pan.quark.cn/s/0f15c926a793 提取码: xSuC
+
 
 如果有新增工具在这个地方下载导入到工具里面（解决没有秘钥下载）
 
