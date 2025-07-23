@@ -54,9 +54,8 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 
 #### 🛠 工具扩展包（无需秘钥下载，便于导入新工具）
 
-- 夸克网盘（更新于2025.06.13）：
-  链接：https://pan.quark.cn/s/f6c89ad70661 提取码：HgeQ
-
+- 全工具离线包
+  链接：https://pan.quark.cn/s/36086fb69f24 提取码：hvUL
 
 
 ### 🔧 工具介绍
