@@ -1,137 +1,137 @@
-| 工具子分类        | 工具名称               | 版本       | 下载地址                                               | 工具介绍                               |
-| ----------------- | ---------------------- | ---------- | ------------------------------------------------------ | -------------------------------------- |
-| 反编译/逆向       | jd-gui                 | 1.6.6      | 链接：https://pan.quark.cn/s/fbe2a6c29203 提取码：9SUA | Java反编译工具，支持.class文件源码查看 |
-| 反编译/逆向       | dex2jar                | 2.4        | 链接：https://pan.quark.cn/s/95501ce5c213 提取码：W9Ky | Android dex转Java工具，逆向分析必备    |
-| 反编译/逆向       | KillWxapkg             | 2.4.1      | 链接：https://pan.quark.cn/s/6ef25a582b2b 提取码：L3d2 | 微信小程序反编译与安全检测工具         |
-| 反编译/逆向       | jadx-gui               | 1.5.1      | 链接：https://pan.quark.cn/s/a7d918c46cef 提取码：LwQY | Android逆向工具，支持APK反编译         |
-| 应急响应          | BlueTeamTools          | 1.46       | 链接：https://pan.quark.cn/s/0dbced201829 提取码：YhRp | 蓝队多功能工具（流量解密/内存马检测）  |
-| 应急响应          | 河马webshell查杀       | 1.8.2      | 链接：https://pan.quark.cn/s/244305ab35c6 提取码：TY3F | Webshell多引擎查杀工具（支持AI检测）   |
-| 应急响应          | 河马webshell查杀-Linux | 1.8.2      | 链接：https://pan.quark.cn/s/113d49865e04 提取码：KgZp | Linux系统Webshell查杀专用版            |
-| 应急响应          | D盾                    | 2.1.8.1    | 链接：https://pan.quark.cn/s/3f3b8bc75344 提取码：mQQ5 | IIS防护软件，防入侵/越权保护           |
-| 应急响应          | 火绒剑                 | 5.0        | 链接：https://pan.quark.cn/s/ef58851da504 提取码：NQ47 | 系统诊断工具（进程/恶意代码分析）      |
-| 应急响应          | PCHunter(手工杀毒)     | 1.56       | 链接：https://pan.quark.cn/s/0b6661dca050 提取码：ADs7 | 内核级分析工具（检测Rootkit/驱动模块） |
-| 应急响应          | Procexp(官方)          | 17.6       | 链接：https://pan.quark.cn/s/fa5940e986a6 提取码：T7B9 | 微软官方进程管理工具（实时监控）       |
-| 应急响应          | Procexp(中文)          | 17.5       | 链接：https://pan.quark.cn/s/04a07d3c0dbf 提取码：ritH | 中文版进程管理器（支持线程查看）       |
-| 应急响应          | GScan-Linux            | 6.0        | 链接：https://pan.quark.cn/s/e3589a5be1b1 提取码：j6ij | Linux主机安全检查（自动化检测）        |
-| 应急响应          | Sysmon                 | 15.15      | 链接：https://pan.quark.cn/s/3ab9cf188293 提取码：6uY6 | Windows系统活动监控（记录进程/网络）   |
-| 应急响应          | FindAll                | 1.4.0      | 链接：https://pan.quark.cn/s/473c1218dc96 提取码：xvJT | 自动化应急响应工具（CS架构分析）       |
-| 应急响应          | Procmon(官方版)        | 4.01       | 链接：https://pan.quark.cn/s/1fe1e152c1e2 提取码：wNEy | 系统实时监控（文件/注册表/进程）       |
-| 代码审计          | Seay                   | 无         | 链接：https://pan.quark.cn/s/e699f0798ace 提取码：38cB | PHP代码审计工具（SQL注入/XSS检测）     |
-| 代码审计          | Code-audit             | 1          | 链接：https://pan.quark.cn/s/5fce1afbe37f 提取码：CJU2 | 自动化代码审计（危险函数扫描）         |
-| 代码审计          | StarCodeSecurity       | 1.2        | 链接：https://pan.quark.cn/s/8166588a5077 提取码：Avw3 | 图形化代码审计（支持Java/PHP/.NET）    |
-| 代码审计          | 淮橘代码审计工具       | 2.0        | 链接：https://pan.quark.cn/s/9996d1b09624 提取码：CM28 | AI辅助代码审计（自定义规则）           |
-| 流量抓包          | Fiddler中文版          | 5.0.20181  | 链接：https://pan.quark.cn/s/2c1aadd03849 提取码：BwPs | HTTP/HTTPS流量抓包与调试               |
-| 流量抓包          | Charles中文版          | 4.5.6      | 链接：https://pan.quark.cn/s/219a14b85bd1 提取码：TY9F | 跨平台抓包工具（支持HTTPS解密）        |
-| 流量抓包          | Wireshark              | 4.0.8      | 链接：https://pan.quark.cn/s/d8e29dfaad0c 提取码：kPy9 | 网络协议分析（深度数据包解析）         |
-| 内存马查杀        | arthas-boot-Linux      | 1.08       | 链接：https://pan.quark.cn/s/2c0525e9ed05 提取码：x5dg | Java诊断工具（内存马检测）             |
-| 内存马查杀        | tomcat-memshell-Linux  | 1          | 链接：https://pan.quark.cn/s/8f3efe04d7e3 提取码：jVBc | Tomcat内存马扫描与清除工具             |
-| 内存马查杀        | cop-Linux              | 1.0        | 链接：https://pan.quark.cn/s/5ecad0fa595b 提取码：Y3VD | Java内存Webshell提取工具               |
-| 日志分析          | 360星图                | 0.5        | 链接：https://pan.quark.cn/s/991ecc2b115f 提取码：giHf | 网站日志分析（CC攻击/漏洞检测）        |
-| 日志分析          | FullEventLogView       | 1.80       | 链接：https://pan.quark.cn/s/8a958ebf1fdc 提取码：hJWL | Windows事件日志查看（导出分析）        |
-| 日志分析          | LogParser              | 2.2        | 链接：https://pan.quark.cn/s/da978042a469 提取码：BT36 | 日志分析工具（支持多格式查询）         |
-| 日志分析          | APT-Hunter             | 3.1        | 链接：https://pan.quark.cn/s/68f3824839ca 提取码：Efhk | Windows日志威胁狩猎（APT检测）         |
-| 日志分析          | TrafficEye             | 0.0.8.1    | 链接：https://pan.quark.cn/s/fedad41871f0 提取码：gFwb | 网络流量分析（Web攻击识别）            |
-| 中间件/CMS/框架漏 | FastjsonScan           | 1.1        | 链接：https://pan.quark.cn/s/824a31ab009c 提取码：K6Vm | Fastjson漏洞检测（版本识别/AutoType）  |
-| 中间件/CMS/框架漏 | WeblogicTool           | 1.3        | 链接：https://pan.quark.cn/s/91bdb8193f58 提取码：pWw3 | Weblogic综合利用（命令执行/内存马）    |
-| 中间件/CMS/框架漏 | Struts2                | 19.32      | 链接：https://pan.quark.cn/s/5aa249be17b0 提取码：tqwU | Struts2全版本漏洞检测与利用            |
-| 中间件/CMS/框架漏 | ShiroAttack2           | 4.5.6      | 链接：https://pan.quark.cn/s/a4f334bb9072 提取码：h3cA | Shiro反序列化漏洞利用工具              |
-| 中间件/CMS/框架漏 | ShiroExp               | 1.3.1      | 链接：https://pan.quark.cn/s/ddecf83703d4 提取码：3b6j | Shiro漏洞一键利用（含Key检测）         |
-| 中间件/CMS/框架漏 | ThinkPHP综合工具       | 2.4.2      | 链接：https://pan.quark.cn/s/02373c4fd44 提取码：5YN8  | ThinkPHP漏洞利用（RCE/文件包含）       |
-| 中间件/CMS/框架漏 | ThinkPHP利用莲花       | 1.3        | 链接：https://pan.quark.cn/s/d5b15fee2d37 提取码：uxKf | TP框架漏洞检测与利用工具               |
-| 中间件/CMS/框架漏 | Jboss漏洞工具          | 1.0        | 链接：https://pan.quark.cn/s/df71be33ce0b 提取码：3n46 | Jboss反序列化漏洞利用工具              |
-| 中间件/CMS/框架漏 | SBSCAN                 | 0.6        | 链接：https://pan.quark.cn/s/67911ac59aa3 提取码：SP3u | Spring框架漏洞扫描（敏感路径检测）     |
-| 中间件/CMS/框架漏 | 漏洞集合工具           | 2.0        | 链接：https://pan.quark.cn/s/da057217af09 提取码：897E | 多漏洞集成工具（含免杀Webshell）       |
-| 中间件/CMS/框架漏 | JNDIExploit            | 1.4        | 链接：https://pan.quark.cn/s/9e60b8d785c8 提取码：HUtD | JNDI注入利用（支持内存马植入）         |
-| 中间件/CMS/框架漏 | JNDIInjection          | 1.0        | 链接：https://pan.quark.cn/s/773c45ddb33b 提取码：bRc8 | JNDI注入工具（Fastjson漏洞利用）       |
-| 中间件/CMS/框架漏 | Jeecg综合工具          | 4.2        | 链接：https://pan.quark.cn/s/b76e3725ad28 提取码：NHwe | Jeecg综合工具                          |
-| OA/应用漏洞       | MYExploit              | 2.0.4      | 链接：https://pan.quark.cn/s/e0830494008d 提取码：Hh2P | OA系统漏洞一键检测工具                 |
-| OA/应用漏洞       | OA-EXPTOOL             | 0.83       | 链接：https://pan.quark.cn/s/95a91bf08260 提取码：ZDPG | OA综合漏洞利用（支持20+OA系统）        |
-| OA/应用漏洞       | 通达OA利用工具         | 1.2        | 链接：https://pan.quark.cn/s/24034b155f22 提取码：JJTb | 通达OA漏洞利用（文件上传/RCE）         |
-| OA/应用漏洞       | Nacos利用工具          | 7.0        | 链接：https://pan.quark.cn/s/7723c934e250 提取码：tsT1 | Nacos漏洞利用（未授权/SQL注入）        |
-| OA/应用漏洞       | NacosExploit           | 1.0.1      | 链接：https://pan.quark.cn/s/e2a100fb3b79 提取码：2zaU | Nacos漏洞检测与利用工具                |
-| OA/应用漏洞       | 大华漏洞工具           | 2          | 链接：https://pan.quark.cn/s/e34326b6b97f 提取码：FRjZ | 大华设备漏洞利用（命令执行/文件读取）  |
-| OA/应用漏洞       | 红蓝对抗重点OA         | 2.3        | 链接：https://pan.quark.cn/s/da48e627b9ed 提取码：wPRa | OA系统漏洞检测（集成180+POC）          |
-| OA/应用漏洞       | 海康威视综合漏洞       | 2          | 链接：https://pan.quark.cn/s/21897f3dc879 提取码：87nK | 海康设备漏洞利用（RCE/文件上传）       |
-| OA/应用漏洞       | 若依综合漏洞           | 1          | 链接：https://pan.quark.cn/s/e76827d77f9f 提取码：WB3z | 若依系统漏洞综合利用工具               |
-| OA/应用漏洞       | 若依漏洞工具           | 1          | 链接：https://pan.quark.cn/s/23188aae3419 提取码：CdmJ | 若依定时任务RCE利用工具                |
-| 密码爆破          | 超级加解密转换         | 2.1        | 链接：https://pan.quark.cn/s/c954f5aa4560 提取码：qSua | 加密解密工具（支持100+算法）           |
-| 密码爆破          | hydra                  | 9.1        | 链接：https://pan.quark.cn/s/f10d10e47782 提取码：njRZ | 多协议爆破工具（SSH/RDP/FTP）          |
-| 密码爆破          | 社工密码生成器         | 4.5        | 链接：https://pan.quark.cn/s/06188ce9e988 提取码：bTyg | 密码字典生成（基于个人信息）           |
-| 密码爆破          | SNETCracker            | 1.0        | 链接：https://pan.quark.cn/s/d793f2087083 提取码：r9jS | 弱口令检测（支持20+服务协议）          |
-| 密码爆破          | pydictor               | 1.0        | 链接：https://pan.quark.cn/s/36083cef9501 提取码：98wz | 密码字典生成（支持规则定制）           |
-| 密码爆破          | hashcat                | 6.2.6      | 链接：https://pan.quark.cn/s/6b893a8ee254 提取码：b3BE | 高速密码破解（支持GPU加速）            |
-| 密码爆破          | jwt_gui                | 1.0.6      | 链接：https://pan.quark.cn/s/edd0a939a1f6 提取码：2B3Y | JWT加解密与爆破工具                    |
-| 综合利用          | LiqunKit               | 1.6.2      | 链接：https://pan.quark.cn/s/6028b3871516 提取码：22aC | 综合漏洞扫描（含POC管理）              |
-| 综合利用          | Full-Scanner           | gui        | 链接：https://pan.quark.cn/s/bc01f4d77e7e 提取码：ErCf | 多功能扫描工具（支持联动检测）         |
-| 综合利用          | Yasso                  | 0.06       | 链接：https://pan.quark.cn/s/c41a49c37a52 提取码：VhpQ | 内网渗透工具（端口扫描/服务爆破）      |
-| 综合利用          | Apt_t00ls              | 0.7        | 链接：https://pan.quark.cn/s/23d8a3dabb08 提取码：aPXe | 高危漏洞利用（OA/中间件检测）          |
-| 综合利用          | miscan                 | 1.4        | 链接：https://pan.quark.cn/s/aed91ab8d889 提取码：vNmd | 漏洞管理工具（支持团队协作）           |
-| 数据库漏洞        | sqlmap中文版           | 1.7.1.1    | 链接：https://pan.quark.cn/s/c27179f54d7b 提取码：SUF8 | SQL注入工具（中文界面）                |
-| 数据库漏洞        | MDUT                   | 2.1.1      | 链接：https://pan.quark.cn/s/6cff0a2129b3 提取码：ieYX | 多数据库利用（MySQL/Oracle等）         |
-| 数据库漏洞        | MDUT(优化版)           | 2.1.1      | 链接：https://pan.quark.cn/s/cc745e95e179 提取码：dVWs | 增强版数据库工具（支持代理）           |
-| 数据库漏洞        | ARDM                   | 1.6.1      | 链接：https://pan.quark.cn/s/dde6d20582c2 提取码：dz3C | Redis图形化管理工具                    |
-| 数据库漏洞        | SqlmapXPlus            | 1.50       | 链接：https://pan.quark.cn/s/4585462f59da 提取码：b2ud | 增强版SQL注入（二开优化）              |
-| 数据库漏洞        | sqlmap-gui             | 1.7        | 链接：https://pan.quark.cn/s/25c48e2e57eb 提取码：6kXi | 图形化SQL注入工具                      |
-| XSS漏洞           | XSStrike               | 3.1.5      | 链接：https://pan.quark.cn/s/83283b54c8b0 提取码：uxm1 | XSS检测工具（支持WAF绕过）             |
-| XSS漏洞           | dalfox                 | 2.9.3      | 链接：https://pan.quark.cn/s/6549030d0bea 提取码：Euus | 自动化XSS扫描（参数分析）              |
-| 漏洞扫描          | POC-bomber             | 3.0.0      | 链接：https://pan.quark.cn/s/9e14dbb6691a 提取码：PWwt | 漏洞检测工具（支持无回显RCE）          |
-| 漏洞扫描          | afrog                  | 3.1.7      | 链接：https://pan.quark.cn/s/1f83cb3c0ae3 提取码：XByq | 高性能漏洞扫描（支持自定义POC）        |
-| 漏洞扫描          | fscan                  | 1.8.2      | 链接：https://pan.quark.cn/s/f773c1c69fcc 提取码：Ydph | 内网综合扫描（存活探测/漏洞检测）      |
-| 漏洞扫描          | Packer-Fuzzer          | 1.4        | 链接：https://pan.quark.cn/s/0242c8568bc2 提取码：d3nx | 前端打包文件漏洞扫描                   |
-| 漏洞扫描          | woodpecker             | 1.3.5      | 链接：https://pan.quark.cn/s/a8fd16dae83b 提取码：NNfr | 精准漏洞检测（高危漏洞聚焦）           |
-| 漏洞扫描          | xpoc                   | 0.1.0      | 链接：https://pan.quark.cn/s/a9eb639983ea 提取码：Cd77 | 快速应急扫描（供应链漏洞）             |
-| 漏洞扫描          | wavely                 | 1.5.3      | 链接：https://pan.quark.cn/s/cacc1e6be69b 提取码：6YES | Nuclei图形化管理工具                   |
-| 漏洞扫描          | scaninfo               | 1.1.0      | 链接：https://pan.quark.cn/s/2a7034916785 提取码：CTgP | 快速端口扫描（服务识别）               |
-| Webshell管理      | 天蝎权限管理工具       | 1.0        | 链接：https://pan.quark.cn/s/ab621a32fd3f 提取码：s6SH | Webshell管理（基于冰蝎协议）           |
-| Webshell管理      | webshell生成工具       | 1.2.3      | 链接：https://pan.quark.cn/s/7a95a56e21e1 提取码：j7vU | Webshell生成（支持多语言免杀）         |
-| Webshell管理      | 中国菜刀               | 2016       | 链接：https://pan.quark.cn/s/d1d54640ddf5 提取码：TUmr | 经典Webshell连接工具                   |
-| Webshell管理      | 冰蝎3.0                | 3.0        | 链接：https://pan.quark.cn/s/438eacc769d4 提取码：AjBh | 加密Webshell管理（流量加密）           |
-| Webshell管理      | EtherGhost             | 0.1.3      | 链接：https://pan.quark.cn/s/57a72909e82a 提取码：kWRM | Webshell管理（支持多协议）             |
-| 常用工具          | NC工具                 | 1.12       | 链接：https://pan.quark.cn/s/889a859b6e17 提取码：mUV1 | 网络调试工具（端口监听）               |
-| 常用工具          | BurpSuite社区版        | 2024.5.5   | 链接：https://pan.quark.cn/s/7b553e0899fd 提取码：eFtn | Web安全测试（社区免费版）              |
-| 常用工具          | BurpSuite专业版        | 2024.5     | 链接：https://pan.quark.cn/s/0a5104dd0670 提取码：S2Te | Web安全测试（专业功能版）              |
-| 常用工具          | sqlmap                 | 1.8.6.17   | 链接：https://pan.quark.cn/s/19ec56e48a4a 提取码：6TiJ | 自动化SQL注入工具                      |
-| 常用工具          | nmap                   | 7.92       | 链接：https://pan.quark.cn/s/bf4bcc086447 提取码：zwfP | 端口扫描与服务识别                     |
-| 常用工具          | yakit                  | 1.3.7-1129 | 链接：https://pan.quark.cn/s/c39632640143 提取码：Pe79 | 安全测试平台（集成化工具）             |
-| 常用工具          | nuclei                 | 3.3.8      | 链接：https://pan.quark.cn/s/fba8fb98ae97 提取码：46Gq | 漏洞模板扫描（300+模板）               |
-| 常用工具          | xray                   | 1.9.11     | 链接：https://pan.quark.cn/s/1bddac37b35b 提取码：8utn | 漏洞扫描（支持被动代理）               |
-| 常用工具          | goby社区版             | 2.8.4      | 链接：https://pan.quark.cn/s/6109168df2a1 提取码：Nwj6 | 资产测绘与漏洞扫描                     |
-| 常用工具          | 中国蚁剑               | 2.1.15     | 链接：https://pan.quark.cn/s/bec6e2961d29 提取码：BEe4 | Webshell管理（开源跨平台）             |
-| 常用工具          | 冰蝎                   | 4.1.0      | 链接：https://pan.quark.cn/s/790d8d3c1a02 提取码：H72z | 加密Webshell管理（动态密钥）           |
-| 常用工具          | 哥斯拉                 | 4.0.1      | 链接：https://pan.quark.cn/s/c67db99e6648 提取码：Ugxn | Webshell管理（流量加密）               |
-| 常用工具          | EZ                     | 1.8.9      | 链接：https://pan.quark.cn/s/3d04f698d02f 提取码：2FTA | 综合扫描（信息收集/POC）               |
-| 常用工具          | 无影(TscanPlus)        | 2.9.0      | 链接：https://pan.quark.cn/s/c1b0bf611abf 提取码：5Aqx | 资产发现与漏洞检测                     |
-| 常用工具          | Burp破解工具           | 2.1.06     | 链接：https://pan.quark.cn/s/a533c14f9135 提取码：RPYq | BurpSuite破解补丁                      |
-| 常用工具          | CS4.5中文              | 2.1.06     | 链接：https://pan.quark.cn/s/8a48fb900280 提取码：1Lwv | Cobalt Strike汉化版                    |
-| 子域名探测        | Layer子域名挖掘        | 5.0        | 链接：https://pan.quark.cn/s/8d70cb7e9595 提取码：nmSn | 子域名扫描（支持暴力破解）             |
-| 子域名探测        | subfinder              | 2.6.8      | 链接：https://pan.quark.cn/s/5df5f005878b 提取码：sw3U | 子域名发现（多数据源）                 |
-| 子域名探测        | DnsX                   | 1.1.6      | 链接：https://pan.quark.cn/s/5951c4a0eb9c 提取码：tQKZ | DNS查询工具（批量解析）                |
-| 子域名探测        | OneForAll              | 0.4.5      | 链接：https://pan.quark.cn/s/723cbb6c70d9 提取码：GMFn | 子域名收集（全面扫描）                 |
-| 子域名探测        | OneLong                | 1.0.7      | 链接：https://pan.quark.cn/s/5ba99e0a5ce3 提取码：EL3v | 信息收集（子域名/资产）                |
-| 子域名探测        | 密探                   | 1.2.3      | 链接：https://pan.quark.cn/s/22fff183e6ba 提取码：4dEt | 渗透信息收集（多引擎）                 |
-| 端口扫描          | Naabu                  | 2.3.3      | 链接：https://pan.quark.cn/s/baf8a8725869 提取码：FfUq | 快速端口扫描（SYN/CONNECT）            |
-| 端口扫描          | gogo                   | 2.13.8     | 链接：https://pan.quark.cn/s/dc72f4b00b44 提取码：42pb | 自动化端口扫描引擎                     |
-| 端口扫描          | AlliN                  | 2.4.2      | 链接：https://pan.quark.cn/s/e224c7b3eb62 提取码：HjQb | 综合扫描（资产/端口/路径）             |
-| 目录扫描          | 御剑后台扫描珍藏       | 无         | 链接：https://pan.quark.cn/s/2b209e11be3f 提取码：CMuZ | 后台目录暴力扫描                       |
-| 目录扫描          | Dirsearch              | 0.4.3      | 链接：https://pan.quark.cn/s/fdd8ddd799ec 提取码：83Ps | 目录扫描（支持递归）                   |
-| 目录扫描          | 备份扫描               | 1          | 链接：https://pan.quark.cn/s/7fd2936a93c8 提取码：MFnL | 网站备份文件扫描                       |
-| 目录扫描          | dirsx                  | 1          | 链接：https://pan.quark.cn/s/dedab3ab6ab4 提取码：s9f6 | 自动化目录扫描工具                     |
-| 信息泄露          | 云存储泄露工具         | 0.4.0      | 链接：https://pan.quark.cn/s/070a9e79657d 提取码：u4TU | 六大云存储泄露检测                     |
-| 信息泄露          | SvnExploit             | 2          | 链接：https://pan.quark.cn/s/78f01a73c734 提取码：NFEv | SVN源码泄露利用工具                    |
-| 信息泄露          | Dumpall                | 0.4.0      | 链接：https://pan.quark.cn/s/1a3e80d63db0 提取码：FKXk | 信息泄露利用（.git/.svn）              |
-| 信息泄露          | heapdump_tool          | 20230425   | 链接：https://pan.quark.cn/s/73a176ba1d44 提取码：ANby | Java堆转储敏感信息提取                 |
-| 其他信息收集      | RouterScan中文         | 2.60       | 链接：https://pan.quark.cn/s/1172d790358c 提取码：WDnt | 路由器扫描（漏洞检测）                 |
-| 其他信息收集      | zpscan                 | 1.8.39     | 链接：https://pan.quark.cn/s/a625faa14774 提取码：bqxA | 命令行信息收集（集成化）               |
-| 其他信息收集      | Fine                   | 2.4.3      | 链接：https://pan.quark.cn/s/a08a6fe5b2f3 提取码：p24b | 资产测绘（ICP/企业信息）               |
-| 指纹识别          | CMSeeK                 | 1.1.3      | 链接：https://pan.quark.cn/s/d690a611356c 提取码：G1hY | CMS识别（180+系统）                    |
-| 指纹识别          | Wafw00f                | 2.2        | 链接：https://pan.quark.cn/s/54816ce90ee5 提取码：2A1q | WAF识别与绕过检测                      |
-| 指纹识别          | EHole                  | 3.1        | 链接：https://pan.quark.cn/s/71edf13b6751 提取码：SJh1 | 重点系统指纹识别（红队向）             |
-| 指纹识别          | hfinger                | 1.0.3      | 链接：https://pan.quark.cn/s/b169567cb607 提取码：1KDb | Web指纹识别（高精度）                  |
-| 指纹识别          | P1finger               | 0.1.2      | 链接：https://pan.quark.cn/s/ea8349750fa2 提取码：s9eE | 资产指纹识别（快速定位）               |
-| 资源发现          | FofaViewer             | 1.1.15     | 链接：https://pan.quark.cn/s/2e0fe0afc849 提取码：CEXu | FOFA图形化客户端                       |
-| 资源发现          | Fofax                  | 0.1.47     | 链接：https://pan.quark.cn/s/27c0cfbbd6ac 提取码：aiN3 | FOFA命令行查询工具                     |
-| 资源发现          | Search_Viewer          | 3          | 链接：https://pan.quark.cn/s/1649f8e7e9b9 提取码：uRAf | 多测绘引擎聚合工具                     |
-| 资源发现          | ENScan_GO              | 1.1.1      | 链接：https://pan.quark.cn/s/9c0a8f2f1daf 提取码：4dUd | 企业信息收集（股权/备案）              |
-| 运行环境          | Python38               | 3.8_1      | 链接：https://pan.quark.cn/s/532c335fa20c 提取码：f5qv | Python 3.8运行环境                     |
-| 运行环境          | jdk-20.0.1             | 21_1       | 链接：https://pan.quark.cn/s/4e588a8e4a20 提取码：iZXz | Java 20运行环境                        |
-| 运行环境          | jdk1_8_0_291           | 1.8_1      | 链接：https://pan.quark.cn/s/c84fd7e8bd18 提取码：4YkP | Java 8运行环境                         |
+| 工具子分类        | 工具名称               | 版本       | 下载地址                            | 工具介绍                               |
+| ----------------- | ---------------------- | ---------- | ----------------------------------- | -------------------------------------- |
+| 反编译/逆向       | jd-gui                 | 1.6.6      | https://pan.quark.cn/s/f34df72a353a | Java反编译工具，支持.class文件源码查看 |
+| 反编译/逆向       | dex2jar                | 2.4        | https://pan.quark.cn/s/edcd0811a039 | Android dex转Java工具，逆向分析必备    |
+| 反编译/逆向       | KillWxapkg             | 2.4.1      | https://pan.quark.cn/s/cb8f68e5d6d6 | 微信小程序反编译与安全检测工具         |
+| 反编译/逆向       | jadx-gui               | 1.5.1      | https://pan.quark.cn/s/76aae3d333ec | Android逆向工具，支持APK反编译         |
+| 应急响应          | BlueTeamTools          | 1.46       | https://pan.quark.cn/s/b5b900555996 | 蓝队多功能工具（流量解密/内存马检测）  |
+| 应急响应          | 河马webshell查杀       | 1.8.2      | https://pan.quark.cn/s/664f9a27a120 | Webshell多引擎查杀工具（支持AI检测）   |
+| 应急响应          | 河马webshell查杀-Linux | 1.8.2      | https://pan.quark.cn/s/cc131a8961cf | Linux系统Webshell查杀专用版            |
+| 应急响应          | D盾                    | 2.1.8.1    | https://pan.quark.cn/s/e3d81cd6d58c | IIS防护软件，防入侵/越权保护           |
+| 应急响应          | 火绒剑                 | 5.0        | https://pan.quark.cn/s/129d3cf1350c | 系统诊断工具（进程/恶意代码分析）      |
+| 应急响应          | PCHunter(手工杀毒)     | 1.56       | https://pan.quark.cn/s/b5c63926e58a | 内核级分析工具（检测Rootkit/驱动模块） |
+| 应急响应          | Procexp(官方)          | 17.6       | https://pan.quark.cn/s/12f8a2f6eea1 | 微软官方进程管理工具（实时监控）       |
+| 应急响应          | Procexp(中文)          | 17.5       | https://pan.quark.cn/s/5d8a8aaad3cb | 中文版进程管理器（支持线程查看）       |
+| 应急响应          | GScan-Linux            | 6.0        | https://pan.quark.cn/s/459ebb9ec751 | Linux主机安全检查（自动化检测）        |
+| 应急响应          | Sysmon                 | 15.15      | https://pan.quark.cn/s/1916d3468a5e | Windows系统活动监控（记录进程/网络）   |
+| 应急响应          | FindAll                | 1.4.0      | https://pan.quark.cn/s/0b1531a01508 | 自动化应急响应工具（CS架构分析）       |
+| 应急响应          | Procmon(官方版)        | 4.01       | https://pan.quark.cn/s/c7d41c6a29e3 | 系统实时监控（文件/注册表/进程）       |
+| 代码审计          | Seay                   | 无         | https://pan.quark.cn/s/680b9474ebed | PHP代码审计工具（SQL注入/XSS检测）     |
+| 代码审计          | Code-audit             | 1          | https://pan.quark.cn/s/f530ea6aeca7 | 自动化代码审计（危险函数扫描）         |
+| 代码审计          | StarCodeSecurity       | 1.2        | https://pan.quark.cn/s/4eab34ef4aa7 | 图形化代码审计（支持Java/PHP/.NET）    |
+| 代码审计          | 淮橘代码审计工具       | 2.0        | https://pan.quark.cn/s/3067ffc80719 | AI辅助代码审计（自定义规则）           |
+| 流量抓包          | Fiddler中文版          | 5.0.20181  | https://pan.quark.cn/s/c3a4a9e92ee4 | HTTP/HTTPS流量抓包与调试               |
+| 流量抓包          | Charles中文版          | 4.5.6      | https://pan.quark.cn/s/3d739838144c | 跨平台抓包工具（支持HTTPS解密）        |
+| 流量抓包          | Wireshark              | 4.0.8      | https://pan.quark.cn/s/527cc6604681 | 网络协议分析（深度数据包解析）         |
+| 内存马查杀        | arthas-boot-Linux      | 1.08       | https://pan.quark.cn/s/087eaefb333d | Java诊断工具（内存马检测）             |
+| 内存马查杀        | tomcat-memshell-Linux  | 1          | https://pan.quark.cn/s/c3ffde32e16d | Tomcat内存马扫描与清除工具             |
+| 内存马查杀        | cop-Linux              | 1.0        | https://pan.quark.cn/s/ef7b57282fd6 | Java内存Webshell提取工具               |
+| 日志分析          | 360星图                | 0.5        | https://pan.quark.cn/s/d45c43d9c02e | 网站日志分析（CC攻击/漏洞检测）        |
+| 日志分析          | FullEventLogView       | 1.80       | https://pan.quark.cn/s/66b95923ffe3 | Windows事件日志查看（导出分析）        |
+| 日志分析          | LogParser              | 2.2        | https://pan.quark.cn/s/798a6d9c4e44 | 日志分析工具（支持多格式查询）         |
+| 日志分析          | APT-Hunter             | 3.1        | https://pan.quark.cn/s/7074873739a6 | Windows日志威胁狩猎（APT检测）         |
+| 日志分析          | TrafficEye             | 0.0.8.1    | https://pan.quark.cn/s/59d4a206598f | 网络流量分析（Web攻击识别）            |
+| 中间件/CMS/框架漏 | FastjsonScan           | 1.1        | https://pan.quark.cn/s/62eddab0327c | Fastjson漏洞检测（版本识别/AutoType）  |
+| 中间件/CMS/框架漏 | WeblogicTool           | 1.3        | https://pan.quark.cn/s/7f32d19d96b3 | Weblogic综合利用（命令执行/内存马）    |
+| 中间件/CMS/框架漏 | Struts2                | 19.32      | https://pan.quark.cn/s/15841e07c02a | Struts2全版本漏洞检测与利用            |
+| 中间件/CMS/框架漏 | ShiroAttack2           | 4.5.6      | https://pan.quark.cn/s/6f47c6c819df | Shiro反序列化漏洞利用工具              |
+| 中间件/CMS/框架漏 | ShiroExp               | 1.3.1      | https://pan.quark.cn/s/3925103a9efb | Shiro漏洞一键利用（含Key检测）         |
+| 中间件/CMS/框架漏 | ThinkPHP综合工具       | 2.4.2      | https://pan.quark.cn/s/36200e470cb2 | ThinkPHP漏洞利用（RCE/文件包含）       |
+| 中间件/CMS/框架漏 | ThinkPHP利用莲花       | 1.3        | https://pan.quark.cn/s/faa248a74b4a | TP框架漏洞检测与利用工具               |
+| 中间件/CMS/框架漏 | Jboss漏洞工具          | 1.0        | https://pan.quark.cn/s/4f8eb3b348b4 | Jboss反序列化漏洞利用工具              |
+| 中间件/CMS/框架漏 | SBSCAN                 | 0.6        | https://pan.quark.cn/s/8e36150ef9ed | Spring框架漏洞扫描（敏感路径检测）     |
+| 中间件/CMS/框架漏 | 漏洞集合工具           | 2.0        | https://pan.quark.cn/s/04f4888fcac3 | 多漏洞集成工具（含免杀Webshell）       |
+| 中间件/CMS/框架漏 | JNDIExploit            | 1.4        | https://pan.quark.cn/s/95cb89211ddd | JNDI注入利用（支持内存马植入）         |
+| 中间件/CMS/框架漏 | JNDIInjection          | 1.0        | https://pan.quark.cn/s/0789be50fd50 | JNDI注入工具（Fastjson漏洞利用）       |
+| 中间件/CMS/框架漏 | Jeecg综合工具          | 4.2        | https://pan.quark.cn/s/53030c8199f8 | Jeecg综合工具                          |
+| OA/应用漏洞       | MYExploit              | 2.0.4      | https://pan.quark.cn/s/06f909c10b19 | OA系统漏洞一键检测工具                 |
+| OA/应用漏洞       | OA-EXPTOOL             | 0.83       | https://pan.quark.cn/s/8ef37bb528f8 | OA综合漏洞利用（支持20+OA系统）        |
+| OA/应用漏洞       | 通达OA利用工具         | 1.2        | https://pan.quark.cn/s/13d3ee423644 | 通达OA漏洞利用（文件上传/RCE）         |
+| OA/应用漏洞       | Nacos利用工具          | 7.0        | https://pan.quark.cn/s/76e8cff6a56e | Nacos漏洞利用（未授权/SQL注入）        |
+| OA/应用漏洞       | NacosExploit           | 1.0.1      | https://pan.quark.cn/s/a6d61471adea | Nacos漏洞检测与利用工具                |
+| OA/应用漏洞       | 大华漏洞工具           | 2          | https://pan.quark.cn/s/d368c00ea416 | 大华设备漏洞利用（命令执行/文件读取）  |
+| OA/应用漏洞       | 红蓝对抗重点OA         | 2.3        | https://pan.quark.cn/s/7a69f0eb3a13 | OA系统漏洞检测（集成180+POC）          |
+| OA/应用漏洞       | 海康威视综合漏洞       | 2          | https://pan.quark.cn/s/f14aae68f2d6 | 海康设备漏洞利用（RCE/文件上传）       |
+| OA/应用漏洞       | 若依综合漏洞           | 1          | https://pan.quark.cn/s/c9470446a3c1 | 若依系统漏洞综合利用工具               |
+| OA/应用漏洞       | 若依漏洞工具           | 1          | https://pan.quark.cn/s/9576b1c2cbb5 | 若依定时任务RCE利用工具                |
+| 密码爆破          | 超级加解密转换         | 2.1        | https://pan.quark.cn/s/0407b715100f | 加密解密工具（支持100+算法）           |
+| 密码爆破          | hydra                  | 9.1        | https://pan.quark.cn/s/ad415b5fccd8 | 多协议爆破工具（SSH/RDP/FTP）          |
+| 密码爆破          | 社工密码生成器         | 4.5        | https://pan.quark.cn/s/89e2552b9187 | 密码字典生成（基于个人信息）           |
+| 密码爆破          | SNETCracker            | 1.0        | https://pan.quark.cn/s/5224669e16ab | 弱口令检测（支持20+服务协议）          |
+| 密码爆破          | pydictor               | 1.0        | https://pan.quark.cn/s/be425081b60f | 密码字典生成（支持规则定制）           |
+| 密码爆破          | hashcat                | 6.2.6      | https://pan.quark.cn/s/de9b3f10dcb5 | 高速密码破解（支持GPU加速）            |
+| 密码爆破          | jwt_gui                | 1.0.6      | https://pan.quark.cn/s/b5acf456c6d7 | JWT加解密与爆破工具                    |
+| 综合利用          | LiqunKit               | 1.6.2      | https://pan.quark.cn/s/9a4ed23b9d22 | 综合漏洞扫描（含POC管理）              |
+| 综合利用          | Full-Scanner           | gui        | https://pan.quark.cn/s/c42fec829223 | 多功能扫描工具（支持联动检测）         |
+| 综合利用          | Yasso                  | 0.06       | https://pan.quark.cn/s/c5e09e27135c | 内网渗透工具（端口扫描/服务爆破）      |
+| 综合利用          | Apt_t00ls              | 0.7        | https://pan.quark.cn/s/b41e37af7ce4 | 高危漏洞利用（OA/中间件检测）          |
+| 综合利用          | miscan                 | 1.4        | https://pan.quark.cn/s/23d7bb3060e4 | 漏洞管理工具（支持团队协作）           |
+| 数据库漏洞        | sqlmap中文版           | 1.7.1.1    | https://pan.quark.cn/s/238be8efe8dc | SQL注入工具（中文界面）                |
+| 数据库漏洞        | MDUT                   | 2.1.1      | https://pan.quark.cn/s/b240668bae18 | 多数据库利用（MySQL/Oracle等）         |
+| 数据库漏洞        | MDUT(优化版)           | 2.1.1      | https://pan.quark.cn/s/ce9d7d524b74 | 增强版数据库工具（支持代理）           |
+| 数据库漏洞        | ARDM                   | 1.6.1      | https://pan.quark.cn/s/70d0012b30e9 | Redis图形化管理工具                    |
+| 数据库漏洞        | SqlmapXPlus            | 1.50       | https://pan.quark.cn/s/ee6fd2b737e9 | 增强版SQL注入（二开优化）              |
+| 数据库漏洞        | sqlmap-gui             | 1.7        | https://pan.quark.cn/s/e11563818d09 | 图形化SQL注入工具                      |
+| XSS漏洞           | XSStrike               | 3.1.5      | https://pan.quark.cn/s/bb93b70b1e01 | XSS检测工具（支持WAF绕过）             |
+| XSS漏洞           | dalfox                 | 2.9.3      | https://pan.quark.cn/s/a85d5fa6f031 | 自动化XSS扫描（参数分析）              |
+| 漏洞扫描          | POC-bomber             | 3.0.0      | https://pan.quark.cn/s/5372e8836243 | 漏洞检测工具（支持无回显RCE）          |
+| 漏洞扫描          | afrog                  | 3.1.7      | https://pan.quark.cn/s/4f71c0910699 | 高性能漏洞扫描（支持自定义POC）        |
+| 漏洞扫描          | fscan                  | 1.8.2      | https://pan.quark.cn/s/c2ef6bcecdcd | 内网综合扫描（存活探测/漏洞检测）      |
+| 漏洞扫描          | Packer-Fuzzer          | 1.4        | https://pan.quark.cn/s/73c78a9b38a2 | 前端打包文件漏洞扫描                   |
+| 漏洞扫描          | woodpecker             | 1.3.5      | https://pan.quark.cn/s/5460305bf421 | 精准漏洞检测（高危漏洞聚焦）           |
+| 漏洞扫描          | xpoc                   | 0.1.0      | https://pan.quark.cn/s/ef54eab91af5 | 快速应急扫描（供应链漏洞）             |
+| 漏洞扫描          | wavely                 | 1.5.3      | https://pan.quark.cn/s/74a8be9cf84a | Nuclei图形化管理工具                   |
+| 漏洞扫描          | scaninfo               | 1.1.0      | https://pan.quark.cn/s/dfd8ae482da5 | 快速端口扫描（服务识别）               |
+| Webshell管理      | 天蝎权限管理工具       | 1.0        | https://pan.quark.cn/s/614b9a4c84a1 | Webshell管理（基于冰蝎协议）           |
+| Webshell管理      | webshell生成工具       | 1.2.3      | https://pan.quark.cn/s/ff1ec4e5789d | Webshell生成（支持多语言免杀）         |
+| Webshell管理      | 中国菜刀               | 2016       | https://pan.quark.cn/s/66d6baea12c9 | 经典Webshell连接工具                   |
+| Webshell管理      | 冰蝎3.0                | 3.0        | https://pan.quark.cn/s/aaec73866dcd | 加密Webshell管理（流量加密）           |
+| Webshell管理      | EtherGhost             | 0.1.3      | https://pan.quark.cn/s/1eb520a62c68 | Webshell管理（支持多协议）             |
+| 常用工具          | NC工具                 | 1.12       | https://pan.quark.cn/s/5d44afb369d0 | 网络调试工具（端口监听）               |
+| 常用工具          | BurpSuite社区版        | 2024.5.5   | https://pan.quark.cn/s/521552c72f81 | Web安全测试（社区免费版）              |
+| 常用工具          | BurpSuite专业版        | 2024.5     | https://pan.quark.cn/s/8b93e8de5041 | Web安全测试（专业功能版）              |
+| 常用工具          | sqlmap                 | 1.8.6.17   | https://pan.quark.cn/s/6521acb92b14 | 自动化SQL注入工具                      |
+| 常用工具          | nmap                   | 7.92       | https://pan.quark.cn/s/df06697faa34 | 端口扫描与服务识别                     |
+| 常用工具          | yakit                  | 1.3.7-1129 | https://pan.quark.cn/s/08c9da8f3534 | 安全测试平台（集成化工具）             |
+| 常用工具          | nuclei                 | 3.3.8      | https://pan.quark.cn/s/26b8a5150aef | 漏洞模板扫描（300+模板）               |
+| 常用工具          | xray                   | 1.9.11     | https://pan.quark.cn/s/b4bb284c7370 | 漏洞扫描（支持被动代理）               |
+| 常用工具          | goby社区版             | 2.8.4      | https://pan.quark.cn/s/66ca19e33d84 | 资产测绘与漏洞扫描                     |
+| 常用工具          | 中国蚁剑               | 2.1.15     | https://pan.quark.cn/s/c398eff5a4ca | Webshell管理（开源跨平台）             |
+| 常用工具          | 冰蝎                   | 4.1.0      | https://pan.quark.cn/s/6d98484eefbd | 加密Webshell管理（动态密钥）           |
+| 常用工具          | 哥斯拉                 | 4.0.1      | https://pan.quark.cn/s/008e5b542960 | Webshell管理（流量加密）               |
+| 常用工具          | EZ                     | 1.8.9      | https://pan.quark.cn/s/0126e2d869bf | 综合扫描（信息收集/POC）               |
+| 常用工具          | 无影(TscanPlus)        | 2.9.0      | https://pan.quark.cn/s/07ab9df2aec8 | 资产发现与漏洞检测                     |
+| 常用工具          | Burp破解工具           | 2.1.06     | https://pan.quark.cn/s/18545cf96d82 | BurpSuite破解补丁                      |
+| 常用工具          | CS4.5中文              | 2.1.06     | https://pan.quark.cn/s/419b903de1f8 | Cobalt Strike汉化版                    |
+| 子域名探测        | Layer子域名挖掘        | 5.0        | https://pan.quark.cn/s/57ee70efee11 | 子域名扫描（支持暴力破解）             |
+| 子域名探测        | subfinder              | 2.6.8      | https://pan.quark.cn/s/341dcb6abed4 | 子域名发现（多数据源）                 |
+| 子域名探测        | DnsX                   | 1.1.6      | https://pan.quark.cn/s/afcf945d261d | DNS查询工具（批量解析）                |
+| 子域名探测        | OneForAll              | 0.4.5      | https://pan.quark.cn/s/126beda967c6 | 子域名收集（全面扫描）                 |
+| 子域名探测        | OneLong                | 1.0.7      | https://pan.quark.cn/s/f15dbc544a9e | 信息收集（子域名/资产）                |
+| 子域名探测        | 密探                   | 1.2.3      | https://pan.quark.cn/s/5635eefd00b3 | 渗透信息收集（多引擎）                 |
+| 端口扫描          | Naabu                  | 2.3.3      | https://pan.quark.cn/s/f04265a7c6da | 快速端口扫描（SYN/CONNECT）            |
+| 端口扫描          | gogo                   | 2.13.8     | https://pan.quark.cn/s/d7332c3ca8e0 | 自动化端口扫描引擎                     |
+| 端口扫描          | AlliN                  | 2.4.2      | https://pan.quark.cn/s/eb3cc3410718 | 综合扫描（资产/端口/路径）             |
+| 目录扫描          | 御剑后台扫描珍藏       | 无         | https://pan.quark.cn/s/9af36305b2ca | 后台目录暴力扫描                       |
+| 目录扫描          | Dirsearch              | 0.4.3      | https://pan.quark.cn/s/b985bcfb92a0 | 目录扫描（支持递归）                   |
+| 目录扫描          | 备份扫描               | 1          | https://pan.quark.cn/s/b232b669821d | 网站备份文件扫描                       |
+| 目录扫描          | dirsx                  | 1          | https://pan.quark.cn/s/286a8ac2d71f | 自动化目录扫描工具                     |
+| 信息泄露          | 云存储泄露工具         | 0.4.0      | https://pan.quark.cn/s/8b3f5f6373b6 | 六大云存储泄露检测                     |
+| 信息泄露          | SvnExploit             | 2          | https://pan.quark.cn/s/84e59a1d1504 | SVN源码泄露利用工具                    |
+| 信息泄露          | Dumpall                | 0.4.0      | https://pan.quark.cn/s/065d566ae2b6 | 信息泄露利用（.git/.svn）              |
+| 信息泄露          | heapdump_tool          | 20230425   | https://pan.quark.cn/s/e823e40b1236 | Java堆转储敏感信息提取                 |
+| 其他信息收集      | RouterScan中文         | 2.60       | https://pan.quark.cn/s/a26c8fa6053d | 路由器扫描（漏洞检测）                 |
+| 其他信息收集      | zpscan                 | 1.8.39     | https://pan.quark.cn/s/aa53acc67083 | 命令行信息收集（集成化）               |
+| 其他信息收集      | Fine                   | 2.4.3      | https://pan.quark.cn/s/c272dd38b2ea | 资产测绘（ICP/企业信息）               |
+| 指纹识别          | CMSeeK                 | 1.1.3      | https://pan.quark.cn/s/15badb7226f0 | CMS识别（180+系统）                    |
+| 指纹识别          | Wafw00f                | 2.2        | https://pan.quark.cn/s/714ea6f4d4f1 | WAF识别与绕过检测                      |
+| 指纹识别          | EHole                  | 3.1        | https://pan.quark.cn/s/dc0afd668fcf | 重点系统指纹识别（红队向）             |
+| 指纹识别          | hfinger                | 1.0.3      | https://pan.quark.cn/s/17c31b242928 | Web指纹识别（高精度）                  |
+| 指纹识别          | P1finger               | 0.1.2      | https://pan.quark.cn/s/ce6b91c7a7c3 | 资产指纹识别（快速定位）               |
+| 资源发现          | FofaViewer             | 1.1.15     | https://pan.quark.cn/s/d604550f541a | FOFA图形化客户端                       |
+| 资源发现          | Fofax                  | 0.1.47     | https://pan.quark.cn/s/25cd6510c004 | FOFA命令行查询工具                     |
+| 资源发现          | Search_Viewer          | 3          | https://pan.quark.cn/s/612eb27c92c5 | 多测绘引擎聚合工具                     |
+| 资源发现          | ENScan_GO              | 1.1.1      | https://pan.quark.cn/s/a78197154bee | 企业信息收集（股权/备案）              |
+| 运行环境          | Python38               | 3.8_1      | https://pan.quark.cn/s/d9ff7887d8d6 | Python 3.8运行环境                     |
+| 运行环境          | jdk-20.0.1             | 21_1       | https://pan.quark.cn/s/91c6276335b6 | Java 20运行环境                        |
+| 运行环境          | jdk1_8_0_291           | 1.8_1      | https://pan.quark.cn/s/505dfacce6e6 | Java 8运行环境                         |
