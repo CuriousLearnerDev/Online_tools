@@ -135,3 +135,24 @@
 | 运行环境          | Python38               | 3.8_1      | https://pan.quark.cn/s/d9ff7887d8d6 | Python 3.8运行环境                     |
 | 运行环境          | jdk-20.0.1             | 21_1       | https://pan.quark.cn/s/91c6276335b6 | Java 20运行环境                        |
 | 运行环境          | jdk1_8_0_291           | 1.8_1      | https://pan.quark.cn/s/505dfacce6e6 | Java 8运行环境                         |
+| BurpSuite插件     | Jython                 |            | https://pan.quark.cn/s/90d5d28918f9 | Jython让Burp支持Python插件             |
+| BurpSuite插件     | HaE                    |            | https://pan.quark.cn/s/67e3ce2e898e | HaE插件高亮提取正则匹配报文            |
+| BurpSuite插件     | xiaSQL                 |            | https://pan.quark.cn/s/7b4df47b4b6c | 单引号插件快速检测SQL注入              |
+| BurpSuite插件     | nowafpls               |            | https://pan.quark.cn/s/6fd85ade2bda | Nowafpls插件需Jython绕过WAF            |
+| BurpSuite插件     | Log4j2Scan             |            | https://pan.quark.cn/s/6b9482135e28 | Log4j2漏洞扫描支持多DNSLog平台         |
+| BurpSuite插件     | FastjsonScan_bp        |            | https://pan.quark.cn/s/db42b4d721a1 | Fastjson反序列化检测Burp插件           |
+| BurpSuite插件     | BurpFingerPrint        |            | https://pan.quark.cn/s/85166474ee2d | Ehole指纹库集成OA弱口令爆破            |
+| BurpSuite插件     | BurpAPIFinder          |            | https://pan.quark.cn/s/9ee4659265f5 | 未授权/敏感信息/越权检测插件           |
+| BurpSuite插件     | TsojanScan             |            | https://pan.quark.cn/s/44c8672f1d61 | 最小化请求探测Nacos/Shiro等漏洞        |
+| BurpSuite插件     | xia_yue                |            | https://pan.quark.cn/s/2a9dd4f9c327 | 瞎越插件专测越权未授权漏洞             |
+| BurpSuite插件     | NEW_xp_CAPTCHA         |            | https://pan.quark.cn/s/2420a0d7248c | 验证码识别Burp插件辅助测试             |
+| BurpSuite插件     | xia_Liao               |            | https://pan.quark.cn/s/2305e1c0bdf1 | 进程识别/弱口令生成多功能工具          |
+| BurpSuite插件     | burpsuite_hack         |            | https://pan.quark.cn/s/f557d7e9c15d | 一款代理扫描器                         |
+| BurpSuite插件     | DetSql1.7              |            | https://pan.quark.cn/s/63dca1fbfdfb | SQL注入快速探测标记插件                |
+| BurpSuite插件     | OneScan                |            | https://pan.quark.cn/s/4fc8ad75afe1 | OneScan递归目录扫描工具                |
+| CobaltStrike插件  | LSTAR                  |            | https://pan.quark.cn/s/08a4c706778c | CobaltStrike跨平台后渗透插件           |
+| CobaltStrike插件  | CrossC2_All            |            | https://pan.quark.cn/s/c3ce2219aae3 | 支持CobaltStrike对其他平台             |
+| 爆破字典          | 实战沉淀字典           |            | https://pan.quark.cn/s/a135ce8d4382 | 实战字典收集实用攻击载荷               |
+| 谷歌浏览器插件    | FindSomething2.0.18    |            | https://pan.quark.cn/s/ad14192ee43b | 源码分析工具发现JS敏感信息             |
+| 谷歌浏览器插件    | ProxySwitchyOmega      |            | https://pan.quark.cn/s/82bc2bae519b | 多代理切换管理便捷插件                 |
+| 谷歌浏览器插件    | Wappalyzer6.10.76      |            | https://pan.quark.cn/s/0ceb7788942f | Wappalyzer嗅探网站技术栈               |
