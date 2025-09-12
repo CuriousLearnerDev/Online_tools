@@ -80,7 +80,7 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250912143450272.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250620175029164.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250912143547348.png)
 
 ### 0.8.0更新新增
 
