@@ -28,8 +28,8 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 
 
 #### ✅ 最新推荐版本：
-- 0.9.3 版本（新界面最新版本）：
-  - 夸克网盘：https://pan.quark.cn/s/ca2a3201d742 提取码：ew6q
+- 0.10.0 版本（新界面最新版本）：
+  - 夸克网盘：https://pan.quark.cn/s/d32034bb4572 提取码：TTia
 - 0.8.2 版本（老界面最新版本）：
   - 夸克网盘：https://pan.quark.cn/s/0f15c926a793 提取码: xSuC
 
