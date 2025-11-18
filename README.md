@@ -27,12 +27,9 @@
 GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 
 
-#### ✅ 最新推荐版本：
-- 0.10.0 版本（新界面最新版本）：
-  - 夸克网盘：https://pan.quark.cn/s/d32034bb4572 提取码：TTia
-- 0.8.2 版本（老界面最新版本）：
-  - 夸克网盘：https://pan.quark.cn/s/0f15c926a793 提取码: xSuC
-
+#### ✅ 全打包版：
+- 0.11.1 版本：
+  - 夸克网盘：https://pan.quark.cn/s/0e5dc57b5bfe  提取码：GRWL
 
 #### 🛠 工具扩展包（无需秘钥下载，便于导入新工具）
 
@@ -40,296 +37,129 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
   工具列表：[全工具列表](https://github.com/CuriousLearnerDev/Online_tools/blob/master/Tools_list.md)
   
   ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250730175018927.png)
-
-### 🔧 工具介绍
+## 🔧 工具介绍
 
 该工具专为运维和安全检查和学习研究设计，类似于软件商城，可以实现工具下载、更新，并提供自动化安装脚本。对于信息安全专业的学生而言，不用担心工具无法正常运行配置，提升学生学习效率。
 
+
 集成了类型工具如下：
-- 全部运维&甲方&防守方工具：应急响应、内存马查杀、日志分析、流量抓包、代码审计、反编译/逆向、应急流程和说明
-- 全部信息收集工具：子域名探测、端口扫描、指纹识别、目录扫描、资源发现、信息泄露
-- 漏洞利用工具：中间件/CMS/框架漏、OA/应用漏洞、Webshell管理、漏洞扫描、数据库漏洞、XSS漏洞、综合利用
-  
 
-### 🧠 漏洞库系统介绍
+🛡️ 运维&防守工具：应急响应、内存马查杀、日志分析、流量抓包、代码审计、反编译/逆向
+🔎 信息收集工具：子域名探测、端口扫描、指纹识别、目录扫描、资源发现、信息泄露
+💥 漏洞利用工具：中间件/CMS/框架漏洞、OA/应用漏洞、Webshell管理、漏洞扫描、数据库漏洞、XSS漏洞
 
-关于漏洞采集系统：
+## 🆕 0.11.x更新新增
 
-1.5版本基本上花了很长时间去写自动化漏洞采集系统他会自动化爬取微信公众号漏洞Poc，Gihtub采集漏洞代码采集，监控各种漏洞平台（x里云，x安信，x创宇，x盟等）判断采集利用Poc，会根据漏洞名称是否有POC/EXP提取关键字自动化去搜索引擎（支持谷歌、Bing）和Gihub搜索爬取和提取数据，监控xxhub、nuclei、exploitdb等漏洞利用平台
+这个版本之前已经悄悄迭代过好几次，但因为改动非常大，特别单独整理出来分享
 
-2.0主要新增了github内容的漏洞exp/poc的监控，目前漏洞采集近6w，安全考虑目前还不对放公开版统领工具开放
+本次版本进行了重构：
 
-![](Explanationphoto/Peek%202024-11-24%2015-52_compressed.gif)
+- **界面重构**：采用 PyQt6 全面重写，优化界面布局和用户体验
+- **框架升级**：底层框架重构，提升稳定性和扩展性
+- **功能增强**：支持工具批量下载、增加界面加载状态显示
+- **操作优化**：简化操作流程，提升使用效率
 
+由于此版本进行了较大改动，可能会存在一些未知问题，考虑到个人的测试能力有限，如果你在使用过程中遇到任何问题，请随时反馈
 
-### 🆕 0.10.x更新新增
-✅  统领0.9.x版更新了什么功能
+## 🗂  文件大小
 
-- 添加全工具显示
-- 界面去除实用工具
-- 界面主题改变
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118164114135.png)
 
-由于此版本进行了较大改动，可能会存在一些未知问题，考虑到个人的测试能力有限，如果你在使用过程中遇到任何问题，请随时反馈，我们将尽力改进。
+## 🖥️ 新版本界面更
 
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251117172008039.png)
 
-### 🖥️ 新版本界面更
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251117180952042.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250912112730400.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251117180019559.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250912113029492.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251117173042721.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250912143450272.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251117172502220.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250912143547348.png)
+放上面查看工具说明
 
-### 0.8.0更新新增
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251117172109834.png)
 
-- 界面美化
-- 新增应用界面
-- 新增右键工具图片快速工具文档使用（2024年11月23日目前已经更了nc、sqlmap、360星图、subfinder、nmap使用文档后续持续更新）
-- 界面布局修改
-- 新增在线资料库（目前只能查看在线资料后续更新）
+右键
 
-### 新版本界面更
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251117172419338.png)
 
-python的tk开发美化成这样了已经很难了，美化的快吐了，tk开发小工具还好开发大点功能的东西就得吐血了！
+插件
 
-![](Explanationphoto/image-20241124123550450.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251117172531320.png)
 
-![](Explanationphoto/image-20241124121242689.png)
+检测工具新增和更新
 
-![](Explanationphoto/image-20241124121825846.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251117172617441.png)
 
-![](Explanationphoto/image-20241124121954350.png)
+打开命令行工具
 
-![](Explanationphoto/image-20241124135207702.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118162811525.png)
 
-### 工具使用
+## ☁️  工具自定义服务器（可自由扩展）
 
-#### 1、命令行启动显示
+如果你有自己的服务器，可以将工具包自行上传，让平台从你的私有服务器下载，实现私有化部署。
 
-命令行模式的工具都会有运行说明
+配置文件路径：
 
-![](Explanationphoto/image-20241124140241082.png)
+```
+storage/toollist.json
+```
 
-#### 2、工具更新
+其中有一个 `custom` 字段，只需把你的工具包 URL 填进去即可
 
-如果要检查工具有没有更新可以点击【检查更新】（他会检查新增和更新的工具）
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118124006578.png)
 
-![](Explanationphoto/image-20241124133206708.png)
+📌 **注意：服务器中的文件夹名称必须与工具名一致**，否则无法识别
 
-![](Explanationphoto/image-20241124133240875.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118123820355.png)
 
-![](Explanationphoto/image-20241124133428407.png)
+## 📣 自定义工具格式（可自由扩展）
 
-看见有新工具增加了
+配置文件说明：
 
-![](Explanationphoto/image-20241124133633972.png)
+- `storage/pluginlist.json`：存储选项卡设置、插件信息、图标配置等
+- `storage/toollist.json`：存储所有工具的名称、版本等详细信息
 
-#### 3、查看工具使用文档
+例如：toollist.json文件
 
-2024年11月23日目前已经更了(nc、sqlmap、360星图、subfinder、nmap使用文档后续持续更新）
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118151845280.png)
 
-右键图标下载文档
+```json
+"VulnerabilityScanning": {  // 工具分类
+    "POC-bomber": {
+        "position": [1,70],           // 可选，兼容老版本的位置信息
+        "environment": "Python38",    // 运行环境要求
+        "version": "3.0.0",           // 工具版本
+        "commandLine": "True",        // 是否显示命令行界面
+        "official": "https://github.com/tr0uble-mAker/POC-bomber", // 官方地址
+        "introduce": "漏洞检测工具",   // 工具介绍
+        "r": "",                      
+        "custom": ""                  // 自定义下载地址
+    }
+}
+```
 
-![](Explanationphoto/image-20241124134007640.png)
+## 兼容老版本
 
-然后右键打开
+如果已经下载使用老版本，下载新版本解压覆盖即可
 
-![](Explanationphoto/image-20241124134041991.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118162356877.png)
 
-#### 4、工具设置
 
-可以根据自己的设置界面样式
 
-![](Explanationphoto/image-20241124134213294.png)
+## 🔮 后续AI计划（可能！）
 
-上面图片里面不是有一个设置网络请求吗，这个关闭的时候该工具就不会检查发送然后外部请求了（比如启动程序的时候他会自动检查更新和更新公告内容）
+后续计划可能会加入 **AI 自动化**：通过编写 MCP 调用Gemini-cli 或其他模型规划，并调用工具箱里所有可通过命令行运行的工具，实现批量自动化扫描。由于图形化工具无法被 AI 直接控制，目前只能调用终端类工具，这部分能力可能略显**鸡肋**，整体实现效果暂时不算理想，但仍会持续探索更好的方式。
 
-可以设置界面显示
+MCP 示例
 
-![image-20241124135505368](Explanationphoto/image-20241124135505368.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118191347044.png)
 
-有三种选择
+Gemini-cli + MCP 调用
 
-如下：
-
-![](Explanationphoto/image-20241124135540826.png)
-
-![](Explanationphoto/image-20241124135605119.png)
-
-![](Explanationphoto/image-20241124135645617.png)
-
-#### 5、添加自己下载连接
-
-如果自己有服务器可以打包我的包然后上传服务器叫下载地址放到
-
-全部的工具下载配置文件在storage/toollist.json文件里面里面有一个空的参数
-![](Explanationphoto/image-20240715141617548.png)
-
-这个参数就是对用的工具自定义下载地址，支持7z、zip、rar压缩方式
-
-演示
-
-叫下载好的工具把上传到服务器
-
-![](Explanationphoto/image-20240715141746950.png)
-
-上传到服务器上面
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20240715141953393.png)
-
-然后叫这个下载链接放到custom里面，
-
-![](Explanationphoto/image-20240715142110038.png)
-
-他就不会调用作者的下载地址了
-
-#### 添加自己的自定义工具
-
-这个功能我是真的写浪费了我一个周六周日周末的时间写出来的功能，真的要多多支持呀
-
-下面我就详细说一下这个功能的使用
-
-界面依旧很丑！
-
-![](Explanationphoto/image-20231209114217925.png)
-
-我们随便点击一个添加按钮，如果我点击了是那个按钮就会自定义工具添加到选择的一行里面
-
-![](Explanationphoto/image-20231209114353122-173243852371227.png)
-
-- 第一个工具名称：这个没有什么好说的就是添加的工具名称
-- 第二个工具显示位置：我们叫图标的显示的位置
-- 第三个工具图标：这个也没有什么好说的就是工具的图标
-- 第四个程序启动的文件：我们的启动程序的文件
-- 第六个选择启动环境：就是启动程序的需要的环境，这个一共有4个选择可以选择python3.8、JDK8、JDK20、无需环境这几个选项（使用的是工具内部的环境然后没有安装会自动下载）
-- 第七个选择显示方式：这个就是你选择的工具的启动模式，然后是图形界面的就选择图形界面的，如果是命令行的就选择命令行的
-- 第八个添加参数：这个就是我们运行的后面的参数，比如我们运行一个nmap -h，这个-h就是我们添加的默认启动的参数
-
-
-
-下面是详细的说明
-
-
-##### 1、第一个工具名称：
-
-这个没有什么好说的就是添加的工具名称
-
-#### 2、第二个工具显示位置：
-
-这个我演示一下应该就可以明白了
-
-比如我添加一个工具位置是1
-
-![](Explanationphoto/image-20231209114852295-173243852702829.png)
-
-然后这个工具是在这
-
-![](Explanationphoto/image-20231209114921894-173243852829331.png)
-
-然后我添加一个大于等于2的位置他就会下面这样
-
-![](Explanationphoto/image-20231209115044884-173243852958133.png)
-
-然后这个工具的位置就变成了这样
-
-![](Explanationphoto/image-20231209115215153-173243853082735.png)
-
-##### 3、第三个工具图标：
-
-这个也没有什么好说的就是工具的图标
-
-##### 4、第四个程序启动的文件：
-
-![](Explanationphoto/image-20231209120224387-173243853454237.png)
-
-这个启动是文件就是然后你是比如sqlmapq启动文件就是如下
-
-下面就是sqlmap的启动文件
-
-![](Explanationphoto/image-20231209115717673-173243853652539.png)
-
-在如果比如是冰蝎工具
-
-下面是他的启动文件
-
-![](Explanationphoto/image-20231209115839323-173243853864241.png)
-
-在在如果是goby
-
-下面是他的启动文件
-
-![](Explanationphoto/image-20231209120015171-173243854100143.png)
-
-##### 5、第五个工具版本：
-
-这个也没有什么好说的就是工具的版本
-
-下面这个输入什么图标版本就显示什么
-
-![](Explanationphoto/image-20231209120413443-173243854274745.png)
-
-![](Explanationphoto/image-20231209120449061-173243854408247.png)
-
-##### 6、第六个选择启动环境
-
-这个一共有4个选择可以选择python3.8、JDK8、JDK20、无需环境这几个选项
-
-![](Explanationphoto/image-20231209120819600-173243854559149.png)
-
-这个选择如果你是sqlmap这样的python的运行环境你就选择运行环境
-
-运行自定义工具的简单原理就是这样 python运行地址加工具运行地址
-
-图片
-
-![](Explanationphoto/image-20231209121344595.png)
-
-在运行源码层面上其实比这个复杂一点，如果是命令行程序会生成一个一个start的文件夹然后在创建一个文件里面会生成一个工具的启动文件，你们用户就不用了考虑怎么多选择就完事了，GUI点点就完事了
-
-![](Explanationphoto/image-20231209121613163-173243854849752.png)
-
-
-
-##### 7、第七个选择显示方式：
-
-这个就是你选择的工具的启动模式，如果是图形界面的就选择图形界面的，如果是命令行的就选择命令行的
-
-
-
-##### 8、第八个添加参数
-
-这个就是我们运行的后面的参数，比如我们运行一个nmap -h，这个-h就是我们添加的默认启动的参数（可以忽略不加也可以）
-
-![](Explanationphoto/image-20231209122156799-173243855157554.png)
-
-简单大概下面这样
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209122106196.png)
-
-##### 自定义添加工具的案例
-
-我们还是那sqlmap做演示
-
-我在github叫sqlmap下载下来然后解压出来了，在`C:\sqlmap-master`
-
-![](Explanationphoto/image-20231209132442416-173243855429956.png)
-
-
-
-然后添加就这样添加
-
-![](Explanationphoto/image-20231209132711891-173243855660358.png)
-
-添加完成这个就显示了
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209132744269.png)
-
-我们就可以点击运行了
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20231209132829235.png) 
-
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118191452702.png)
 
 ### ⚠️ 免责声明：
 1. 本安全工具仅供技术研究和教育用途。使用该工具时，请遵守适用的法律法规及道德准则。
