@@ -2,7 +2,7 @@
 
 ### 🧩 问题与交流交流群
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250725161624253.png)
+<img src="https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250725161624253.png" width="200"/>
 
 
 
