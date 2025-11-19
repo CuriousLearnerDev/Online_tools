@@ -1,11 +1,5 @@
 ### 🛡️ TrafficEye 护网工具 ：https://github.com/CuriousLearnerDev/TrafficEye
 
-### 🧩 问题与交流交流群
-
-<img src="https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250725161624253.png" width="200"/>
-
-
-
 ### 📦 下载方式
 #### 🔗 所有版本地址：
 GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
@@ -141,6 +135,14 @@ MCP 示例
 Gemini-cli + MCP 调用
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118191452702.png)
+
+
+### 🧩 问题与交流交流群
+
+<img src="https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250725161624253.png" width="200"/>
+
+
+
 
 ### 🙏 鸣谢
 特别感谢以下团队与信息安全研究者对工具技术的支持与推荐（排名不分先后）：
