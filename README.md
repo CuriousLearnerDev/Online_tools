@@ -29,7 +29,7 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 
 #### ✅ 全打包版：
 - 0.11.1 版本：
-  - 夸克网盘：https://pan.quark.cn/s/0e5dc57b5bfe  提取码：GRWL
+  - 夸克网盘：https://pan.quark.cn/s/51ff0477e7ca 提取码：K76N
 
 #### 🛠 工具扩展包（无需秘钥下载，便于导入新工具）
 
