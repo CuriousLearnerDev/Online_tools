@@ -1,7 +1,9 @@
 ### 🛡️ TrafficEye 护网工具 ：https://github.com/CuriousLearnerDev/TrafficEye
 
 ### 📦 下载方式
+
 #### 🔗 所有版本地址：
+
 GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 
 
@@ -37,11 +39,11 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 
 ## 🗂  文件大小
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251202120231012.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260105172130905.png)
 
 ## 🖥️ 新版本界面更
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251202115904668.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260105172208805.png)
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251202115945944.png)
 
