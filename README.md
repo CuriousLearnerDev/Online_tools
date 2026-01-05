@@ -45,6 +45,10 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260105172208805.png)
 
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260105172651061.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260105172716856.png)
+
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251202115945944.png)
 
 检测工具新增和更新
