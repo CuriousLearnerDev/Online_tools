@@ -25,7 +25,7 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 🔎 信息收集工具：子域名探测、端口扫描、指纹识别、目录扫描、资源发现、信息泄露
 💥 漏洞利用工具：中间件/CMS/框架漏洞、OA/应用漏洞、Webshell管理、漏洞扫描、数据库漏洞、XSS漏洞
 
-## 🆕 0.12.x更新新增
+## 🆕 0.12.7更新新增
 
 本次版本进行了重构：
 
@@ -34,6 +34,7 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 - 添加工具点赞、工具排行
 - 修改更新选项位置
 - 修复资产格式不正确卡在加载界面上
+- 最小化
 
 由于此版本进行了较大改动，可能会存在一些未知问题，考虑到个人的测试能力有限，如果你在使用过程中遇到任何问题，请随时反馈
 
@@ -45,7 +46,7 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260105172208805.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260105172651061.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260108180251280.png)
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260105172716856.png)
 
