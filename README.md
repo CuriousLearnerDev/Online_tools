@@ -15,6 +15,95 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 
 - 工具列表：[全工具列表](https://github.com/CuriousLearnerDev/Online_tools/blob/master/Tools_list.md)
 
+最近工具更新
+```
+2026年01月29日：更新：无影(TscanPlus) 3.1.7、新增：中间件/CMS/框架漏洞工具：Deswing
+2026年01月12日：新增浏览器插件 Heimdallr 新增漏洞扫描 Yscan 新增数据库利用 MySQLMonitor JS类 URLFinder
+2026年01月08日：APP工具新增：GDA、ApkCheckPack、实验环境：Frida-Labs
+2025年12月31日：综合利用工具：Slack 浏览器插件：SnowEyes  BP插件：CloudX、Rinte.7z 新增抓包工具：ProxyBridge、HttpCanary
+2025年12月30日：新增综合利用工具：DudeSuite
+2025年12月10日：新增中间件/CMS/框架漏：Vue框架未授权接口扫描工具.7z、 Jenkins漏洞利用工具 OA/应用工具：I-Wanna-Get-All 云渗透：aksk_tool、lc   burp插件：AutorizePro
+2025年12月03日：更新：统领0.12.1版本、
+2025年11月29日：新增：APP渗透：akptool
+2025年11月24日：新增：中间件/CMS/框架漏：Java-Chains、免杀：java-memshell-generator
+2025年11月21日：新增：BurpSuite专业版2025.9、优化认证服务器：优化了认证系统看看现在下载认证速度飞快
+2025年11月16日：新增浏览器插件：VueCrack 工具更新 无影(TscanPlus) 3.0.7、afrog 3.2.3、yakit 1.4.5.115、Naabu 2.3.6
+2025年11月14日：新增漏洞扫描工具：API-Explorer、kscan 中间件/CMS/框架漏洞工具：ysoserial 代理抓包工具：Frpc-Desktop 综合利用工具：DecryptTools
+2025年11月11日：服务器优化修复加载下载等报错问题
+2025年09月25日：更新：无影(TscanPlus) 3.0.0版本
+2025年09月23日：新增目录扫描工具：7kbscan JS泄露工具：Rotor-Goddess
+2025年09月09日：新增密码爆破：Railgun 
+2025年09月08日：更新：无影(TscanPlus) 2.9.9版本、 Naabu 2.3.5版本、 nuclei 3.4.10版本、 afrog 3.2.0版本
+2025年09月08日：密码爆破：jwt_tool
+2025年09月04日：新增端中间件/CMS/框架漏洞扫描工具：SpringBoot-Scan
+2025年08月16日：新增端口扫描：dddd 内存马查杀工具：MemShellGene
+2025年08月01日：更新：Struts2 v19.68、subfinder v2.8.0、fscan v2.0.1、Naabu v2.3.5
+2025年07月31日：更新：BlueTeamTools v3.26、afrog v3.1.8、无影(TscanPlus) v2.9.5、gogo v2.14.0
+2025年07月25日：更新：TrafficEye v0.0.8.9-2
+2025年07月15日：修复下载流量购买秘钥
+2025年06月28日：新增：淮橘代码审计工具 v2.0
+2025年06月25日：更新：无影(TscanPlus) v2.9.0 、 gogo v2.13.8 、 密探v1.2.3
+2025年06月11日：新增端口扫描：Allin 密码爆破工具：jwt_gui 指纹识别工具：p1finger
+2025年05月22日：新增信息泄露工具：heapdump_tool 插件BurpSuite：OneScan
+2025年05月16日：新增日志分析工具：TrafficEye、代码审计工具：StarCodeSecurity
+2025年04月25日：新增其他信息收集工具：Fine v2.4.3
+2025年04月10日：更新：BlueTeamTools v1.43、afrog v3.1.7、无影(TscanPlus) v2.7.2、密探v1.2.2
+2025年02月27日：更新：无影(TscanPlus) v2.7.2、fscan v2.0.0、DnsX v1.2.2、naabu v2.3.4、Nuclei v2.3.4、Search_Viewer v4.2
+2025年02月25日：新漏洞扫描工具 scaninfo
+2025年01月29日：新增信息收集-资产发现工具：ENScan_GO
+2025年01月17日：更新：无影(TscanPlus) v2.6.9、gogo v2.13.6、subfinder v2.6.8 、nuclei v3.3.8、afrog v3.1.5
+2025年01月06日：更新：反编译/逆向工具：jadx-gui
+2024年12月26日：更新：无影(TscanPlus) v2.6.7
+2024年12月20日：新增BURP插件：DetSql1.7
+2024年12月12日：新增浏览器插件：Wappalyzer6.10.76
+2024年12月11日：新增漏洞扫描工具： Wavely（推荐人：远方）
+2024年12月11日：更新：密探v1.17 、无影(TscanPlus) v2.6.3、afrog v3.1.3、nucleiv3.3.7
+2024年12月08日：新增综合利用工具： miscan（推荐人：ANy）
+2024年12月01日：新增Webshell管理器：EtherGhost （推荐人：ANy）
+024年11月24日：更新nc、sqlmap、360星图、subfinder、nmap使用文档
+2024年11月22日：新增工具：dirsx、SqlmapXPlus、sqlmap-gui
+2024年11月15日22.00：更新afrogv3.1.2、gogo2.13.5
+2024年11月10日22.00：插件工具：KillWxapkg
+2024年11月10日19.00：插件新增：xia_Yue，NEW_xp_CAPTCHA，xia_Liao，Jython，burpsuite_hack，Jython
+2024年11月10日11.19: 更新afrogv3.0.9，Nacos利用工具，漏洞集合工具hyacinth，gogo，工具 无影(TscanPlus)，BlueTeamTools ，dalfox，dalfox，dalfox，subfinder
+2024年09月29日08.02: 新增burp插件，TsojanScan  
+2024年09月27日14.02：更新工具，EZ，yakit，DudeSuite Web Security Tools  
+2024年09月18日10.00：工具新增：常用工具：EZ工具  
+2024年09月13日15.00：工具新增：目录扫描工具：备份文件扫描  
+OA/应用漏洞工具：若依综合漏洞、若依漏洞工具
+2024年09月07日21.10：工具新增：
+OA/应用漏洞：海康威视综合漏洞
+2024年09月07日21.00：发布0.7.7版本：
+- 修复部分线程崩溃问题
+- 美化部分功能界面
+- 添加插件是否下载判断
+2024年08月28日23.00：工具新增：
+OA/应用漏洞：NacosExploit工具
+2024年08月20日10.21：工具新增：
+信息收集指纹识别工具：hfinger
+数据库利用工具：MDUT(优化版)
+2024年08月10日12.21：工具新增：
+谷歌浏览器插件：FindSomething2.0.18、ProxySwitchyOmega
+应急响应工具：Procmon(官方版)
+流量分析工具：360星图、FullEventLogView、LogParser、APT-Hunter
+2024年08月04日20.30：新增工具：应急响应工具FindAll
+2024年07月29日20.02：新增工具：漏洞扫描工具-xpoc、点击更新检查即可更新
+2024年07月29日12.12：新增插件：爆破字典-实战沉淀字典、点击更新检查即可更新
+2024年07月27日12.12：修复更修复BlueTeamTools版本更新问题修复方法、点击更新检查即可更新
+2024年07月27日11.30：修复更新功能、点击更新检查即可更新
+2024年07月25日18.30分新增：
+1、端口扫描工具：gogo
+2、OA扫描工具：红蓝对抗重点OA
+3、插件burpsuite插件：Log4j2Scan、FastjsonScan_bp2024年07月23日16.54分新增常用工具无影(TscanPlus)、点击更新检查即可更新2024年07月21日12.57分新增内存马查杀工具cop、点击更新检查即可更新
+2024年07月21日11:25分新增信息收集工具密探工具、点击更新检查即可更新
+2024年07月21日11:22分修复Code-audit工具下载，用户修复方式点击更新检查即可更新
+2024年07月20日23:19分修复下载失败或者下载安装失败问题工具Seay、Wireshark、BlueTeamTools、Fofax等工具
+2024年07月20日17:25分新增工具：Jeecg综合工具，tomcat-memshell，点击更新检查即可更新
+2024年07月20日17:01分：修复问题如下
+1、下载java8安装失败问题，目前下载后台已经修复可以下载安装成功了
+2、修复下载安装完成后点击没有反应解决方法卸载重新下载，工具名称有：通达OA利用工具、webshell生成工具、Nacos利用工具、ThinkPHP综合工具、ThinkPHP利用莲花、漏洞集合工具
+```
+
 ## 🔧 工具介绍
 
 该工具专为运维和安全检查和学习研究设计，类似于软件商城，可以实现工具下载、更新，并提供自动化安装脚本。对于信息安全专业的学生而言，不用担心工具无法正常运行配置，提升学生学习效率。
