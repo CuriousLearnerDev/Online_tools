@@ -11,12 +11,10 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 - 0.11.1 版本：
   - 夸克网盘：https://pan.quark.cn/s/51ff0477e7ca 提取码：K76N
 
-#### 🛠 工具扩展包
+#### 🛠 最近工具更新
 
-- 工具列表：[全工具列表](https://github.com/CuriousLearnerDev/Online_tools/blob/master/Tools_list.md)
-
-最近工具更新
-```
+<details>
+<summary><strong>📜 最近工具更新（点击展开）</strong></summary>
 2026年01月29日：更新：无影(TscanPlus) 3.1.7、新增：中间件/CMS/框架漏洞工具：Deswing
 2026年01月12日：新增浏览器插件 Heimdallr 新增漏洞扫描 Yscan 新增数据库利用 MySQLMonitor JS类 URLFinder
 2026年01月08日：APP工具新增：GDA、ApkCheckPack、实验环境：Frida-Labs
@@ -103,7 +101,7 @@ OA/应用漏洞：NacosExploit工具
 1、下载java8安装失败问题，目前下载后台已经修复可以下载安装成功了
 2、修复下载安装完成后点击没有反应解决方法卸载重新下载，工具名称有：通达OA利用工具、webshell生成工具、Nacos利用工具、ThinkPHP综合工具、ThinkPHP利用莲花、漏洞集合工具
 ```
-
+</details>
 ## 🔧 工具介绍
 
 该工具专为运维和安全检查和学习研究设计，类似于软件商城，可以实现工具下载、更新，并提供自动化安装脚本。对于信息安全专业的学生而言，不用担心工具无法正常运行配置，提升学生学习效率。
