@@ -188,7 +188,7 @@ HexStrike-Ai的服务端已经启动，我这边演示使用Cherry Studio
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226112545061.png)
 
-## 📦目前已集成 200+ 安全工具
+## 📦目前已集成 220+ 安全工具
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226112912454.png)
 
@@ -204,6 +204,8 @@ HexStrike-Ai的服务端已经启动，我这边演示使用Cherry Studio
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226113007304.png)
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226113017855.png)
+
+---
 
 ## ☁️  工具自定义服务器（可自由扩展）
 
@@ -234,6 +236,8 @@ storage/toollist.json
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118151845280.png)
 
+注意：中文要Unicode编码不然会报错
+
 ```json
 "VulnerabilityScanning": {  // 工具分类
     "POC-bomber": {
@@ -242,33 +246,132 @@ storage/toollist.json
         "version": "3.0.0",           // 工具版本
         "commandLine": "True",        // 是否显示命令行界面
         "official": "https://github.com/tr0uble-mAker/POC-bomber", // 官方地址
-        "introduce": "漏洞检测工具",   // 工具介绍
+        "introduce": "漏洞检测工具",   // 工具介绍 
         "r": "",                      
         "custom": ""                  // 自定义下载地址
     }
 }
 ```
 
+## AI终端实现原理
+
+hexstrike_server的源码：https://github.com/CuriousLearnerDev/Online_tools/blob/master/hexstrike_server.py
+
+###  **独立 Python 环境隔离**
+
+在storage文件夹有一个tools_config.json文件主要负责一次性加载工具箱里面的工具，程序会根据这个文件去加载
+
+我们的工具采用了 **完全隔离的 Python 3.11 运行环境**：
+
+```
+storage/
+  ├── Python311/          # 独立的 Python 3.11 环境
+  │   ├── python.exe      # 专用解释器
+  │   └── Lib/            # 独立的依赖库
+  ├── hexstrike_server.py # HexStrike AI Server
+  └── hexstrike_mcp.py    # MCP 客户端
+```
+
+**关键优势**：
+
+- ✅ 不污染系统 Python 环境
+- ✅ 避免版本冲突（工具用 Python 3.8，AI 用 Python 3.11）
+- ✅ 一键下载，自动配置
+
+### 动态端口分配机制
+
+```python
+def get_free_port():
+    """获取随机可用端口，避免 8888 端口被占用"""
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+        s.bind(('', 0))
+        return s.getsockname()[1]
+```
+
+### **PowerShell 终端集成**
+
+通过 **QProcess** 启动独立的 PowerShell 进程，实现：
+
+```python
+# 启动用户交互终端
+self.terminal_process.start("powershell.exe", [
+    "-NoLogo", 
+    "-NoExit", 
+    "-Command", 
+    "$OutputEncoding = [Console]::InputEncoding = [Console]::OutputEncoding = [System.Text.Encoding]::UTF8"
+])
+
+# 启动 HexStrike Server（后台进程）
+server_cmd = f"& '{python311_exe}' '{hexstrike_server.py}' --port {random_port}"
+self.server_process.start("powershell.exe", ["-NoLogo", "-NoExit", "-Command", server_cmd])
+```
+
+### **工具路径自动注入**
+
+通过 `tools_config.json` 配置文件，自动为 PowerShell 注入工具别名：
+
+```json
+{
+  "tools": {
+    "Sqlmap": {
+      "path": "storage/sqlmap",
+      "script": "sqlmap.py",
+      "type": "python",
+      "aliases": ["sqlmap"]
+    },
+    "Nmap": {
+      "path": "storage/nmap",
+      "executable": "nmap.exe",
+      "type": "exe",
+      "aliases": ["nmap"]
+    }
+  }
+}
+```
+
+### **生成的 PowerShell 函数**：
+
+```powershell
+function sqlmap { 
+    $o=Get-Location; 
+    cd 'D:\...\storage\sqlmap'; 
+    & 'python' 'sqlmap.py' @args; 
+    cd $o 
+}
+```
+
+这样，用户在终端中直接输入 `sqlmap -u "http://target.com"` 就能调用工具，无需手动配置路径。
+
+### **MCP 协议通信**
+
+```
+┌─────────────────┐         MCP Protocol         ┌──────────────────┐
+│  AI 客户端      │ ◄─────────────────────────► │  HexStrike Server │
+│  (hexstrike_mcp)│   (JSON-RPC over HTTP)      │  (hexstrike_server)│
+└─────────────────┘                              └──────────────────┘
+                                                          │
+                                                          │ 调用工具
+                                                          ▼
+                                                  ┌──────────────┐
+                                                  │  渗透工具集   │
+                                                  │ (Nmap/Sqlmap) │
+                                                  └──────────────┘
+```
+
+**通信流程**：
+
+1. AI 客户端发送自然语言指令
+2. HexStrike Server 解析指令，生成工具调用命令
+3. Server 执行命令并返回结果
+4. AI 分析结果，提供下一步建议
+
+
+
 ## 兼容老版本
 
 如果已经下载使用老版本，下载新版本解压覆盖即可
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118162356877.png)
-
-
-
-## 🔮 后续AI计划（可能！）
-
-后续计划可能会加入 **AI 自动化调度能力**：通过编写 MCP 调用Gemini-cli 或其他模型规划，并调用工具箱里所有可通过命令行运行的工具，实现批量自动化扫描。由于图形化工具无法被 AI 直接控制，目前只能调用终端类工具，这部分能力可能略显**鸡肋**，整体实现效果暂时不算理想，但仍会持续探索更好的方式。
-
-MCP 示例
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118191347044.png)
-
-Gemini-cli + MCP 调用
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118191452702.png)
-
 
 ### 🧩 问题与交流交流群
 
