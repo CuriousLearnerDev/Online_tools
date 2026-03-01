@@ -16,6 +16,7 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 <details>
 <summary><strong>📜 最近工具更新（点击展开）</strong></summary>
 2026年03月01日：新增加 AI 调用工具：NoSQLMap、hashid、commix、SSLScan、gau、wfuzz、patator、hexdump
+2026年03月01日：新增工具：NoSQLMap、hashid、commix、SSLScan、gau、wfuzz、patator、hexdump
 2026年02月25日：新增：rustscan、NetExec、gobuster、httpx、ApkStudio、Python311、amass、feroxbuster、ffuf、hash-identifier、ApiHunter等工具
 2026年01月29日：更新：无影(TscanPlus) 3.1.7、新增：中间件/CMS/框架漏洞工具：Deswing 新增加工具：代理抓包 NetSonar 工具 、日志分析 FastLinuxLog 工具、后渗透&C2控制&远控 -- DllShimmer 工具、子域名探测 hostscan 工具、子域名探测  Sub3suite 工具
 2026年01月12日：新增浏览器插件 Heimdallr 新增漏洞扫描 Yscan 新增数据库利用 MySQLMonitor JS类 URLFinder
