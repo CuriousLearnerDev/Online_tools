@@ -118,20 +118,21 @@ OA/应用漏洞：NacosExploit工具
 
 ---
 
-## 🆕 0.13.x更新新增
+## 🆕 0.14.x更新新增
 
 该版本界面没有做太大的更新，但后台代码改动较大，优化了部分底层逻辑。HexStrike-AI 本身不支持 Windows 系统，依赖 Linux 环境运行，通过修改HexStrike-Ai代码最终实现了windows版本。
 
 1. HexStrike AI 已经深度集成，渗透自动化
 2. 自动识别拖拽添加自定义工具
+2. 添加投稿功能
 
 ## 🎯 工具的一些比较好的优点
 
 1. **摆脱 Kali 依赖**：直接在 Windows 下运行，资源占用极低，性能损耗更小
 2. **AI 加持**：即使是新手，也能在 AI 的指引下完成专业的渗透测试流程
 3. **二开神器**：基于 HexStrike-AI 深度二次开发，专门为 Windows 用户的使用习惯进行了大量修复与优化
-4. **真正的零环境依赖**：全内置环境，用什么下载什么
-5. **批量下载与智能更新**：服务器同步 `toollist.json`，确保你的武器库永远是最新的。无论是工具版本更新，还是新增 AI 逻辑，一键检查即刻同步
+3. **真正的零环境依赖**：全内置环境，用什么下载什么
+3. **批量下载与智能更新**：服务器同步 `toollist.json`，确保你的武器库永远是最新的。无论是工具版本更新，还是新增 AI 逻辑，一键检查即刻同步
 
 ## 🗂  程序大小
 
@@ -143,7 +144,7 @@ OA/应用漏洞：NacosExploit工具
 
 注意：如果不是下载打包版，程序会检测 Python 3.11 环境，如未安装会提示下载，按照提示点击下载即可
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226101610774.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260309121352932.png)
 
 HexStrike-Ai的服务端已经启动，我这边演示使用Cherry Studio
 
@@ -190,11 +191,11 @@ HexStrike-Ai的服务端已经启动，我这边演示使用Cherry Studio
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226112545061.png)
 
-## 📦目前已集成 220+ 安全工具
+## 📦目前已集成 240 安全工具
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226112912454.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260309121052821.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226113719013.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260309121145849.png)
 
 ## 🚀 支持拖拽，极简工具箱管理
 
@@ -275,7 +276,6 @@ storage/
 ```
 
 **关键优势**：
-
 - ✅ 不污染系统 Python 环境
 - ✅ 避免版本冲突（工具用 Python 3.8，AI 用 Python 3.11）
 - ✅ 一键下载，自动配置
@@ -361,7 +361,6 @@ function sqlmap {
 ```
 
 **通信流程**：
-
 1. AI 客户端发送自然语言指令
 2. HexStrike Server 解析指令，生成工具调用命令
 3. Server 执行命令并返回结果
