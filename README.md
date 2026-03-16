@@ -15,6 +15,10 @@ GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
 
 <details>
 <summary><strong>📜 最近工具更新（点击展开）</strong></summary>
+2026年03月16日：新增工具：TomcatScanPro(关根投稿).、Zenmap(GUI)（gy投稿）、nmap更新到7.98
+2026年03月12日：新增工具：Venom.、WG-Win-Check.、ChiXiao、Notice
+2026年03月03日：新增工具：subjack、hakrawler、jaeles、masscan
+2026年03月03日：新增加 AI 调用工具：subjack、hakrawler、jaeles、masscan
 2026年03月01日：新增加 AI 调用工具：NoSQLMap、hashid、commix、SSLScan、gau、wfuzz、patator、hexdump
 2026年03月01日：新增工具：NoSQLMap、hashid、commix、SSLScan、gau、wfuzz、patator、hexdump
 2026年02月25日：新增：rustscan、NetExec、gobuster、httpx、ApkStudio、Python311、amass、feroxbuster、ffuf、hash-identifier、ApiHunter等工具
