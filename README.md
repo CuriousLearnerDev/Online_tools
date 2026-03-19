@@ -1,8 +1,3 @@
-### 🛡️ TrafficEye 护网工具 ：https://github.com/CuriousLearnerDev/TrafficEye
-
-### 部分工具为了解决依赖问题sqlmap、masscan等几十个二进制exe版项目地址：https://github.com/CuriousLearnerDev/Hacker-BinPack
-
-------
 
 ### 📦 下载方式
 
