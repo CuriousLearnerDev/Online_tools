@@ -6,14 +6,13 @@
 
 ### 📦 下载方式
 
-#### 🔗 所有版本地址：
+#### 🔗 官方发布页
 
-GitHub Releases：https://github.com/CuriousLearnerDev/Online_tools/releases
+- **GitHub Releases**：https://github.com/CuriousLearnerDev/Online_tools/releases
 
+#### ✅ 全功能打包版 (0.13.1)
 
-#### ✅ 全打包版：
-- 0.13.1 版本：
-  - 夸克网盘：链接：https://pan.quark.cn/s/0183ea645e15 提取码：BCHj
+- **夸克网盘**：链接：https://pan.quark.cn/s/0183ea645e15 提取码：BCHj
 
 #### 🛠 最近工具更新
 
