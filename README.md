@@ -5,9 +5,9 @@
 
 - **GitHub Releases**：https://github.com/CuriousLearnerDev/Online_tools/releases
 
-#### ✅ 全功能打包版 (0.13.1)
+#### ✅ 全功能打包版 (0.14.1)
 
-- **夸克网盘**：链接：https://pan.quark.cn/s/0183ea645e15 提取码：BCHj
+- **夸克网盘**：链接：https://pan.quark.cn/s/afa4cb530388 提取码：uky1
 
 ------
 
