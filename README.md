@@ -15,6 +15,8 @@
 
 <details>
 <summary><strong>📜 最近工具更新（点击展开）</strong></summary>
+2026年03月20日：新增工具：爆破&编解码ToolsFx（starmarks投稿） 、后渗透&C2控制&远程：MobaXterm（starmarks投稿）
+2026年03月19日：新增工具：FLUX-Webscan(网友投稿).、PKAV_HTTP_Fuzzer（starmraks投稿）
 2026年03月16日：新增工具：TomcatScanPro(关根投稿).、Zenmap(GUI)（gy投稿）、nmap更新到7.98
 2026年03月12日：新增工具：Venom.、WG-Win-Check.、ChiXiao、Notice
 2026年03月03日：新增工具：subjack、hakrawler、jaeles、masscan
