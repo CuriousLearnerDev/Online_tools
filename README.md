@@ -217,7 +217,7 @@ HexStrike-Ai的服务端已经启动，我这边演示使用Cherry Studio
 
 ## 📦目前已集成 240 安全工具
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260309121052821.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260329184647469.png)
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260309121145849.png)
 
