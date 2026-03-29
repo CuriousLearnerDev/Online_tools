@@ -15,6 +15,9 @@
 
 <details>
 <summary><strong>📜 最近工具更新（点击展开）</strong></summary>
+2026年03月29日：新增工具：中间件/CMS/框架漏：UploadRanger、端口扫描Toposcan
+2026年03月29日：更新应急响应：BlueTeamTools、漏洞扫描：FLUX-Webscan工具
+2026年03月28日：工具更新到0.15.1：1、修复工具分辨率无法保持问题2、添加自定义工具也可以分组3、增加批量更新功能4、添加ai渗透终端一键下载需要加载的工具5、搜索工具的时候不知道工具的分组，可以加一下6、添加自动化更新应用本身7、优化日志系统
 2026年03月20日：新增工具：爆破&编解码ToolsFx（starmarks投稿） 、后渗透&C2控制&远程：MobaXterm（starmarks投稿）
 2026年03月19日：新增工具：FLUX-Webscan(网友投稿).、PKAV_HTTP_Fuzzer（starmraks投稿）
 2026年03月16日：新增工具：TomcatScanPro(关根投稿).、Zenmap(GUI)（gy投稿）、nmap更新到7.98
