@@ -19,6 +19,17 @@
 
 <details>
 <summary><strong>📜 最近工具更新（点击展开）</strong></summary>
+2026年04月26日：优化AI 调用：hash-identifier、Wafw00f、POC-bomber、sqlmap、jwt_tool
+2026年04月24日：新增工具：奇安信顽固病毒专杀工具 更新：sqlamp
+2026年04月19日：新增工具：metasploit-framework、msfvenom、msfpescan、msfmachscan、msfelfscan、msfbinscan、更新：UploadRanger
+2026年04月13日：新增工具：数据库工具：sqlmap-GUI-ZN 运行环境Python313 AI相关：CC-Switch
+2026年04月12日：新增工具Ai终端：claude-code和gemini-cli 新增AI调用工具：airbase-ng、aircrack-ng、airdecap-ng、aireplay-ng、airodump-ng、airolib-ng、airserv-ng、airtun-ng、naabu、ehole、afrog、kscan、fscan、pocbomber、bettercap、volatility2、testdisk、photorec、steghide、tshark、mysql、sqlite3、checkov、Maltego
+2026年04月10日：新增工具：应急响应工具KswordARK、更新D盾
+2026年04月06日：新增工具：BurpSuite专业版2026.3、运行环境：sqlite3 、信息收集工具：Maltego  无线安全工具：bettercap、airbase-ng、aircrack-ng、Aircrack-ngGUI、airdecap-ng、aireplay-ng、airodump-ng、airolib-ng、airserv-ng、airtun-ng  抓包工具：tshark 
+2026年04月05日：新增工具：云安全工具：checkov
+2026年04月04日：新增工具：文件/内存取证：Volatility、Foremost、PhotoRec、TestDisk 隐写工具：Steghide工具
+2026年04月04日：新增CTF/取证分析大类
+2026年04月01日：新增工具：AYA、Onyx  更新：webshell生成工具
 2026年03月29日：新增工具：中间件/CMS/框架漏：UploadRanger、端口扫描Toposcan
 2026年03月29日：更新应急响应：BlueTeamTools、漏洞扫描：FLUX-Webscan工具
 2026年03月28日：工具更新到0.15.1：1、修复工具分辨率无法保持问题2、添加自定义工具也可以分组3、增加批量更新功能4、添加ai渗透终端一键下载需要加载的工具5、搜索工具的时候不知道工具的分组，可以加一下6、添加自动化更新应用本身7、优化日志系统
