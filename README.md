@@ -132,61 +132,152 @@ OA/应用漏洞：NacosExploit工具
 
 ------
 
-### 🚀 核心优势
-
-1. **摆脱Kali依赖**：直接在Windows环境下运行，资源占用极低，性能损耗更小。
-2. **AI赋能**：即使是新手，也能在AI（HexStrike-AI）的指引下，完成专业的自动化渗透测试流程。
-3. **二次开发友好**：基于HexStrike-AI深度定制，针对Windows用户习惯进行了大量优化与修复。
-4. **零环境依赖**：全内置运行环境（如Python），需要什么就下载什么，开箱即用。
-5. **智能更新**：客户端与服务端`toollist.json`同步，确保工具库永远最新。无论是工具版本更新还是新增AI逻辑，一键检查即可同步。
 
 
-## 🔧 工具介绍
+## 📦目前已集成 308 安全工具
 
-该工具专为运维和安全检查和学习研究设计，类似于软件商城，可以实现工具下载、更新，并提供自动化安装脚本。内置了HexStrike-Ai可以通过AI调用里面工具实现自动化扫描。不用担心工具无法正常运行配置，提升效率。
+每个月更新增大概4-10个工具
 
-
-集成了类型工具如下：
-
+```
 🛡️ 运维&防守工具：应急响应、内存马查杀、日志分析、流量抓包、代码审计、反编译/逆向
 🔎 信息收集工具：子域名探测、端口扫描、指纹识别、目录扫描、资源发现、信息泄露
 💥 漏洞利用工具：中间件/CMS/框架漏洞、OA/应用漏洞、Webshell管理、漏洞扫描、数据库漏洞、XSS漏洞
+🧠 综合利用工具：综合利用、爆破&编解码、后渗透&C2控制、免杀
+☁️ 云安全工具：云工具
+📱 移动端工具：APP工具、小程序工具
+📡 无线安全工具：无线工具
+🧪 取证分析工具：内存/文件取证、隐写分析、固件分析
+⚙️ 环境工具：实验环境、AI相关、运行环境
+```
 
----
+## 🔧 工具介绍
 
-## 🆕 0.15.x更新新增
+该工具专为运维和安全检查和学习研究设计，类似于软件商城，可以实现工具下载、更新，并提供自动化安装脚本。内置了NyxStrike/HexStrike 社区版 可以通过AI调用里面工具实现自动化扫描。不用担心工具无法正常运行配置，提升效率。
 
-该版本界面没有做太大的更新，但后台代码改动较大，优化了部分底层逻辑。HexStrike-AI 本身不支持 Windows 系统，依赖 Linux 环境运行，通过修改HexStrike-Ai代码最终实现了windows版本。
-1、修复工具分辨率无法保持问题
-2、添加自定义工具也可以分组
-3、增加批量更新功能
-4、添加ai渗透终端一键下载需要加载的工具
-5、搜索工具的时候不知道工具的分组，可以加一下
-6、添加自动化更新应用本身
-7、优化日志系统
-8. HexStrike AI 已经深度集成，渗透自动化
-9. 自动识别拖拽添加自定义工具
-10. 添加投稿功能
+## 🆕 0.16.x更新新增
 
-## 🎯 工具的一些比较好的优点
-
-1. **摆脱 Kali 依赖**：直接在 Windows 下运行，资源占用极低，性能损耗更小
-2. **AI 加持**：即使是新手，也能在 AI 的指引下完成专业的渗透测试流程
-3. **二开神器**：基于 HexStrike-AI 深度二次开发，专门为 Windows 用户的使用习惯进行了大量修复与优化
-3. **真正的零环境依赖**：全内置环境，用什么下载什么
-3. **批量下载与智能更新**：服务器同步 `toollist.json`，确保你的武器库永远是最新的。无论是工具版本更新，还是新增 AI 逻辑，一键检查即刻同步
+1. 优化性能
+2. 界面优化
+3. AI修改增加NyxStrike/HexStrike 社区版
+4. 增加批量更新功能
+5. 添加ai渗透终端一键下载需要加载的工具
+6. 搜索工具的时候不知道工具的分组，可以加一下
 
 ## 🗂  程序大小
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226113932298.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429175137623.png)
 
-## 🖥️ 集成 AI 渗透助手
+## 🖥️  AI调用界面
 
-目前 AI 已集成数十个常用安全工具，后面你们可以通过点击更新获取最新版AI工具集成配置文件，已支持自动化调用浏览器进行访问与探测
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429172821462.png)
 
-注意：如果不是下载打包版，程序会检测 Python 3.11 环境，如未安装会提示下载，按照提示点击下载即可
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429172750180.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260309121352932.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173321136.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173209942.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173259311.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173149876.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173131988.png)
+
+## 🖥️ 工具界面
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173512733.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173537481.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429175012661.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173601638.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173624420.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173758014.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173812882.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429174831352.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173836029.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173855677.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429174803547.png)
+
+## AI调用使用和相关问题
+
+目前AI调用建议使用高级点的模型，调用可能会出现发送指令质量很差例如下：
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180241082.png)
+
+后面你们可以通过点击更新获取最新版AI工具集成配置文件，已支持自动化调用浏览器进行访问与探测
+
+目前 AI 已集成如下：
+
+```
+ • NC 工具
+ • Nmap
+ • Subfinder
+ • Nuclei
+ • Ffuf
+ • Hydra
+ • Sqlmap
+ • Hash-identifier
+ • Dirsearch
+ • JWT-Tool
+ • Rustscan
+ • NetExec
+ • Katana
+ • Dalfox
+ • Wafw00f
+ • Gobuster
+ • Amass
+ • Httpx
+ • NoSQLMap
+ • hashid
+ • commix
+ • SSLScan
+ • gau
+ • wfuzz
+ • subjack
+ • hakrawler
+ • jaeles
+ • masscan
+ • patator
+ • hexdump
+ • airbase-ng
+ • aircrack-ng
+ • airdecap-ng
+ • aireplay-ng
+ • airodump-ng
+ • airolib-ng
+ • airserv-ng
+ • airtun-ng
+ • naabu
+ • ehole
+ • afrog
+ • kscan
+ • fscan
+ • pocbomber
+ • bettercap
+ • volatility2
+ • testdisk
+ • photorec
+ • steghide
+ • tshark
+ • mysql
+ • msfconsole
+ • msfvenom
+ • sqlite3
+ • checkov
+ • Maltego
+ • Python38
+```
+
+### MCP配置调用
 
 HexStrike-Ai的服务端已经启动，我这边演示使用Cherry Studio
 
@@ -196,50 +287,332 @@ HexStrike-Ai的服务端已经启动，我这边演示使用Cherry Studio
 
 复制添加进去
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226101804774.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180355873.png)
 
 然后点击启动
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226101834324.png)
 
-启动成功
+比如我输入：调用mcp的帮我信息收集192.168.31.1
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226101946715.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180451524.png)
 
-开始渗透测试
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180510482.png)
 
-选择MCP服务
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180529024.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226102038562.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180544274.png)
 
-我给AI发一段：使用HexStrike AI帮我探测www.zssnp.top是什么网站。网站用的是什么框架
+### 使用AI智能体直接一键导入MCP
 
-看一下结果，探测网站已经使用了
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180709537.png)
 
-- HexStrike AI : analyze_target_intelligence
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180729982.png)
 
-- HexStrike AI : detect_technologies_ai
+### 自定义添加自己的AI工具方法如下
 
-- HexStrike AI : httpx_probe
+本文说明如何在HexStrike Community + 统领 中接入自定义工具，并支持：
 
-- HexStrike AI : browser_agent_inspect 
+- 接口调试
+- AI 调用（MCP）
+- 工具状态检测
+
+默认基于 Community 版结构
+
+#### 1. 架构与数据流（先读这段）
+
+工具接入涉及 5 个关键组件：
+
+| 模块                | 作用                                 |
+| ------------------- | ------------------------------------ |
+| `tool_registry.py`  | 工具元数据（名称 / 参数 / endpoint） |
+| `server_api/*`      | 实际工具执行逻辑（HTTP API）         |
+| `mcp_tools/*`       | 提供给 AI 的调用接口（可选）         |
+| `tools_config.json` | 工具路径 & 执行环境                  |
+| `/web-dashboard`    | 工具健康状态                         |
+
+**数据流：**
+
+```
+AI / 接口调试
+        ↓
+GET /api/tools  ← tool_registry.py
+        ↓
+POST /api/tools/<name> ← server_api
+        ↓
+子进程执行工具
+        ↓
+tools_status（健康检测）
+```
 
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226112436233.png)
+#### 2. Community 版：添加新工具（推荐按顺序做）
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226112527111.png)
+路径建议：
 
-局域网探测
+```
+server_api/vuln_scan/my_tool.py
+```
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226112545061.png)
+实例：
 
-## 📦目前已集成 240 安全工具
+```python
+from flask import Blueprint, request, jsonify
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260329184647469.png)
+api_my_tool_bp = Blueprint("api_my_tool", __name__)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260309121145849.png)
+@api_my_tool_bp.route("/api/tools/my_tool", methods=["POST"])
+def run_my_tool():
+    data = request.json
+    target = data.get("target")
 
-## 🚀 支持拖拽，极简工具箱管理
+    # 执行逻辑
+    return jsonify({
+        "success": True,
+        "stdout": "",
+        "stderr": "",
+        "return_code": 0,
+        "command": "my_tool ..."
+    })
+```
+
+如下：
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429181424257.png)
+
+注册 Blueprint：
+
+```python
+# server_api/__init__.py
+app.register_blueprint(api_my_tool_bp)
+```
+
+##### 步骤 B：写入工具目录（tool_registry.py）
+
+
+
+文件：
+
+```
+tool_registry.py
+```
+
+添加：
+
+```json
+"my_tool": {
+    "desc": "工具说明",
+    "endpoint": "/api/tools/my_tool",
+    "method": "POST",
+    "category": "web_vuln",
+    "params": {
+        "target": {"required": true}
+    },
+    "optional": {
+        "additional_args": ""
+    },
+    "effectiveness": 0.85
+}
+```
+
+说明
+
+- `params` → 接口调试必填项
+- `optional` → 可选参数默认值
+- `category` → 必须与现有分类一致
+
+代码实例：
+
+```json
+"afrog": {
+    "desc": "Afrog PoC vulnerability scanner (CVE/CNVD, default creds, leaks, RCE, etc.)",
+    "endpoint": "/api/tools/afrog",
+    "method": "POST",
+    "category": "web_vuln",
+    "params": {"target": {"required": True}},
+    "optional": {
+        "severity": "",
+        "search": "",
+        "rate_limit": 0,
+        "concurrency": 0,
+        "proxy": "",
+        "port_scan": False,
+        "ports": "",
+        "skip_host_discovery": False,
+        "output_html": "",
+        "output_json": "",
+        "silent": False,
+        "additional_args": "",
+    },
+    "effectiveness": 0.92,
+}
+```
+
+#####
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429181215191.png)
+
+
+
+##### 步骤 C：健康检查 / 接口调试「已安装」
+
+接口调试用 GET /api/tools 与 GET /web-dashboard 的 tools_status 求交集
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429181506132.png)
+
+接口调试只显示：
+
+```python
+tools_status[name] == true
+```
+
+1、注册分类
+
+```python
+# server_core/tool_constants.py
+HEALTH_TOOL_CATEGORIES["web_vuln"].append("my_tool")
+```
+
+2、自定义检测（非 PATH 工具）
+
+如果是：
+
+```python
+python my_tool.py
+```
+
+需要修改：
+
+```python
+server_api/ops/system_monitoring.py
+```
+
+添加 probe 逻辑，否则检测不到
+
+
+
+##### 步骤 D（可选）：MCP
+
+路径：
+
+```
+mcp_tools/vuln_scan/my_tool.py
+```
+
+示例：
+
+```python
+def register_my_tool(mcp, client, logger):
+    @mcp.tool()
+    def my_tool(target: str):
+        return client.safe_post("/api/tools/my_tool", {
+            "target": target
+        })
+```
+
+注册：
+
+```
+# mcp_core/tool_profiles.py
+```
+
+#### 3. 统领：storage/tools_config.json
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429181607508.png)
+
+统领启动 Server 时会把各工具的 path 拼进 Path，子进程继承 os.environ
+
+建议为可执行工具，例如：
+
+```json
+"my_tool": {
+    "path": "storage/my_tool",
+    "executable": "my_tool.exe",
+    "type": "exe",
+    "aliases": ["my_tool"]
+}
+```
+
+例如：
+
+```json
+"fscan": {
+    "path": "storage/fscan",
+    "executable": "fscan.exe",
+    "type": "exe",
+    "aliases": [
+        "fscan"
+    ]
+}
+```
+
+#### 4. Python 脚本类工具（易踩坑）
+
+```
+1、工作目录（cwd）：很多脚本依赖相对路径加载 POC/配置，请在 subprocess.Popen 中设置 cwd=脚本所在目录，命令行用 python pocbomber.py 这类形式，避免只改「绝对路径」仍扫不到资源。参考 server_api/vuln_scan/pocbomber.py
+
+2、解释器： 统领已通过 Path 注入 storage/Python38 等目录；子进程应 env=os.environ（或默认继承），不要在未必要时写死长绝对路径，除非你明确要覆盖（如环境变量 POCBOMBER_PYTHON）
+
+3、Windows 与编码：需要时指定 encoding="utf-8", errors="replace"，必要时 stdin=subprocess.DEVNULL，避免挂起或乱码
+```
+
+#### 5. 单体服务 storage/hexstrike_server.py（若使用）
+
+如果使用单文件服务：
+
+```python
+@app.route("/api/tools/my_tool", methods=["POST"])
+def run():
+    ...
+```
+
+要求：
+
+- tool_registry 可访问
+- tools_status 格式一致
+
+#### 6. 自检清单
+
+必须全部满足：
+
+-  POST `/api/tools/my_tool` 正常返回
+-  GET `/api/tools` 能看到工具
+-  `/web-dashboard` 中 tools_status = true
+-  tools_config.json 路径正确
+-  （可选）MCP 可调用
+
+
+#### 7. 添加的接口调用调试
+
+根据你定义的窗口功能，输入目标，下面是输出的修改
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429182033375.png)
+
+查看执行的日志
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429182151077.png)
+
+## 工具基本使用
+
+### 点击下载
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429175529782.png)
+
+### 点击更新
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429175612630.png)
+
+### 点击即可打开工具
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429175729325.png)
+
+### 工具投稿
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429175752230.png)
+
+
+
+###  支持拖拽，极简工具箱管理
 
 不再需要修改配置文件
 
@@ -250,9 +623,9 @@ HexStrike-Ai的服务端已经启动，我这边演示使用Cherry Studio
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226113017855.png)
 
----
 
-## ☁️  工具自定义服务器（可自由扩展）
+
+### 工具自定义服务器（可自由扩展）
 
 如果你有自己的服务器，可以将工具包自行上传，让平台从你的私有服务器下载，实现私有化部署。
 
@@ -270,151 +643,14 @@ storage/toollist.json
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118123820355.png)
 
-## 📣 自定义工具格式（可自由扩展）
-
-配置文件说明：
-
-- `storage/pluginlist.json`：存储选项卡设置、插件信息、图标配置等
-- `storage/toollist.json`：存储所有工具的名称、版本等详细信息
-
-例如：toollist.json文件
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118151845280.png)
-
-注意：中文要Unicode编码不然会报错
-
-```json
-"VulnerabilityScanning": {  // 工具分类
-    "POC-bomber": {
-        "position": [1,70],           // 可选，兼容老版本的位置信息
-        "environment": "Python38",    // 运行环境要求
-        "version": "3.0.0",           // 工具版本
-        "commandLine": "True",        // 是否显示命令行界面
-        "official": "https://github.com/tr0uble-mAker/POC-bomber", // 官方地址
-        "introduce": "漏洞检测工具",   // 工具介绍 
-        "r": "",                      
-        "custom": ""                  // 自定义下载地址
-    }
-}
-```
-
-## AI终端实现原理
-
-hexstrike_server的源码：https://github.com/CuriousLearnerDev/Online_tools/blob/master/hexstrike_server.py
-
-###  **独立 Python 环境隔离**
-
-在storage文件夹有一个tools_config.json文件主要负责一次性加载工具箱里面的工具，程序会根据这个文件去加载
-
-我们的工具采用了 **完全隔离的 Python 3.11 运行环境**：
-
-```
-storage/
-  ├── Python311/          # 独立的 Python 3.11 环境
-  │   ├── python.exe      # 专用解释器
-  │   └── Lib/            # 独立的依赖库
-  ├── hexstrike_server.py # HexStrike AI Server
-  └── hexstrike_mcp.py    # MCP 客户端
-```
-
-**关键优势**：
-- ✅ 不污染系统 Python 环境
-- ✅ 避免版本冲突（工具用 Python 3.8，AI 用 Python 3.11）
-- ✅ 一键下载，自动配置
-
-### 动态端口分配机制
-
-```python
-def get_free_port():
-    """获取随机可用端口，避免 8888 端口被占用"""
-    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-        s.bind(('', 0))
-        return s.getsockname()[1]
-```
-
-### **PowerShell 终端集成**
-
-通过 **QProcess** 启动独立的 PowerShell 进程，实现：
-
-```python
-# 启动用户交互终端
-self.terminal_process.start("powershell.exe", [
-    "-NoLogo", 
-    "-NoExit", 
-    "-Command", 
-    "$OutputEncoding = [Console]::InputEncoding = [Console]::OutputEncoding = [System.Text.Encoding]::UTF8"
-])
-
-# 启动 HexStrike Server（后台进程）
-server_cmd = f"& '{python311_exe}' '{hexstrike_server.py}' --port {random_port}"
-self.server_process.start("powershell.exe", ["-NoLogo", "-NoExit", "-Command", server_cmd])
-```
-
-### **工具路径自动注入**
-
-通过 `tools_config.json` 配置文件，自动为 PowerShell 注入工具别名：
-
-```json
-{
-  "tools": {
-    "Sqlmap": {
-      "path": "storage/sqlmap",
-      "script": "sqlmap.py",
-      "type": "python",
-      "aliases": ["sqlmap"]
-    },
-    "Nmap": {
-      "path": "storage/nmap",
-      "executable": "nmap.exe",
-      "type": "exe",
-      "aliases": ["nmap"]
-    }
-  }
-}
-```
-
-### **生成的 PowerShell 函数**：
-
-```powershell
-function sqlmap { 
-    $o=Get-Location; 
-    cd 'D:\...\storage\sqlmap'; 
-    & 'python' 'sqlmap.py' @args; 
-    cd $o 
-}
-```
-
-这样，用户在终端中直接输入 `sqlmap -u "http://target.com"` 就能调用工具，无需手动配置路径。
-
-### **MCP 协议通信**
-
-```
-┌─────────────────┐         MCP Protocol         ┌──────────────────┐
-│  AI 客户端      │ ◄─────────────────────────► │  HexStrike Server │
-│  (hexstrike_mcp)│   (JSON-RPC over HTTP)      │  (hexstrike_server)│
-└─────────────────┘                              └──────────────────┘
-                                                          │
-                                                          │ 调用工具
-                                                          ▼
-                                                  ┌──────────────┐
-                                                  │  渗透工具集   │
-                                                  │ (Nmap/Sqlmap) │
-                                                  └──────────────┘
-```
-
-**通信流程**：
-1. AI 客户端发送自然语言指令
-2. HexStrike Server 解析指令，生成工具调用命令
-3. Server 执行命令并返回结果
-4. AI 分析结果，提供下一步建议
-
-
 
 ## 兼容老版本
 
 如果已经下载使用老版本，下载新版本解压覆盖即可
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118162356877.png)
+
+---
 
 ### 🧩 问题与交流交流群
 
