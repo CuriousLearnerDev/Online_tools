@@ -9,6 +9,7 @@
 
 - **夸克网盘**：链接：https://pan.quark.cn/s/b16227a8fbb6 提取码：FsXJ
   
+
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260428153327383.png)
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260428153404990.png)
@@ -152,36 +153,48 @@ OA/应用漏洞：NacosExploit工具
 
 ## 🔧 工具介绍
 
-该工具专为运维和安全检查和学习研究设计，类似于软件商城，可以实现工具下载、更新，并提供自动化安装脚本。内置了NyxStrike/HexStrike 社区版 可以通过AI调用里面工具实现自动化扫描。不用担心工具无法正常运行配置，提升效率。
+该工具专为运维和安全检查和学习研究设计，类似于软件商城，可以实现工具下载、更新，并提供自动化安装脚本。内置了Claude Web 终端、NyxStrike/HexStrike 社区版 可以通过AI调用里面工具实现自动化扫描。不用担心工具无法正常运行配置，提升效率。
 
-## 🆕 0.16.x更新新增
+## 🆕 0.17.x更新新增
 
-1. 优化性能
-2. 界面优化
-3. AI修改增加NyxStrike/HexStrike 社区版
-4. 增加批量更新功能
-5. 添加ai渗透终端一键下载需要加载的工具
-6. 搜索工具的时候不知道工具的分组，可以加一下
+1. 从GUI端换成了WEB端
+2. 可以同时多平台协作数据同步
+3. web端支持手机和PC
+4. 一键切换模型
+5. Web API（供前端与扩展）
+6. HexStrike 内嵌
+
+在详细更新可以往下：
 
 ## 🗂  程序大小
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429175137623.png)
+文件压缩的大小
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260706132435643.png)
 
 ## 🖥️  AI调用界面
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429172821462.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260706132830128.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429172750180.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260706132803484.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173321136.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/20260706133816_392_8.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173209942.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/20260706134321_396_81.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173259311.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173149876.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173131988.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260706133106968.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260706133135238.png)
+
+![result](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/result.png)
+
+
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260706134510791.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260706134551633.png)
 
 ## 🖥️ 工具界面
 
@@ -208,12 +221,6 @@ OA/应用漏洞：NacosExploit工具
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429174803547.png)
 
 ## AI调用使用和相关问题
-
-目前AI调用建议使用高级点的模型，调用可能会出现发送指令质量很差例如下：
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180241082.png)
-
-后面你们可以通过点击更新获取最新版AI工具集成配置文件，已支持自动化调用浏览器进行访问与探测
 
 目前 AI 已集成如下：
 
@@ -277,39 +284,7 @@ OA/应用漏洞：NacosExploit工具
  • Python38
 ```
 
-### MCP配置调用
-
-HexStrike-Ai的服务端已经启动，我这边演示使用Cherry Studio
-
-添加MCP服务
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226101645405.png)
-
-复制添加进去
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180355873.png)
-
-然后点击启动
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226101834324.png)
-
-比如我输入：调用mcp的帮我信息收集192.168.31.1
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180451524.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180510482.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180529024.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180544274.png)
-
-### 使用AI智能体直接一键导入MCP
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180709537.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429180729982.png)
-
-### 自定义添加自己的AI工具方法如下
+### 自定义MCP添加自己的AI工具方法如下
 
 本文说明如何在HexStrike Community + 统领 中接入自定义工具，并支持：
 
@@ -581,17 +556,6 @@ def run():
 -  tools_config.json 路径正确
 -  （可选）MCP 可调用
 
-
-#### 7. 添加的接口调用调试
-
-根据你定义的窗口功能，输入目标，下面是输出的修改
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429182033375.png)
-
-查看执行的日志
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429182151077.png)
-
 ## 工具基本使用
 
 ### 点击下载
@@ -654,7 +618,7 @@ storage/toollist.json
 
 ### 🧩 问题与交流交流群
 
-<img src="https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20250725161624253.png" width="200"/>
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260706131833363.png)
 
 
 
