@@ -12,7 +12,9 @@
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260428153327383.png)
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260428153404990.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260706133106968.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/20260706133816_392_8.png)
 
 ------
 
@@ -20,6 +22,13 @@
 
 <details>
 <summary><strong>📜 最近工具更新（点击展开）</strong></summary>
+2026年07月07日：更新：统领17.0版本、新增小程序NextWQ工具
+2026年06月18日：更新：CC-Switch3.16.3 、Skill1.1
+2026年06月01日：新增工具小程序逆向工具e0e1-wx、JS逆向工具AI_JS_DEBUGGER
+2026年05月28日：更新工具ApolloFish
+2026年05月11日：统领0.16.7版本发布，更新工具ApiHunter、无影
+2026年05月06日：优化hexstrike-ai-community、更新中国蚁剑2.1.16、新增工具OpenHare、JSFinder
+2026年04月27日：主源服务器速度优化
 2026年04月26日：优化AI 调用：hash-identifier、Wafw00f、POC-bomber、sqlmap、jwt_tool
 2026年04月24日：新增工具：奇安信顽固病毒专杀工具 更新：sqlamp
 2026年04月19日：新增工具：metasploit-framework、msfvenom、msfpescan、msfmachscan、msfelfscan、msfbinscan、更新：UploadRanger
