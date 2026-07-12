@@ -22,7 +22,6 @@
 
 <details>
 <summary><strong>📜 最近工具更新（点击展开）</strong></summary>
-
 2026年04月26日：优化AI 调用：hash-identifier、Wafw00f、POC-bomber、sqlmap、jwt_tool
 2026年04月24日：新增工具：奇安信顽固病毒专杀工具 更新：sqlamp
 2026年04月19日：新增工具：metasploit-framework、msfvenom、msfpescan、msfmachscan、msfelfscan、msfbinscan、更新：UploadRanger
