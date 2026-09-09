@@ -14,134 +14,6 @@
 
 ------
 
-#### 🛠 最近工具更新
-
-<details>
-<summary><strong>📜 最近工具更新（点击展开）</strong></summary>
-2026年07月22日：更新：统领17.9版本 新增：密桥 工具
-2026年07月12日：更新：afrog 3.5.3 、nuclei 3.11.0 新增 nps
-2026年07月07日：更新：统领17.0版本、新增小程序NextWQ工具
-2026年06月18日：更新：CC-Switch3.16.3 、Skill1.1
-2026年06月01日：新增工具小程序逆向工具e0e1-wx、JS逆向工具AI_JS_DEBUGGER
-2026年05月28日：更新工具ApolloFish
-2026年05月11日：统领0.16.7版本发布，更新工具ApiHunter、无影
-2026年05月06日：优化hexstrike-ai-community、更新中国蚁剑2.1.16、新增工具OpenHare、JSFinder
-2026年04月26日：优化AI 调用：hash-identifier、Wafw00f、POC-bomber、sqlmap、jwt_tool
-2026年04月24日：新增工具：奇安信顽固病毒专杀工具 更新：sqlamp
-2026年04月19日：新增工具：metasploit-framework、msfvenom、msfpescan、msfmachscan、msfelfscan、msfbinscan、更新：UploadRanger
-2026年04月13日：新增工具：数据库工具：sqlmap-GUI-ZN 运行环境Python313 AI相关：CC-Switch
-2026年04月12日：新增工具Ai终端：claude-code和gemini-cli 新增AI调用工具：airbase-ng、aircrack-ng、airdecap-ng、aireplay-ng、airodump-ng、airolib-ng、airserv-ng、airtun-ng、naabu、ehole、afrog、kscan、fscan、pocbomber、bettercap、volatility2、testdisk、photorec、steghide、tshark、mysql、sqlite3、checkov、Maltego
-2026年04月10日：新增工具：应急响应工具KswordARK、更新D盾
-2026年04月06日：新增工具：BurpSuite专业版2026.3、运行环境：sqlite3 、信息收集工具：Maltego  无线安全工具：bettercap、airbase-ng、aircrack-ng、Aircrack-ngGUI、airdecap-ng、aireplay-ng、airodump-ng、airolib-ng、airserv-ng、airtun-ng  抓包工具：tshark 
-2026年04月05日：新增工具：云安全工具：checkov
-2026年04月04日：新增工具：文件/内存取证：Volatility、Foremost、PhotoRec、TestDisk 隐写工具：Steghide工具
-2026年04月04日：新增CTF/取证分析大类
-2026年04月01日：新增工具：AYA、Onyx  更新：webshell生成工具
-2026年03月29日：新增工具：中间件/CMS/框架漏：UploadRanger、端口扫描Toposcan
-2026年03月29日：更新应急响应：BlueTeamTools、漏洞扫描：FLUX-Webscan工具
-2026年03月28日：工具更新到0.15.1：1、修复工具分辨率无法保持问题2、添加自定义工具也可以分组3、增加批量更新功能4、添加ai渗透终端一键下载需要加载的工具5、搜索工具的时候不知道工具的分组，可以加一下6、添加自动化更新应用本身7、优化日志系统
-2026年03月20日：新增工具：爆破&编解码ToolsFx（starmarks投稿） 、后渗透&C2控制&远程：MobaXterm（starmarks投稿）
-2026年03月19日：新增工具：FLUX-Webscan(网友投稿).、PKAV_HTTP_Fuzzer（starmraks投稿）
-2026年03月16日：新增工具：TomcatScanPro(关根投稿).、Zenmap(GUI)（gy投稿）、nmap更新到7.98
-2026年03月12日：新增工具：Venom.、WG-Win-Check.、ChiXiao、Notice
-2026年03月03日：新增工具：subjack、hakrawler、jaeles、masscan
-2026年03月03日：新增加 AI 调用工具：subjack、hakrawler、jaeles、masscan
-2026年03月01日：新增加 AI 调用工具：NoSQLMap、hashid、commix、SSLScan、gau、wfuzz、patator、hexdump
-2026年03月01日：新增工具：NoSQLMap、hashid、commix、SSLScan、gau、wfuzz、patator、hexdump
-2026年02月25日：新增：rustscan、NetExec、gobuster、httpx、ApkStudio、Python311、amass、feroxbuster、ffuf、hash-identifier、ApiHunter等工具
-2026年01月29日：更新：无影(TscanPlus) 3.1.7、新增：中间件/CMS/框架漏洞工具：Deswing 新增加工具：代理抓包 NetSonar 工具 、日志分析 FastLinuxLog 工具、后渗透&C2控制&远控 -- DllShimmer 工具、子域名探测 hostscan 工具、子域名探测  Sub3suite 工具
-2026年01月12日：新增浏览器插件 Heimdallr 新增漏洞扫描 Yscan 新增数据库利用 MySQLMonitor JS类 URLFinder
-2026年01月08日：APP工具新增：GDA、ApkCheckPack、实验环境：Frida-Labs
-2025年12月31日：综合利用工具：Slack 浏览器插件：SnowEyes  BP插件：CloudX、Rinte.7z 新增抓包工具：ProxyBridge、HttpCanary
-2025年12月30日：新增综合利用工具：DudeSuite
-2025年12月10日：新增中间件/CMS/框架漏：Vue框架未授权接口扫描工具.7z、 Jenkins漏洞利用工具 OA/应用工具：I-Wanna-Get-All 云渗透：aksk_tool、lc   burp插件：AutorizePro
-2025年12月03日：更新：统领0.12.1版本、
-2025年11月29日：新增：APP渗透：akptool
-2025年11月24日：新增：中间件/CMS/框架漏：Java-Chains、免杀：java-memshell-generator
-2025年11月21日：新增：BurpSuite专业版2025.9、优化认证服务器：优化了认证系统看看现在下载认证速度飞快
-2025年11月16日：新增浏览器插件：VueCrack 工具更新 无影(TscanPlus) 3.0.7、afrog 3.2.3、yakit 1.4.5.115、Naabu 2.3.6
-2025年11月14日：新增漏洞扫描工具：API-Explorer、kscan 中间件/CMS/框架漏洞工具：ysoserial 代理抓包工具：Frpc-Desktop 综合利用工具：DecryptTools
-2025年11月11日：服务器优化修复加载下载等报错问题
-2025年09月25日：更新：无影(TscanPlus) 3.0.0版本
-2025年09月23日：新增目录扫描工具：7kbscan JS泄露工具：Rotor-Goddess
-2025年09月09日：新增密码爆破：Railgun 
-2025年09月08日：更新：无影(TscanPlus) 2.9.9版本、 Naabu 2.3.5版本、 nuclei 3.4.10版本、 afrog 3.2.0版本
-2025年09月08日：密码爆破：jwt_tool
-2025年09月04日：新增端中间件/CMS/框架漏洞扫描工具：SpringBoot-Scan
-2025年08月16日：新增端口扫描：dddd 内存马查杀工具：MemShellGene
-2025年08月01日：更新：Struts2 v19.68、subfinder v2.8.0、fscan v2.0.1、Naabu v2.3.5
-2025年07月31日：更新：BlueTeamTools v3.26、afrog v3.1.8、无影(TscanPlus) v2.9.5、gogo v2.14.0
-2025年07月25日：更新：TrafficEye v0.0.8.9-2
-2025年07月15日：修复下载流量购买秘钥
-2025年06月28日：新增：淮橘代码审计工具 v2.0
-2025年06月25日：更新：无影(TscanPlus) v2.9.0 、 gogo v2.13.8 、 密探v1.2.3
-2025年06月11日：新增端口扫描：Allin 密码爆破工具：jwt_gui 指纹识别工具：p1finger
-2025年05月22日：新增信息泄露工具：heapdump_tool 插件BurpSuite：OneScan
-2025年05月16日：新增日志分析工具：TrafficEye、代码审计工具：StarCodeSecurity
-2025年04月25日：新增其他信息收集工具：Fine v2.4.3
-2025年04月10日：更新：BlueTeamTools v1.43、afrog v3.1.7、无影(TscanPlus) v2.7.2、密探v1.2.2
-2025年02月27日：更新：无影(TscanPlus) v2.7.2、fscan v2.0.0、DnsX v1.2.2、naabu v2.3.4、Nuclei v2.3.4、Search_Viewer v4.2
-2025年02月25日：新漏洞扫描工具 scaninfo
-2025年01月29日：新增信息收集-资产发现工具：ENScan_GO
-2025年01月17日：更新：无影(TscanPlus) v2.6.9、gogo v2.13.6、subfinder v2.6.8 、nuclei v3.3.8、afrog v3.1.5
-2025年01月06日：更新：反编译/逆向工具：jadx-gui
-2024年12月26日：更新：无影(TscanPlus) v2.6.7
-2024年12月20日：新增BURP插件：DetSql1.7
-2024年12月12日：新增浏览器插件：Wappalyzer6.10.76
-2024年12月11日：新增漏洞扫描工具： Wavely（推荐人：远方）
-2024年12月11日：更新：密探v1.17 、无影(TscanPlus) v2.6.3、afrog v3.1.3、nucleiv3.3.7
-2024年12月08日：新增综合利用工具： miscan（推荐人：ANy）
-2024年12月01日：新增Webshell管理器：EtherGhost （推荐人：ANy）
-024年11月24日：更新nc、sqlmap、360星图、subfinder、nmap使用文档
-2024年11月22日：新增工具：dirsx、SqlmapXPlus、sqlmap-gui
-2024年11月15日22.00：更新afrogv3.1.2、gogo2.13.5
-2024年11月10日22.00：插件工具：KillWxapkg
-2024年11月10日19.00：插件新增：xia_Yue，NEW_xp_CAPTCHA，xia_Liao，Jython，burpsuite_hack，Jython
-2024年11月10日11.19: 更新afrogv3.0.9，Nacos利用工具，漏洞集合工具hyacinth，gogo，工具 无影(TscanPlus)，BlueTeamTools ，dalfox，dalfox，dalfox，subfinder
-2024年09月29日08.02: 新增burp插件，TsojanScan  
-2024年09月27日14.02：更新工具，EZ，yakit，DudeSuite Web Security Tools  
-2024年09月18日10.00：工具新增：常用工具：EZ工具  
-2024年09月13日15.00：工具新增：目录扫描工具：备份文件扫描  
-OA/应用漏洞工具：若依综合漏洞、若依漏洞工具
-2024年09月07日21.10：工具新增：
-OA/应用漏洞：海康威视综合漏洞
-2024年09月07日21.00：发布0.7.7版本：
-- 修复部分线程崩溃问题
-- 美化部分功能界面
-- 添加插件是否下载判断
-2024年08月28日23.00：工具新增：
-OA/应用漏洞：NacosExploit工具
-2024年08月20日10.21：工具新增：
-信息收集指纹识别工具：hfinger
-数据库利用工具：MDUT(优化版)
-2024年08月10日12.21：工具新增：
-谷歌浏览器插件：FindSomething2.0.18、ProxySwitchyOmega
-应急响应工具：Procmon(官方版)
-流量分析工具：360星图、FullEventLogView、LogParser、APT-Hunter
-2024年08月04日20.30：新增工具：应急响应工具FindAll
-2024年07月29日20.02：新增工具：漏洞扫描工具-xpoc、点击更新检查即可更新
-2024年07月29日12.12：新增插件：爆破字典-实战沉淀字典、点击更新检查即可更新
-2024年07月27日12.12：修复更修复BlueTeamTools版本更新问题修复方法、点击更新检查即可更新
-2024年07月27日11.30：修复更新功能、点击更新检查即可更新
-2024年07月25日18.30分新增：
-1、端口扫描工具：gogo
-2、OA扫描工具：红蓝对抗重点OA
-3、插件burpsuite插件：Log4j2Scan、FastjsonScan_bp2024年07月23日16.54分新增常用工具无影(TscanPlus)、点击更新检查即可更新2024年07月21日12.57分新增内存马查杀工具cop、点击更新检查即可更新
-2024年07月21日11:25分新增信息收集工具密探工具、点击更新检查即可更新
-2024年07月21日11:22分修复Code-audit工具下载，用户修复方式点击更新检查即可更新
-2024年07月20日23:19分修复下载失败或者下载安装失败问题工具Seay、Wireshark、BlueTeamTools、Fofax等工具
-2024年07月20日17:25分新增工具：Jeecg综合工具，tomcat-memshell，点击更新检查即可更新
-2024年07月20日17:01分：修复问题如下
-1、下载java8安装失败问题，目前下载后台已经修复可以下载安装成功了
-2、修复下载安装完成后点击没有反应解决方法卸载重新下载，工具名称有：通达OA利用工具、webshell生成工具、Nacos利用工具、ThinkPHP综合工具、ThinkPHP利用莲花、漏洞集合工具
-```
-</details>
-```
-
-
-------
-
-
 
 ## 📦目前已集成 322 安全工具
 
@@ -165,13 +37,18 @@ OA/应用漏洞：NacosExploit工具
 
 ## 🆕 0.17.x更新新增
 
-1. 从GUI端换成了WEB端
-2. 可以同时多平台协作数据同步
-3. web端支持手机和PC
-4. 一键切换模型
-5. Web API（供前端与扩展）
-6. HexStrike 内嵌
-6. web漏洞库、指纹库远程社交软件交互
+1. AI 智能体：七个引擎Claude Code、OpenCode、Gemini CLI、Codewhale、Hermes、Codex、Cursor CLI
+2. 漏洞库 6.8万+ 指纹库 1800+
+3. 工具 300+ 插件 30+ 导航 180+
+4. kill 40+
+5. 新增AI拦截器
+6. 修复AI智能体bug
+7. 新增mpc
+8.增量漏洞库
+9. 可以监控服务器ai监控
+10. 设置增加：缩放、高度设置
+11. 终端复制功能
+12. AI 文件夹显示优化
 
 在详细更新可以往下：
 
@@ -181,483 +58,555 @@ OA/应用漏洞：NacosExploit工具
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260712202053947.png)
 
-## 🖥️  AI调用界面
-
-![image-20260712195912353](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260712195912353.png)
-
-### 手机端展示：
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/20260706133816_392_8.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/20260706134321_396_81.png)
-
-### PC端展示：
-![img](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260715140930749.png)
-
-![img](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260715140908177.png)
-
-![img](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260715140844479.png)
-
-![img](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260715141024448.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260712200100407.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260712200121041.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260712200225786.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260712200240311.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260712200315783.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260712200337907.png)
-
-
-![result](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/result.png)
-
-
-
-## 🖥️ 工具界面
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260712195445090.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260712195524211.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173624420.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173758014.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260712200610336.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260712200631289.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173836029.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429173855677.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260712200656277.png)
-
-## AI调用使用和相关问题
-
-目前 AI 已集成如下：
-
-```
- • NC 工具
- • Nmap
- • Subfinder
- • Nuclei
- • Ffuf
- • Hydra
- • Sqlmap
- • Hash-identifier
- • Dirsearch
- • JWT-Tool
- • Rustscan
- • NetExec
- • Katana
- • Dalfox
- • Wafw00f
- • Gobuster
- • Amass
- • Httpx
- • NoSQLMap
- • hashid
- • commix
- • SSLScan
- • gau
- • wfuzz
- • subjack
- • hakrawler
- • jaeles
- • masscan
- • patator
- • hexdump
- • airbase-ng
- • aircrack-ng
- • airdecap-ng
- • aireplay-ng
- • airodump-ng
- • airolib-ng
- • airserv-ng
- • airtun-ng
- • naabu
- • ehole
- • afrog
- • kscan
- • fscan
- • pocbomber
- • bettercap
- • volatility2
- • testdisk
- • photorec
- • steghide
- • tshark
- • mysql
- • msfconsole
- • msfvenom
- • sqlite3
- • checkov
- • Maltego
- • Python38
-```
-
-### 自定义MCP添加自己的AI工具方法如下
-
-本文说明如何在HexStrike Community + 统领 中接入自定义工具，并支持：
-
-- 接口调试
-- AI 调用（MCP）
-- 工具状态检测
-
-默认基于 Community 版结构
-
-#### 1. 架构与数据流（先读这段）
-
-工具接入涉及 5 个关键组件：
-
-| 模块                | 作用                                 |
-| ------------------- | ------------------------------------ |
-| `tool_registry.py`  | 工具元数据（名称 / 参数 / endpoint） |
-| `server_api/*`      | 实际工具执行逻辑（HTTP API）         |
-| `mcp_tools/*`       | 提供给 AI 的调用接口（可选）         |
-| `tools_config.json` | 工具路径 & 执行环境                  |
-| `/web-dashboard`    | 工具健康状态                         |
-
-**数据流：**
-
-```
-AI / 接口调试
-        ↓
-GET /api/tools  ← tool_registry.py
-        ↓
-POST /api/tools/<name> ← server_api
-        ↓
-子进程执行工具
-        ↓
-tools_status（健康检测）
-```
-
-
-#### 2. Community 版：添加新工具（推荐按顺序做）
-
-路径建议：
-
-```
-server_api/vuln_scan/my_tool.py
-```
-
-实例：
-
-```python
-from flask import Blueprint, request, jsonify
-
-api_my_tool_bp = Blueprint("api_my_tool", __name__)
-
-@api_my_tool_bp.route("/api/tools/my_tool", methods=["POST"])
-def run_my_tool():
-    data = request.json
-    target = data.get("target")
-
-    # 执行逻辑
-    return jsonify({
-        "success": True,
-        "stdout": "",
-        "stderr": "",
-        "return_code": 0,
-        "command": "my_tool ..."
-    })
-```
-
-如下：
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429181424257.png)
-
-注册 Blueprint：
-
-```python
-# server_api/__init__.py
-app.register_blueprint(api_my_tool_bp)
-```
-
-##### 步骤 B：写入工具目录（tool_registry.py）
-
-
-
-文件：
-
-```
-tool_registry.py
-```
-
-添加：
-
-```json
-"my_tool": {
-    "desc": "工具说明",
-    "endpoint": "/api/tools/my_tool",
-    "method": "POST",
-    "category": "web_vuln",
-    "params": {
-        "target": {"required": true}
-    },
-    "optional": {
-        "additional_args": ""
-    },
-    "effectiveness": 0.85
-}
-```
-
-说明
-
-- `params` → 接口调试必填项
-- `optional` → 可选参数默认值
-- `category` → 必须与现有分类一致
-
-代码实例：
-
-```json
-"afrog": {
-    "desc": "Afrog PoC vulnerability scanner (CVE/CNVD, default creds, leaks, RCE, etc.)",
-    "endpoint": "/api/tools/afrog",
-    "method": "POST",
-    "category": "web_vuln",
-    "params": {"target": {"required": True}},
-    "optional": {
-        "severity": "",
-        "search": "",
-        "rate_limit": 0,
-        "concurrency": 0,
-        "proxy": "",
-        "port_scan": False,
-        "ports": "",
-        "skip_host_discovery": False,
-        "output_html": "",
-        "output_json": "",
-        "silent": False,
-        "additional_args": "",
-    },
-    "effectiveness": 0.92,
-}
-```
-
-#####
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429181215191.png)
-
-
-
-##### 步骤 C：健康检查 / 接口调试「已安装」
-
-接口调试用 GET /api/tools 与 GET /web-dashboard 的 tools_status 求交集
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429181506132.png)
-
-接口调试只显示：
-
-```python
-tools_status[name] == true
-```
-
-1、注册分类
-
-```python
-# server_core/tool_constants.py
-HEALTH_TOOL_CATEGORIES["web_vuln"].append("my_tool")
-```
-
-2、自定义检测（非 PATH 工具）
-
-如果是：
-
-```python
-python my_tool.py
-```
-
-需要修改：
-
-```python
-server_api/ops/system_monitoring.py
-```
-
-添加 probe 逻辑，否则检测不到
-
-
-
-##### 步骤 D（可选）：MCP
-
-路径：
-
-```
-mcp_tools/vuln_scan/my_tool.py
-```
-
-示例：
-
-```python
-def register_my_tool(mcp, client, logger):
-    @mcp.tool()
-    def my_tool(target: str):
-        return client.safe_post("/api/tools/my_tool", {
-            "target": target
-        })
-```
-
-注册：
-
-```
-# mcp_core/tool_profiles.py
-```
-
-#### 3. 统领：storage/tools_config.json
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429181607508.png)
-
-统领启动 Server 时会把各工具的 path 拼进 Path，子进程继承 os.environ
-
-建议为可执行工具，例如：
-
-```json
-"my_tool": {
-    "path": "storage/my_tool",
-    "executable": "my_tool.exe",
-    "type": "exe",
-    "aliases": ["my_tool"]
-}
-```
-
-例如：
-
-```json
-"fscan": {
-    "path": "storage/fscan",
-    "executable": "fscan.exe",
-    "type": "exe",
-    "aliases": [
-        "fscan"
-    ]
-}
-```
-
-#### 4. Python 脚本类工具（易踩坑）
-
-```
-1、工作目录（cwd）：很多脚本依赖相对路径加载 POC/配置，请在 subprocess.Popen 中设置 cwd=脚本所在目录，命令行用 python pocbomber.py 这类形式，避免只改「绝对路径」仍扫不到资源。参考 server_api/vuln_scan/pocbomber.py
-
-2、解释器： 统领已通过 Path 注入 storage/Python38 等目录；子进程应 env=os.environ（或默认继承），不要在未必要时写死长绝对路径，除非你明确要覆盖（如环境变量 POCBOMBER_PYTHON）
-
-3、Windows 与编码：需要时指定 encoding="utf-8", errors="replace"，必要时 stdin=subprocess.DEVNULL，避免挂起或乱码
-```
-
-#### 5. 单体服务 storage/hexstrike_server.py（若使用）
-
-如果使用单文件服务：
-
-```python
-@app.route("/api/tools/my_tool", methods=["POST"])
-def run():
-    ...
-```
-
-要求：
-
-- tool_registry 可访问
-- tools_status 格式一致
-
-#### 6. 自检清单
-
-必须全部满足：
-
--  POST `/api/tools/my_tool` 正常返回
--  GET `/api/tools` 能看到工具
--  `/web-dashboard` 中 tools_status = true
--  tools_config.json 路径正确
--  （可选）MCP 可调用
-
-## 工具基本使用
-
-### 点击下载
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429175529782.png)
-
-### 点击更新
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429175612630.png)
-
-### 点击即可打开工具
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429175729325.png)
-
-### 工具投稿
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260429175752230.png)
-
-
-
-###  支持拖拽，极简工具箱管理
-
-不再需要修改配置文件
-
-- **自定义工具**：支持拖拽文件直接添加新工具
-- **灵活配置**：一键修改工具参数、图标和运行环境
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226113007304.png)
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260226113017855.png)
-
-
-
-### 工具自定义服务器（可自由扩展）
-
-如果你有自己的服务器，可以将工具包自行上传，让平台从你的私有服务器下载，实现私有化部署。
-
-配置文件路径：
-
-```
-storage/toollist.json
-```
-
-其中有一个 `custom` 字段，只需把你的工具包 URL 填进去即可
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118124006578.png)
-
-📌 **注意：服务器中的文件夹名称必须与工具名一致**，否则无法识别
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118123820355.png)
-
-
-## 兼容老版本
-
-如果已经下载使用老版本，下载新版本解压覆盖即可
-
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20251118162356877.png)
+# 统领 使用手册
+
+> **统领** — 安全工具箱 · AI 智能体 · 漏洞库
+> 适用对象：安全研究人员、渗透测试工程师、CTF 选手及**获得授权**的安全测试人员
+> 适用版本：Windows 
 
 ---
 
-### 🧩 问题与交流交流群
+## 目录
 
-![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260706131833363.png)
+1. [统领是什么]
+2. [电脑配置要求]
+3. [界面说明]
+4. [武器库]
+5. [自定义工具]
+6. [AI 智能体]
+7. [漏洞库]
+8. [投稿箱]
+9. [讨论大会]
+10. [监控]
+11. [设置]
+12. [数据存放位置]
+13. [常见问题]
+14. [免责声明]
 
+---
 
+## 1. 统领是什么
 
+统领是一款 **Windows 桌面安全工具箱**，把日常渗透测试、漏洞研究常用的能力集中在一个程序里，主要包含：
 
-### 🙏 鸣谢
-特别感谢以下团队与信息安全研究者对工具技术的支持与推荐（排名不分先后）：
+| 模块 | 能做什么 |
+|------|----------|
+| **武器库** | 浏览、下载、安装、一键启动数300+款安全工具（每月更新3-9个工具） |
+| **插件库** | 管理 Burp、Cobalt Strike（CS）等平台的扩展插件 |
+| **AI 智能体** | 多引擎 AI 渗透终端，辅助分析与自动化 |
+| **漏洞库** | 统一检索 Nuclei 模板、Afrog POC、Exploit-DB 等 |
+| **社区** | 投稿新工具、论坛讨论、公告、GitHub 版本监控 |
+| **导航站** | 常用安全网站书签 |
 
-- 天启实验室
-- 法克安全
-- Pings
-- 成都第一深情
-- 还原设置
-- 夜梓月
-- SY
-- 平平无奇的水蜜桃
-- 火柬
-- 向
-- st.ANGER
-- 远方
-- start
-- 默（提供了自定义拖拽的添加想法）
-- Dream.Running（bug问题提供AI运行加载临时文件报错）
+统领为绿色便携版：解压后即可使用，无需安装到系统目录。工具、配置、日志等数据都保存在程序旁边的 `storage` 文件夹中，方便备份与迁移
+
+---
+
+## 2. 电脑配置要求
+
+| 项目 | 建议 |
+|------|------|
+| 系统 | **Windows 10 / 11**（64 位） |
+| 内存 | 4 GB 及以上；使用 AI 智能体建议 **6 GB** |
+| 硬盘 | 视下载工具数量而定，建议预留 **20 GB 以上** 空闲空间 |
+
+---
+
+## 3. 界面说明
+
+程序顶部为选项卡栏，各选项卡功能如下：
+
+| 选项卡 | 功能 |
+| ------ | ---- |
+| **武器库** | 下载、安装、启动安全工具 |
+| **插件库** | Burp 等插件扩展 |
+| **AI智能体** | AI 渗透终端工作台 |
+| **漏洞库** | POC 搜索与详情 |
+| **投稿箱** | 向社区投稿新工具 |
+| **讨论大会** | 论坛交流、工具排行榜 |
+| **导航站** | 安全网站书签 |
+| **公告栏** | 官方公告 |
+| **监控** | GitHub 工具版本监控、AI 运行日志 |
+| **设置页** | 主题、启动器、下载源等 |
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260903223835778.png)
+
+### 显示模式
+
+武器库界面支持三种显示模式，可在 **设置 → 功能设置 → 显示模式** 中切换：
+
+| 模式 | 界面特点 |
+| ---- | -------- |
+| **分类** | 按工具类型分栏，左侧树形导航 |
+| **全显** | 不折叠分类，一屏展示更多工具卡片 |
+| **搜索模式** | 类似启动器：快捷键唤起，输入即搜、回车即开 |
+
+#### 分类模式
+
+默认即为分类模式
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907125449501.png)
+
+#### 全显模式
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907125424352.png)
+
+#### 搜索模式（启动器）
+
+搜索模式类似系统启动器：按下快捷键即可唤起，输入即搜、回车即开。唤起搜索的快捷键可在 **设置** 中修改：
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907125005249.png)
+
+切换成启动模式后，它会变成一个很小的搜索框，不使用时会自动消失：
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907125254229.png)
+
+搜索模式用法：
+
+- 按 **Alt + D** 直接进入便捷搜索模式
+- 面板可贴边收起为悬浮球，需要时再点开
+- 在搜索框或悬浮球上 **右键** 可切换分类 / 全显显示方式
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907124830000.png)
+
+搜索漏洞需先启动 AI 智能体服务，因为漏洞库的漏洞数据由 AI 智能体提供：
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907125233858.png)
+
+启动相关的分类等设置可在 **设置** 中调整：
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907125921907.png)
+
+---
+
+## 4. 武器库
+
+| 功能 | 说明 |
+| ---- | ---- |
+| 批量下载 | 按场景一键勾选、批量安装或更新工具 |
+| 检查更新 | 同步工具列表、检测统领程序与工具是否有新版本 |
+| ＋（自定义工具） | 把本机已有的 exe、脚本加入武器库 |
+| 下载队列 | 查看正在下载的任务与解压进度 |
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260903224040847.png)
+
+打开武器库后，每个工具都自带执行说明。例如点击启动 **POC-bomber**，界面会给出运行方式：
+
+```
+***********************POC-bomber**********************
+
+使用:  ..\Python38\python.exe pocbomber.py -h [参数]
+
+"******************************************************
+```
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907123236505.png)
+
+点击工具即可开始下载：
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907121311580.png)
+
+如果工具依赖运行环境，下载完成后，工具图标会提示「下载运行环境」：
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907123742008.png)
+
+注意：未安装所需运行环境的工具可能无法运行。若没有提示，可到「运行环境」中自行下载：
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907123618612.png)
+
+> 运行环境说明：内置的 Python、Java 等运行环境相互独立，不会添加或修改本机已有的运行环境，只服务于统领内置工具
+
+支持批量下载与更新：
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907121421594.png)
+
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907121435242.png)
+
+想查看武器库是否新增了工具、统领本身是否有更新，可点击「更新检测」：
+
+![image-20260907122831967](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907122831967.png)
+
+![image-20260907122811847](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907122811847.png)
+
+---
+
+## 5. 自定义工具
+
+适合添加统领武器库中没有、但本机已有的程序：
+
+1. 点击武器库右上角 **＋**，或在武器库空白处右键
+2. 选择「添加工具」，填写名称、路径、分类等信息
+3. 也可以新建自定义分类，方便归类管理
+
+支持 `.exe`、`.bat`、`.cmd`、`.py`、`.jar`、快捷方式等格式：
+
+![image-20260907123933309](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907123933309.png)
+
+---
+
+## 6. AI 智能体
+
+AI 智能体将多种 AI 终端与渗透工具集成到一起，支持 Claude Code、Hermes、OpenCode、Codex、Gemini CLI、Cursor CLI 等多种引擎。
+
+首次使用 AI 智能体与漏洞库前，需要先下载以下组件（会自动保存到 `storage` 目录）：
+
+| 组件 | 用途 |
+| ---- | ---- |
+| Python 3.11 | AI 运行环境 |
+| Claude Code | AI 引擎 |
+| HexStrike 引擎 | 渗透编排核心 |
+| HFinger | 指纹识别 |
+| NPS | 内网穿透 |
+| Hermes | 辅助组件 |
+| OpenCode / Codex / Gemini CLI / Cursor CLI | 多种 AI 引擎 |
+| Nuclei Templates | 漏洞模板（供漏洞库使用） |
+| Afrog POCs | POC 库（供漏洞库使用） |
+| Exploit-DB | 漏洞利用库（供漏洞库使用） |
+
+下载对话框中提供「下载全部可下载项（含可选引擎）」与「跳过」两个选项（跳过后部分功能不可用）。
+
+进入 **AI 智能体** 后，顶栏和底栏会默认收起，把屏幕留给终端。需要切换其他页面时，点击页面内的 **展开** 按钮即可恢复完整界面。
+
+点击「AI 智能体」选项卡：
+
+![image-20260907110402829](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907110402829.png)
+
+目前支持多种智能体，如 Claude Code、Hermes、OpenCode、Codex、Gemini CLI、Cursor CLI：
+
+![image-20260907095842755](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907095842755.png)
+
+如果想在浏览器中打开该界面，可点击「浏览器打开」：
+
+![image-20260907105906246](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907105906246.png)
+
+点击后会自动跳转到浏览器。
+
+也可以切换成「桌面工作台」模式，远程访问时就像操作一个电脑桌面：
+
+![image-20260907110056232](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907110056232.png)
+
+支持同时启动多个窗口显示：
+
+![image-20260907105944579](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907105944579.png)
+
+![image-20260907113950188](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907113950188.png)
+
+手机网页访问效果：
+
+![img](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/20260706133816_392_8.png)
+
+![img](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/20260706134321_396_81.png)
+
+支持回滚查看历史访问记录：
+
+- 可快速进入之前的历史会话
+- 支持删除历史会话
+
+![image-20260907095917437](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907095917437.png)
+
+### AI 配置
+
+点击这里可添加新的 API 配置：
+
+![image-20260907095946501](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907095946501.png)
+
+![image-20260904101814156](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260904101814156.png)
+
+如果想查看对应智能体的相关配置文件，可点击这里：
+
+![image-20260907100022833](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907100022833.png)
+
+![image-20260907100041294](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907100041294.png)
+
+### 修改默认智能体的启动方式
+
+支持设置以下项：
+
+- 开场第一句话
+- 开场提示模板（提示词）
+- 网络代理（可选）
+- 工作目录
+- 高级配置
+- 额外命令参数
+- 自定义整行命令
+- 是否默认全部 yes（免回车）
+
+![image-20260907100119513](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907100119513.png)
+
+如需切换项目目录，可点击选择按钮自行切换：
+
+![image-20260907100215825](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907100215825.png)
+
+如果想使用你自己系统里的智能体，可以在「命令执行」中编辑。例如想运行本机的 Claude，需要先找到它的位置，我电脑上的路径是 `C:\Users\zss\AppData\Roaming\npm\claude.cmd`：
+
+![image-20260907101405026](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907101405026.png)
+
+### 流量过滤器（拦截器）
+
+目前最多可开启三层过滤：
+
+规则过滤 → AI 审核 → 全流量记录
+
+![image-20260903224657746](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260903224657746.png)
+
+**1. 规则拦截**
+
+过滤内容：智能体工具调用时发出的命令 / 参数 / URL（包括 `curl -X DELETE`、`http_request`、改密接口、危险正则等）：
+
+![image-20260904103311054](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260904103311054.png)
+
+**2. AI 拦截**
+
+- 不送审：只读 GET、普通扫描探测（read / probe），以及 MITM 出站流量
+- 会送审的示例：`curl -X POST/PUT/PATCH/DELETE`、改密码、删库、写配置等
+
+![image-20260904103532126](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260904103532126.png)
+
+**3. 全流量记录**
+
+会记录完整的请求与响应流量，包括与大模型的交互流量等：
+
+![image-20260904103709052](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260904103709052.png)
+
+### 智能体交互分析
+
+该功能专门用于 AI 智能体研究，可以抓包分析 Claude 的交互过程。
+
+例如想分析 AI 智能体的执行逻辑，可启动监听（注意：抓包前需要先安装证书）：
+
+![image-20260907102157607](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907102157607.png)
+
+我让它执行「帮我查询一下当前系统有没有 curl 命令」：
+
+![image-20260905191822338](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260905191822338.png)
+
+看起来它好像本来就知道，其实并非如此。通过抓包我发现，为了回答这句话，它一共发送了 3 次 HTTP 请求：
+
+| 第几次 | 用途 | 返回 |
+| ------ | ---- | ---- |
+| 第 1 次 | 为新会话生成标题 | `{"title":"系统curl命令"}` |
+| 第 2 次 | 真正的对话请求 | 一个要调用 PowerShell 的意图 |
+| 第 3 次 | 把命令执行结果回填 | 最终的回答 |
+
+![image-20260905194412266](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260905194412266.png)
+
+还原对话时，如果内容过多可能会被截取（主要是为了避免界面卡顿，后续会进一步优化该功能）。
+
+如果想查看原始内容，可点击「原文」和「帧」：
+
+![image-20260907102724252](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907102724252.png)
+
+![image-20260907102739838](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907102739838.png)
+
+### 扫描结果图谱
+
+Claude 会话分析会读取 Claude Code 落盘的会话文件，只抽取类似扫描的工具调用，再绘制成攻击链：
+
+![image-20260907104959889](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907104959889.png)
+
+![image-20260907104456432](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907104456432.png)
+
+![image-20260907104906063](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907104906063.png)
+
+### 快速报告生成
+
+需要生成报告时，点击下面这个按钮，可让 AI 快速生成测试报告并放入扫描报告目录：
+
+![image-20260904104224316](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260904104224316.png)
+
+点击「生成报告」，实际就是向 AI 智能体发送一条生成报告的指令，其中包含生成位置和格式：
+
+![image-20260907105243875](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907105243875.png)
+
+下面是我生成报告的效果：
+
+![image-20260903224740439](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260903224740439.png)
+
+支持导出 PDF 与 Markdown（.md）格式：
+
+![image-20260907105553349](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907105553349.png)
+
+![image-20260907105528557](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907105528557.png)
+
+### 文件管理器
+
+该功能主要面向把统领部署到服务器、通过公网网页访问的场景，支持文件预览、修改、上传等常见文件操作：
+
+![image-20260903224856115](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260903224856115.png)
+
+工作台端展示：
+
+![image-20260907114136256](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907114136256.png)
+
+### 技能 Skill
+
+说实话这个功能意义不大，导入测试后并未明显提高工作效率。
+
+目前常见开源 Skill 已内置，点击「导入」即可使用。
+
+注意：如果报错，可能是对应的文件夹或文件不存在，手动创建即可。
+
+![image-20260903224950175](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260903224950175.png)
+
+### MCP 连接
+
+可自行选择并导入想用的 MCP 服务：
+
+![image-20260903225035358](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260903225035358.png)
+
+### 指纹库
+
+本地 HFinger 指纹以 JSON 形式保存，统领启动时加载到内存，供搜索与 MCP 扫描使用：
+
+![image-20260907115408279](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907115408279.png)
+
+### 社交接入
+
+目前支持 Telegram、钉钉、QQ 等请求接入到终端。由于这个功能我用得不多，可能存在较多问题，后期若有相关反馈，我会及时修复：
+
+![image-20260713113029751](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260713113029751.png)
+
+### 内网穿透
+
+该功能用于在普通家庭网络环境下，把本地端口映射到公网，方便从外部访问并调用智能体。
+
+使用的穿透工具为 NPS，可自行下载服务端搭建使用：
+
+![image-20260907120147052](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907120147052.png)
+
+![image-20260907115840495](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907115840495.png)
+
+### AI 页设置
+
+这里可以导入字典位置，方便工具调用时使用（该功能基于二开的 HexStrike-AI），此外还有一些其他设置：
+
+![image-20260907120227079](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907120227079.png)
+
+---
+
+## 7. 漏洞库
+
+漏洞库基于 AI 智能体的接口，把 Nuclei 模板、Afrog POC、Exploit-DB 等内容汇总到一起，方便按关键词、CVE、产品名检索 POC 与 EXP。添加这个选项卡，正是为了方便查找漏洞的 POC / EXP。
+
+使用漏洞库前需满足以下条件：
+
+1. AI 智能体服务已启动（漏洞库依赖 AI 服务）
+2. 已完成 AI「必下载项」中与 POC 相关的三项
+3. 已在 AI 智能体页执行过「同步漏洞库 POC」
+
+![image-20260907115317015](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907115317015.png)
+
+![image-20260903224132224](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260903224132224.png)
+
+![image-20260903224210367](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260903224210367.png)
+
+---
+
+## 8. 投稿箱
+
+如果发现好用的安全工具，希望纳入统领武器库，可通过 **投稿箱** 提交。界面比较直观，简单说明一下：
+
+- 投稿列表会显示 **待审核 / 已通过 / 已拒绝** 等状态，点击可查看详情
+- 审核结果一般会发送到你填写的邮箱
+
+![image-20260907124303857](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907124303857.png)
+
+需要填写的内容：
+
+- 工具名称、开发者、版本、类型
+- 下载地址、官方主页、源码地址
+- 运行环境（Windows/Linux 等）、GUI 或命令行
+- 安装说明、工具简介
+- 你的昵称、联系方式
+- 图形验证码
+
+---
+
+## 9. 讨论大会
+
+统领内置社区论坛，用于交流使用经验、反馈问题。
+
+该功能目前仍处于测试阶段，如有问题欢迎多反馈。
+
+---
+
+## 10. 监控
+
+监控页有两个标签：**GitHub 监控** 和 **AI 日志**。
+
+### GitHub 监控
+
+自动对比武器库中的工具与其 GitHub 仓库的最新 Release（该检测由服务器端的自动化脚本完成，结果仅供参考）：
+
+| 状态 | 含义 |
+| ---- | ---- |
+| 已最新 | 本地版本与远程一致或更新 |
+| 可能更新 | 远程可能有新版本 |
+| 检测失败 | 网络或仓库访问异常 |
+
+可按状态筛选列表。发现可更新的工具后，可到武器库或「检查更新」中升级：
+
+![image-20260907124534104](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907124534104.png)
+
+### AI 日志
+
+查看 AI 智能体相关的运行日志。服务端有一个自动更新的 AI Agent，便于排查终端会话、服务启动等问题：
+
+![image-20260907124724484](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907124724484.png)
+
+---
+
+## 11. 设置
+
+打开顶栏 **设置页**，左侧可切换不同的设置分类：
+
+| 设置项 | 说明 |
+| ------ | ---- |
+| 显示模式 | 分类 / 全显 / 搜索模式 |
+| UI 主题 | 暗色（Mocha）/ 亮色（Light） |
+| 界面缩放 | 75%～150%，适应不同分辨率 |
+| 主窗口大小 | 默认约 1650×900，可自定义 |
+| 武器库布局 | 图标大小、间距、每排数量、默认排序 |
+| 下载浮窗 | 是否显示、是否默认展开 |
+| **关闭全部外网请求** | 开启后认证、下载、更新、公告、外链均不访问外网（仅本机功能可用，适合 HW / 隔离环境） |
+
+![image-20260907125530263](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907125530263.png)
+
+其中「关闭全部外网请求」是一个独立的开关。之所以提供该选项，是因为拉取更新、获取公告等操作可能触发安全设备的告警，建议在 HW 等环境开启。开启后，程序将完全处于离线状态：
+
+![image-20260907125610759](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20260907125610759.png)
+
+**搜索模式** 的快捷键、悬浮球等用法见[界面说明](#3-界面说明)。首次使用时的 **新手引导** 中也有三种模式的示意图，可先预览再选择。
+
+---
+
+## 12. 数据存放位置
+
+统领为绿色便携软件，用户数据与下载内容主要保存在 **程序目录旁的 `storage` 文件夹**：
+
+```
+├── main.exe
+├── resources/              ← 程序本体，请勿手动修改
+├── storage/                ← 你的数据都在这里
+│   ├── （各安全工具安装目录）
+│   ├── nuclei-templates/   ← 漏洞模板
+│   ├── afrog-pocs/
+│   ├── exploitdb/
+│   ├── 配置文件、日志等
+│   └── …
+└── …
+```
+
+| 内容 | 位置 |
+| ---- | ---- |
+| 已下载的安全工具 | `storage` 下各工具子文件夹 |
+| 漏洞库 POC 数据 | `storage` 内对应目录 |
+| 个人设置 | 由程序自动管理，设置页底部可查看配置文件路径 |
+| 运行日志 | **设置 → 运行日志**，按日期查看 |
+
+**备份建议**：定期复制整个 `storage` 文件夹；换电脑或重装系统时，连同统领程序一起拷贝，即可恢复环境
+
+---
 
 
 ### ⚠️ 免责声明：
@@ -681,3 +630,6 @@ storage/toollist.json
 
 ✨随着时间的推移，观星者
 [![Stargazers over time](https://starchart.cc/CuriousLearnerDev/Online_tools.svg?variant=adaptive)](https://starchart.cc/CuriousLearnerDev/Online_tools)
+
+
+*本手册面向统领 Windows 便携版（exe）用户编写。界面随版本更新可能略有差异，以您使用的实际程序为准*
