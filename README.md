@@ -630,13 +630,14 @@ Claude 会话分析会读取 Claude Code 落盘的会话文件，只抽取类似
 
 ✨随着时间的推移，观星者
 
-## Star History
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=CuriousLearnerDev/Online_tools&type=date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=CuriousLearnerDev/Online_tools&type=date" />
-  <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=CuriousLearnerDev/Online_tools&type=date" />
-</picture>
+<a href="https://www.star-history.com/?repos=CuriousLearnerDev%2FOnline_tools&type=date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=CuriousLearnerDev/Online_tools&type=date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=CuriousLearnerDev/Online_tools&type=date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=CuriousLearnerDev/Online_tools&type=date" />
+  </picture>
+</a>
 
 
 *本手册面向统领 Windows 便携版（exe）用户编写。界面随版本更新可能略有差异，以您使用的实际程序为准*
