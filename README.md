@@ -35,7 +35,7 @@
 
 该工具专为运维和安全检查和学习研究设计，类似于软件商城，可以实现工具下载、更新，并提供自动化安装脚本。内置了Claude Web 终端、NyxStrike/HexStrike 社区版 可以通过AI调用里面工具实现自动化扫描。不用担心工具无法正常运行配置，提升效率。
 
-## 🆕 0.17.x更新新增
+## 🆕 1.x.x更新新增
 
 1. AI 智能体：七个引擎Claude Code、OpenCode、Gemini CLI、Codewhale、Hermes、Codex、Cursor CLI
 2. 漏洞库 6.8万+ 指纹库 1800+
